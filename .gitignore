@@ -1,0 +1,19 @@
+# Obsidian Ignore Files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# PDF & Documents
+100_Pdfs/
+
+# Mac Files
+.DS_Store
+
+# Custom AI Agent Configurations
+/.opencode/opencode.json
+/.codex/config.toml
+/.agents/mcp_config.json
+/.grok/config.toml
+
+# Superpowers
+/docs/
+/.superpowers/
