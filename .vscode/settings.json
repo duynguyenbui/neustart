@@ -1,0 +1,11 @@
+{
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 22,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.rulers": [
+        80
+    ],
+    "workbench.editor.showTabs": "single"
+}

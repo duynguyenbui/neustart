@@ -1,4 +1,4 @@
-## Following Codex Response
+## Following Response
 
 Tiếp tục task ở trên, nhưng hãy làm theo hướng này:
 

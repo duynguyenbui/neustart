@@ -1,4 +1,4 @@
-## Review Codex Prompt
+## Review Prompt
 
 ```text
 Review the current diff for bugs, regressions, edge cases, and missing tests.
