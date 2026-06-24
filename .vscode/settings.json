@@ -1,11 +1,24 @@
 {
     "editor.wordWrap": "on",
-    "editor.fontSize": 16,
-    "editor.lineHeight": 22,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 30,
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "none",
-    "editor.rulers": [
-        80
-    ],
-    "workbench.editor.showTabs": "single"
+    "editor.rulers": [],
+    "workbench.editor.showTabs": "single",
+    "editor.lineNumbers": "off",
+    "editor.glyphMargin": false,
+    "editor.renderLineHighlight": "none",
+    "editor.cursorBlinking": "smooth",
+    "editor.padding.top": 40,
+    "zenMode.centerLayout": true,
+    "editor.folding": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.wordBasedSuggestions": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.accessibilitySupport": "off"
 }
