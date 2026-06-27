@@ -1,6 +1,7 @@
 # Ôn tập Lektion 1: Kiến thức cốt lõi (Cheat Sheet)
 
-Bảng tóm tắt này giúp bạn tra cứu nhanh những kiến thức quan trọng nhất của Lektion 1.
+> [!NOTE]
+> Bảng tóm tắt này giúp bạn tra cứu nhanh những kiến thức quan trọng nhất của Lektion 1.
 
 ## 1. Mẫu câu giao tiếp thiết yếu
 
@@ -62,4 +63,5 @@ Bảng tóm tắt này giúp bạn tra cứu nhanh những kiến thức quan tr
 *   **ch** -> đọc là "kh" sau (a, o, u, au) hoặc "ch" nhẹ.
 
 ---
-*Ghi chú: Hãy mở file này bất cứ khi nào bạn quên cách đọc một từ hoặc quên mẫu câu chào hỏi nhé!*
+> [!TIP]
+> Hãy mở file này bất cứ khi nào bạn quên cách đọc một từ hoặc quên mẫu câu chào hỏi nhé!

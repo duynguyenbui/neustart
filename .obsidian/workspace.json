@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "c265be30d61e8dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3d1d495752ff29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c4131bd19cda64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Deutschkurs/Lektion 02/Lektion 02 - Ôn tập.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lektion 02 - Ôn tập"
+            }
+          },
+          {
+            "id": "6675ee8d2cca3c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 Der einfache Satz und die Verbposition"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4fe0a3fffa4a852",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9ec9d0e2d8b09c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a07bde0ca25c51c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7c3721fe104951c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "244b845caddb177a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c48a4bff26650b2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7957b2d2fbc63a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150834d1fbf49b96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 Der einfache Satz und die Verbposition"
+            }
+          },
+          {
+            "id": "e17d2f4fabaf61c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03 Der einfache Satz und die Verbposition"
+            }
+          },
+          {
+            "id": "9c36b31e9f77b212",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8af057abbcfa8a68",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9791e8c20ab86b75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03 Der einfache Satz und die Verbposition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a07bde0ca25c51c8",
+  "lastOpenFiles": [
+    "2026-06-27.md",
+    "99 Schreibübung.md",
+    "07 Aussprache/01 Buchstabe A.md",
+    "07 Aussprache/02 Buchstabe E.md",
+    "07 Aussprache/03 Umlaut Ä Ö Ü.md",
+    "07 Aussprache/04 Diphthonge.md",
+    "07 Aussprache/05 SCH CH SP ST.md",
+    "07 Aussprache/06 W V Z S.md",
+    "07 Aussprache/07 R und Endungen.md",
+    "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
+    "03 Grammatik/02 Pluralformen der Nomen.md",
+    "03 Grammatik/01 Nomen & Artikel.md",
+    "01 Alltag/2026-06-27.md",
+    "03 Grammatik/TEMPLATE.md",
+    "04 Sätze/01 Meinung äußern.md",
+    "02 Wörter/01 Personen & Begrüßung.md",
+    "02 Wörter/02 Familie.md",
+    "02 Wörter/10 Freizeit & Hobbys.md",
+    "02 Wörter/09 Verkehr & Orte.md",
+    "08 Deutschkurs/Lektion 02/Lektion 02 - Ôn tập.md",
+    "02 Wörter/08 Einkaufen & Geld.md",
+    "02 Wörter/07 Körper & Gesundheit.md",
+    "02 Wörter/06 Berufe & Arbeit.md",
+    "02 Wörter/05 Wohnen & Haus.md",
+    "08 Deutschkurs/TEMPLATE.md",
+    "08 Deutschkurs/Lektion 02/Lektion 02 - Chào Hỏi Trang Trọng & Phát Âm.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "99 Schreiben",
+    "08 Deutschkurs/Lektion 02",
+    "08 Deutschkurs/Lektion 01",
+    "08 Deutschkurs",
+    "lektion_02",
+    "lektion_01"
+  ]
+}
