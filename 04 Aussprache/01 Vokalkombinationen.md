@@ -118,7 +118,3 @@ Khi cùng một nguyên âm xuất hiện liên tiếp, âm đó được **kéo
 | **aa** | /aː/ "a dài" | Haar | tóc |
 | **ee** | /eː/ "e dài" | See | hồ |
 | **oo** | /oː/ "o dài" | Zoo | vườn thú |
-
----
-
-*⬅️ [Quay lại README](./README.md) | ➡️ [Tổ hợp phụ âm →](02%20Konsonantenkombinationen.md)*

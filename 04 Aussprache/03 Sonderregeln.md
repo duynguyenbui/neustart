@@ -133,7 +133,3 @@ Khi hai phụ âm giống nhau đứng liền nhau (`nn`, `mm`, `ll`, `tt`, `ss`
 | Đuôi **-er** | /ɐ/ | Lehrer | giáo viên |
 | Đuôi **-ig** (cuối từ) | /ɪç/ | richtig | đúng |
 | Đuôi **-tion** | /tsi̯oːn/ | Station | nhà ga |
-
----
-
-*⬅️ [Tổ hợp phụ âm ←](02%20Konsonantenkombinationen.md) | [Quay lại README](./README.md)*

@@ -134,7 +134,3 @@
 | **sp** (đầu từ) | "shp" | /ʃp/ | Sport | thể thao |
 | **st** (đầu từ) | "sht" | /ʃt/ | Straße | đường phố |
 | **pf** | "pf" kép | /pf/ | Pferd | ngựa |
-
----
-
-*⬅️ [Tổ hợp nguyên âm ←](01%20Vokalkombinationen.md) | [Quay lại README](./README.md) | ➡️ [Quy tắc đặc biệt →](03%20Sonderregeln.md)*

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7c2a4b086b5b32",
+        "id": "688982edf81be7ce",
         "type": "tabs",
         "children": [
           {
-            "id": "32b6cfa73a28f9c0",
+            "id": "022827f497453b87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 Grammatik/03 A1 - Der einfache Satz und die Verbposition.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03 A1 - Der einfache Satz und die Verbposition"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "08 Deutschkurs A1/01 Hallo! Wie geht's?/02 Übungen — Hallo! Wie geht's?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 02 Übungen — Hallo! Wie geht's?"
             }
           },
           {
@@ -178,43 +183,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "a07bde0ca25c51c8",
+  "active": "022827f497453b87",
   "lastOpenFiles": [
-    "03 Grammatik/10 A1 - Perfekt.md",
-    "04 Sätze/04 Entschuldigen & Vorschlagen.md",
-    "02 Wörter/00 A1 Wortschatz.md",
-    "03 Grammatik/11 A1 - Imperativ.md",
-    "04 Sätze/03 Gründe angeben.md",
-    "99 Schreibübung.md",
-    "04 Sätze/01 Meinung äußern.md",
-    "04 Sätze/02 Argumentieren.md",
-    "03 Grammatik/09 A1 - Modalverben.md",
-    "03 Grammatik/08 A1 - Trennbare Verben.md",
-    "03 Grammatik/02 A1 - Pluralformen der Nomen.md",
-    "03 Grammatik/01 A1 - Nomen & Artikel.md",
-    "03 Grammatik/04 A1 - Der Akkusativ.md",
-    "03 Grammatik/03 A1 - Der einfache Satz und die Verbposition.md",
-    "03 Grammatik/07 A1 - Temporale Präpositionen.md",
-    "03 Grammatik/06 A1 - Lokale Präpositionen.md",
-    "03 Grammatik/05 A1 - Der Dativ.md",
-    "08 Deutschkurs A1/TEMPLATE.md",
-    "02 Wörter/99 Notizen.md",
-    "02 Wörter/01 Personen & Begrüßung.md",
-    "02 Wörter/10 Freizeit & Hobbys.md",
+    "02 Grammatik/04 A1 - Der Akkusativ.md",
+    "02 Grammatik/03 A1 - Der einfache Satz und die Verbposition.md",
+    "2026-06-29.md",
+    "02 Grammatik/15 A1 - Verbkonjugation im Präsens.md",
     "2026-06-28.md",
-    "08 Deutschkurs A1/Lektion 03/Lektion 03 - Ghi chú.md",
-    "01 Alltag/2026-06-27.md",
-    "08 Deutschkurs A1/Lektion 03/Lektion 03 - Herkunft, Wohnort, Sprachen.md",
-    "07 Aussprache/08 R-Laut.md",
+    "05 NEC2610/01 Hallo! Wie geht's?/02 Übungen — Hallo! Wie geht's?.md",
+    "05 NEC2610/01 Hallo! Wie geht's?/01 Hallo! Wie geht's?.md",
+    "05 NEC2610/01 Hallo! Wie geht's?",
+    "05 NEC2610",
+    "08 Deutschkurs A1/01 Hallo! Wie geht's?/02 Übungen — Hallo! Wie geht's?.md",
+    "NEC2610/01 Hallo! Wie geht's?/02 Übungen — Hallo! Wie geht's?.md",
+    "NEC2610/01 Hallo! Wie geht's?/01 Hallo! Wie geht's?.md",
+    "NEC2610/01 Hallo! Wie geht's?",
+    "NEC2610",
+    "04 Aussprache/09 Z-Laut.md",
+    "04 Aussprache/04 O-Umlaut.md",
+    "04 Aussprache/08 R-Laut.md",
+    "04 Aussprache/07 Ch-Laut.md",
+    "04 Aussprache/06 A-Umlaut.md",
+    "04 Aussprache/05 U-Umlaut.md",
+    "04 Aussprache/03 Sonderregeln.md",
+    "04 Aussprache/02 Konsonantenkombinationen.md",
+    "04 Aussprache/01 Vokalkombinationen.md",
+    "04 Aussprache",
+    "03 Sätze/04 Entschuldigen & Vorschlagen.md",
+    "03 Sätze/03 Gründe angeben.md",
+    "03 Sätze/02 Argumentieren.md",
+    "03 Sätze/01 Meinung äußern.md",
+    "03 Sätze",
+    "02 Grammatik/14 A2 - Verben mit Präpositionen.md",
+    "02 Grammatik/13 A2 - Possessivartikel.md",
+    "02 Grammatik/12 A1 - Ôn Tập Tổng Hợp.md",
+    "02 Grammatik",
+    "01 Wörter",
+    "Pasted image 20260629153912.png",
+    "08 Deutschkurs A1/01 Hallo! Wie geht's?",
     "08 Deutschkurs A1/Lektion 03/Screenshot 2026-06-27 at 21.04.25.png",
     "08 Deutschkurs A1/Lektion 03",
-    "Untitled.canvas",
-    "Untitled.base",
-    "99 Schreiben",
-    "08 Deutschkurs A1/Lektion 02",
-    "08 Deutschkurs A1/Lektion 01",
-    "08 Deutschkurs A1",
-    "lektion_02",
-    "lektion_01"
+    "Untitled.canvas"
   ]
 }
