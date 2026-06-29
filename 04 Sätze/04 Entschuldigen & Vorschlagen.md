@@ -1,5 +1,3 @@
-# Mẫu Câu — Xin Lỗi & Đề Xuất (Entschuldigen & Vorschlagen)
-
 > [!NOTE]
 > Dùng chủ yếu trong **Teil 1** (thư / email) của bài thi Schreiben B1.
 

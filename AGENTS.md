@@ -7,5 +7,6 @@ This file lists the project-wide rules and guidelines for AI agents working on t
 ## Rules List
 
 - **Anti-Hallucination (CRITICAL):** @.agents/rules/anti-hallucination.md — Prevents AI hallucinations.
+- **Obsidian Environment:** @.agents/rules/remember-obsidian.md — Reminds agents this workspace is an Obsidian vault.
 
 ## Workflow List

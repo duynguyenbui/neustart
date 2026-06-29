@@ -1,5 +1,3 @@
-# Mẫu Câu — Lý Do & Nguyên Nhân (Gründe angeben)
-
 > [!NOTE]
 > Dùng để giải thích lý do trong cả **Teil 1** (thư) và **Teil 2** (ý kiến) của bài thi B1.
 

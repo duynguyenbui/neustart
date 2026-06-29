@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d1d495752ff29a",
+        "id": "0d7c2a4b086b5b32",
         "type": "tabs",
         "children": [
           {
-            "id": "39c4131bd19cda64",
+            "id": "32b6cfa73a28f9c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Deutschkurs/Lektion 02/Lektion 02 - Ôn tập.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lektion 02 - Ôn tập"
-            }
-          },
-          {
-            "id": "6675ee8d2cca3c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 Der einfache Satz und die Verbposition"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 Der einfache Satz und die Verbposition"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
+                "file": "07 Aussprache/02_Konsonantenkombinationen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 Der einfache Satz und die Verbposition"
+              "title": "Outgoing links from 02_Konsonantenkombinationen"
             }
           },
           {
@@ -171,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
+                "file": "07 Aussprache/02_Konsonantenkombinationen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 Der einfache Satz und die Verbposition"
+              "title": "Outline of 02_Konsonantenkombinationen"
             }
           }
         ]
@@ -200,38 +180,40 @@
   },
   "active": "a07bde0ca25c51c8",
   "lastOpenFiles": [
-    "2026-06-27.md",
+    "03 Grammatik/10 A1 - Perfekt.md",
+    "04 Sätze/04 Entschuldigen & Vorschlagen.md",
+    "02 Wörter/00 A1 Wortschatz.md",
+    "03 Grammatik/11 A1 - Imperativ.md",
+    "04 Sätze/03 Gründe angeben.md",
     "99 Schreibübung.md",
-    "07 Aussprache/01 Buchstabe A.md",
-    "07 Aussprache/02 Buchstabe E.md",
-    "07 Aussprache/03 Umlaut Ä Ö Ü.md",
-    "07 Aussprache/04 Diphthonge.md",
-    "07 Aussprache/05 SCH CH SP ST.md",
-    "07 Aussprache/06 W V Z S.md",
-    "07 Aussprache/07 R und Endungen.md",
-    "03 Grammatik/03 Der einfache Satz und die Verbposition.md",
-    "03 Grammatik/02 Pluralformen der Nomen.md",
-    "03 Grammatik/01 Nomen & Artikel.md",
-    "01 Alltag/2026-06-27.md",
-    "03 Grammatik/TEMPLATE.md",
     "04 Sätze/01 Meinung äußern.md",
+    "04 Sätze/02 Argumentieren.md",
+    "03 Grammatik/09 A1 - Modalverben.md",
+    "03 Grammatik/08 A1 - Trennbare Verben.md",
+    "03 Grammatik/02 A1 - Pluralformen der Nomen.md",
+    "03 Grammatik/01 A1 - Nomen & Artikel.md",
+    "03 Grammatik/04 A1 - Der Akkusativ.md",
+    "03 Grammatik/03 A1 - Der einfache Satz und die Verbposition.md",
+    "03 Grammatik/07 A1 - Temporale Präpositionen.md",
+    "03 Grammatik/06 A1 - Lokale Präpositionen.md",
+    "03 Grammatik/05 A1 - Der Dativ.md",
+    "08 Deutschkurs A1/TEMPLATE.md",
+    "02 Wörter/99 Notizen.md",
     "02 Wörter/01 Personen & Begrüßung.md",
-    "02 Wörter/02 Familie.md",
     "02 Wörter/10 Freizeit & Hobbys.md",
-    "02 Wörter/09 Verkehr & Orte.md",
-    "08 Deutschkurs/Lektion 02/Lektion 02 - Ôn tập.md",
-    "02 Wörter/08 Einkaufen & Geld.md",
-    "02 Wörter/07 Körper & Gesundheit.md",
-    "02 Wörter/06 Berufe & Arbeit.md",
-    "02 Wörter/05 Wohnen & Haus.md",
-    "08 Deutschkurs/TEMPLATE.md",
-    "08 Deutschkurs/Lektion 02/Lektion 02 - Chào Hỏi Trang Trọng & Phát Âm.md",
-    "Untitled.base",
+    "2026-06-28.md",
+    "08 Deutschkurs A1/Lektion 03/Lektion 03 - Ghi chú.md",
+    "01 Alltag/2026-06-27.md",
+    "08 Deutschkurs A1/Lektion 03/Lektion 03 - Herkunft, Wohnort, Sprachen.md",
+    "07 Aussprache/08 R-Laut.md",
+    "08 Deutschkurs A1/Lektion 03/Screenshot 2026-06-27 at 21.04.25.png",
+    "08 Deutschkurs A1/Lektion 03",
     "Untitled.canvas",
+    "Untitled.base",
     "99 Schreiben",
-    "08 Deutschkurs/Lektion 02",
-    "08 Deutschkurs/Lektion 01",
-    "08 Deutschkurs",
+    "08 Deutschkurs A1/Lektion 02",
+    "08 Deutschkurs A1/Lektion 01",
+    "08 Deutschkurs A1",
     "lektion_02",
     "lektion_01"
   ]

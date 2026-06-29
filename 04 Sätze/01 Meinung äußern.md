@@ -1,5 +1,3 @@
-# Mẫu Câu — Nêu Ý Kiến (Meinung äußern)
-
 > [!NOTE]
 > Dùng trong **Teil 2** của bài thi Schreiben B1 — bình luận / nêu ý kiến về một chủ đề.
 

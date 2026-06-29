@@ -1,5 +1,3 @@
-# Mẫu Câu — Lập Luận (Argumentieren)
-
 > [!NOTE]
 > Dùng để trình bày luận điểm có cấu trúc trong **Teil 2** bài thi Schreiben B1.
 
