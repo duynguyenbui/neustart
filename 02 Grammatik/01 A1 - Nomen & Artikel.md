@@ -116,6 +116,7 @@ Với đồ vật và khái niệm, **không có giới tính thật**, vì vậ
 - Ngày trong tuần, tháng trong năm, mùa: `der Montag` *(thứ hai)*, `der Januar` *(tháng một)*, `der Frühling` *(mùa xuân)*
   - Ngoại lệ: `das Frühjahr` *(mùa Xuân — văn phong trang trọng)*
 - Phần lớn động vật: `der Schmetterling` *(bươm bướm)*, `der Hase` *(con thỏ)*
+- Phần lớn các đơn vị tiền tệ: `der Euro` *(đồng Euro)*, `der Dollar` *(đồng Đô-la)*, `der Cent` *(đồng Xen)*, `der Yen` *(đồng Yên)*. (Ngoại lệ quan trọng: `das Pfund` *(đồng bảng)*, `die Krone` *(đồng Krone)*, `die Mark` *(đồng Mark)*).
 
 ---
 
@@ -141,6 +142,7 @@ Phần lớn danh từ kết thúc bằng **`-e`**: `die Lampe` *(cái đèn)*, 
 | Đuôi từ | Ví dụ |
 | :--- | :--- |
 | `-chen` *(dạng thu nhỏ)* | `das Mädchen` *(cô gái nhỏ)*, `das Brötchen` *(bánh mì nhỏ)* |
+| `-ma` *(hầu hết danh từ kết thúc bằng -ma)* | `das Thema` *(chủ đề)*, `das Klima` *(khí hậu)*, `das Drama` *(vở kịch)* |
 | `-ment` | `das Dokument` *(tài liệu)*, `das Medikament` *(thuốc men, dược phẩm)* |
 | `-o` | `das Auto` *(ô tô)*, `das Radio` *(đài)* |
 | `-um` | `das Studium` *(đại học, nghiên cứu)*, `das Universum` *(vũ trụ)* |

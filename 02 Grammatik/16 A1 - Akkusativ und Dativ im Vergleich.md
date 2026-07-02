@@ -30,11 +30,23 @@ aliases: [Vergleich Akkusativ und Dativ, Akkusativ và Dativ]
 
 ## 2. Bảng Tổng hợp Biến cách Mạo từ (Deklination der Artikel)
 
-Quy luật cốt lõi cần nhớ:
-* **Akkusativ:** Chỉ có **giống đực (der)** thay đổi thành **den** (đuôi **-en**).
-* **Dativ:** **Tất cả các giống** đều thay đổi (đực/trung $\rightarrow$ **dem** (đuôi **-em**), cái $\rightarrow$ **der** (đuôi **-er**), số nhiều $\rightarrow$ **den** (đuôi **-en** + danh từ thêm **-n**)).
+> [!TIP] **Mẹo nhớ nhanh biến cách:**
+> * **Akkusativ:** Nghĩ đến chữ **"ĂN"** $\rightarrow$ Chỉ giống **Đực** đổi đuôi thành **-N** (*den, einen, keinen*), các giống khác giữ nguyên.
+> * **Dativ:** Nhớ câu thần chú viết tắt **M - R - M - N** (**"Mẹ Ra Mua Nước"** hoặc **"Mê Răng Móm Nặng"**) tương ứng với đuôi của 4 giống:
+>   * **M** (Đực) $\rightarrow$ *de**m** / eine**m** / keine**m***
+>   * **R** (Cái) $\rightarrow$ *de**r** / eine**r** / keine**r***
+>   * **M** (Trung) $\rightarrow$ *de**m** / eine**m** / keine**m***
+>   * **N** (Số nhiều) $\rightarrow$ *de**n** / --- / keine**n*** (+ danh từ thêm **-n** ở cuối)
 
-### 2.1. Mạo từ Xác định (Bestimmte Artikel)
+### 2.1. Bảng Tóm tắt Tổng hợp (Mạo từ Xác định, Không xác định, Phủ định)
+
+| Cách / Giống | Đực (maskulin - *der*) | Trung (neutral - *das*) | Cái (feminin - *die*) | Số nhiều (Plural - *die*) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | der / ein / kein | das / ein / kein | die / eine / keine | die / --- / keine |
+| **Akkusativ** | <span style="color:#d9383a">**den / einen / keinen**</span> | das / ein / kein *(không đổi)* | die / eine / keine *(không đổi)* | die / --- / keine *(không đổi)* |
+| **Dativ** | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**der / einer / keiner**</span> | <span style="color:#4CAF50">**den / --- / keinen**</span> (+ danh từ thêm **-n**) |
+
+### 2.2. Mạo từ Xác định (Bestimmte Artikel)
 
 | Giống danh từ | Nominativ | Akkusativ | Dativ |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +55,7 @@ Quy luật cốt lõi cần nhớ:
 | **Cái (die)** | die Frau | die Frau *(không đổi)* | <span style="color:#2196F3">**der**</span> Frau |
 | **Số nhiều (die Pl.)** | die Kinder | die Kinder *(không đổi)* | <span style="color:#4CAF50">**den**</span> Kinder**n** *(thêm -n)* |
 
-### 2.2. Mạo từ Không xác định (Unbestimmte Artikel)
+### 2.3. Mạo từ Không xác định (Unbestimmte Artikel)
 
 | Giống danh từ | Nominativ | Akkusativ | Dativ |
 | :--- | :--- | :--- | :--- |
@@ -51,7 +63,7 @@ Quy luật cốt lõi cần nhớ:
 | **Trung (das)** | ein Kind | ein Kind *(không đổi)* | <span style="color:#2196F3">**einem**</span> Kind |
 | **Cái (die)** | eine Frau | eine Frau *(không đổi)* | <span style="color:#2196F3">**einer**</span> Frau |
 
-### 2.3. Mạo từ Phủ định (Negationsartikel)
+### 2.4. Mạo từ Phủ định (Negationsartikel)
 
 | Giống danh từ | Nominativ | Akkusativ | Dativ |
 | :--- | :--- | :--- | :--- |
@@ -64,17 +76,17 @@ Quy luật cốt lõi cần nhớ:
 
 ## 3. Bảng So sánh Đại từ Nhân xưng (Personalpronomen)
 
-| Chủ ngữ (Nominativ) | Tân ngữ trực tiếp (Akkusativ) | Tân ngữ gián tiếp (Dativ) | Nghĩa tiếng Việt (Dativ) |
-| :--- | :--- | :--- | :--- |
-| **ich** | **mich** | **mir** | cho tôi / với tôi |
-| **du** | **dich** | **dir** | cho bạn / với bạn |
-| **er** | **ihn** | **ihm** | cho anh ấy |
-| **sie** *(cô ấy)* | **sie** | **ihr** | cho cô ấy |
-| **es** | **es** | **ihm** | cho nó |
-| **wir** | **uns** | **uns** | cho chúng tôi |
-| **ihr** | **euch** | **euch** | cho các bạn |
-| **sie** *(họ)* | **sie** | **ihnen** | cho họ |
-| **Sie** *(lịch sự)* | **Sie** | **Ihnen** | cho Ngài / Quý vị |
+| Chủ ngữ (Nominativ) | Tân ngữ trực tiếp (Akkusativ) | Tân ngữ gián tiếp (Dativ) | Nghĩa tiếng Việt (Dativ) | Mẹo nhớ |
+| :--- | :--- | :--- | :--- | :--- |
+| **ich** | **mich** | **mir** | cho tôi / với tôi | **mi**ch $\rightarrow$ **mi**r |
+| **du** | **dich** | **dir** | cho bạn / với bạn | **di**ch $\rightarrow$ **di**r |
+| **er** | **ihn** | **ihm** | cho anh ấy | ih**n** $\rightarrow$ ih**m** |
+| **sie** *(cô ấy)* | **sie** | **ihr** | cho cô ấy | sie $\rightarrow$ ih**r** |
+| **es** | **es** | **ihm** | cho nó | es $\rightarrow$ ih**m** |
+| **wir** | **uns** | **uns** | cho chúng tôi | *Không đổi ở Akk & Dat* |
+| **ihr** | **euch** | **euch** | cho các bạn | *Không đổi ở Akk & Dat* |
+| **sie** *(họ)* | **sie** | **ihnen** | cho họ | sie $\rightarrow$ ih**nen** |
+| **Sie** *(lịch sự)* | **Sie** | **Ihnen** | cho Ngài / Quý vị | Sie $\rightarrow$ Ih**nen** |
 
 ---
 
