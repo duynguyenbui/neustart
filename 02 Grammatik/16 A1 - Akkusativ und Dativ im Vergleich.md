@@ -40,11 +40,11 @@ aliases: [Vergleich Akkusativ und Dativ, Akkusativ và Dativ]
 
 ### 2.1. Bảng Tóm tắt Tổng hợp (Mạo từ Xác định, Không xác định, Phủ định)
 
-| Cách / Giống | Đực (maskulin - *der*) | Trung (neutral - *das*) | Cái (feminin - *die*) | Số nhiều (Plural - *die*) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Nominativ** | der / ein / kein | das / ein / kein | die / eine / keine | die / --- / keine |
-| **Akkusativ** | <span style="color:#d9383a">**den / einen / keinen**</span> | das / ein / kein *(không đổi)* | die / eine / keine *(không đổi)* | die / --- / keine *(không đổi)* |
-| **Dativ** | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**der / einer / keiner**</span> | <span style="color:#4CAF50">**den / --- / keinen**</span> (+ danh từ thêm **-n**) |
+| Cách / Giống  | Đực (maskulin - *der*)                                      | Trung (neutral - *das*)                                     | Cái (feminin - *die*)                                       | Số nhiều (Plural - *die*)                                                         |
+| :------------ | :---------------------------------------------------------- | :---------------------------------------------------------- | :---------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| **Nominativ** | der / ein / kein                                            | das / ein / kein                                            | die / eine / keine                                          | die / --- / keine                                                                 |
+| **Akkusativ** | <span style="color:#d9383a">**den / einen / keinen**</span> | das / ein / kein *(không đổi)*                              | die / eine / keine *(không đổi)*                            | die / --- / keine *(không đổi)*                                                   |
+| **Dativ**     | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**der / einer / keiner**</span> | <span style="color:#4CAF50">**den / --- / keinen**</span> (+ danh từ thêm **-n**) |
 
 ### 2.2. Mạo từ Xác định (Bestimmte Artikel)
 

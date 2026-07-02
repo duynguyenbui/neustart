@@ -265,16 +265,16 @@ Mir ___ -> Mir geht es gut
 
 **Schreiben Sie die Fragen.**
 
-1. ___?
+1. ___? -> Wie heißen Sie?
    → Ich heiße Miguel.
 
-2. ___?
+2. ___? -> Woher kommen Sie?
    → Ich komme aus Afghanistan.
 
-3. ___?
+3. ___? -> Wie geht es Ihnen?
    → Mir geht es gut.
 
-4. Sehr gut, danke. → ___?
+4. Sehr gut, danke. → ___? -> Und Ihnen?
 
 ---
 
@@ -293,9 +293,9 @@ Mir ___ -> Mir geht es gut
 | T | Ü | R | K | I | S | C | H | G | N |
 | M | S | P | R | A | A | E | I | K | A |
 
-Sprachen: ___ / ___ / ___ / ___ -> Arabisch / Deutsch / Türkisch
+Sprachen: Arabisch / Deutsch / Türkisch
 
-Länder: ___ / ___ / ___ / ___ -> Spanien / Iran / Syrien / Nigeria / USA / Ghana
+Länder: Spanien / Iran / Syrien / Nigeria / USA / Ghana
 
 ---
 
@@ -330,8 +330,8 @@ ___
 
 **a) Was ist richtig? Unterstreichen Sie.**
 
-1. Rabia, **sprichst du / sprechen Sie** Französisch?
-2. Nein, Tayo. Und du? **Sprechen / Sprichst** du Französisch?
+1. Rabia, **sprichst du / sprechen Sie** Französisch? -> Sprichst du
+2. Nein, Tayo. Und du? **Sprechen / Sprichst** du Französisch? -> Sprichst
 3. Ja. Französisch und Englisch.
 
 ---
@@ -343,10 +343,8 @@ Rabia, sprichst du Französisch?
 Nein, Tayo. Und du? Sprichst du Französisch?
 
 Mit *Sie*:
-
-___
-
-___
+Frau Navid, sprechen Sie Französisch?
+Nein, Herr Okoye. Und Sie? Sprechen sie Französisch?
 
 ---
 
@@ -354,10 +352,10 @@ ___
 
 **Schreiben Sie er oder sie.**
 
-1. Hallo, Rabia, wo ist denn Ana? ___ kommt nicht. ___ ist krank.
-2. Und Tayo? Wo ist ___? ___ ist hier!
-3. Woher kommt ___? ___ kommt aus Nigeria.
-4. Und Ana? ___ kommt aus Bulgarien.
+1. Hallo, Rabia, wo ist denn Ana? Sie kommt nicht. Sie ist krank.
+2. Und Tayo? Wo ist er? Er ist hier!
+3. Woher kommt er? Er kommt aus Nigeria.
+4. Und Ana? Sie kommt aus Bulgarien.
 
 ---
 
@@ -370,22 +368,22 @@ ___
 
 | Person | Land | Sprachen |
 |--------|------|----------|
-| Karim | ___ | ___ |
-| Tayo | ___ | ___ |
-| Frau Krüger | ___ | ___ |
-| Laura | ___ | ___ |
+| Karim | Syrien | Arabisch, Türkisch, Deutsch |
+| Tayo | Nigeria | Englisch, Yoruba, Französisch, Deutsch |
+| Frau Krüger | Deutschland | Deutsch, Englisch, Spanisch |
+| Laura | Polen | Polnisch, Russisch, Englisch, Deutsch |
 
 ---
 
 **b) Schreiben Sie je einen Satz mit *er* und einen mit *sie*.**
 
-Karim: ___
+Karim: Er kommt aus Syrien. Er spricht Arabisch, Türkisch und Deutsch.
 
-Tayo: ___
+Tayo: Er kommt aus Nigeria. Er spricht Englisch, Yoruba, Französisch und Deutsch.
 
-Frau Krüger: ___
+Frau Krüger: Sie kommt aus Deutschland. Sie spricht Deutsch, Englisch und Spanisch.
 
-Laura: ___
+Laura: Sie kommt aus Polen. Sie spricht Polnisch, Russisch, Englisch und Deutsch.
 
 ---
 
@@ -395,9 +393,45 @@ Laura: ___
 
 > sind · spreche · heißt · komme · ist · spricht · kommen · bist · heißen · kommt · bin · sprechen · kommst · sprichst · heiße · heißt
 
-| | sein | heißen | kommen | sprechen |
-|---|------|--------|--------|---------|
-| ich | ___ | ___ | ___ | ___ |
-| du | ___ | ___ | ___ | ___ |
-| er/sie/es | ___ | ___ | ___ | ___ |
-| sie/Sie | ___ | ___ | ___ | ___ |
+|           | sein | heißen | kommen | sprechen |
+| --------- | ---- | ------ | ------ | -------- |
+| ich       | bin  | heiße  | komme  | spreche  |
+| du        | bist | heißst | kommst | sprichst |
+| er/sie/es | ist  | heißt  | kommt  | spricht  |
+| sie/Sie   | sind | heißen | kommen | sprechen |
+
+---
+
+## 13 · Sich vorstellen
+
+**1. Lesen Sie den Text.**
+
+> Hallo!
+> Ich heiße Alexander Matthias Küppers, oder einfach Alex.
+> 
+> Ich komme aus Deutschland, aus Köln.
+> Das ist Köln. Köln ist eine schöne Stadt!
+> 
+> Ich spreche Deutsch, sehr gut Englisch und ein bisschen Russisch.
+> Und ich lerne Arabisch. Das ist schwer.
+> 
+> Und das ist Sara.
+> Sie kommt aus Tunesien.
+> Sie spricht Arabisch, und natürlich spricht sie auch Deutsch.
+
+**2. Ergänzen Sie die Informationen aus dem Text.**
+
+1. Wie heißt er?
+	-> Er heißt Alex.
+
+2. Welche Sprachen spricht er?
+	 -> Er spricht Deutsch, Englisch und Russisch
+
+3. Woher kommt Alex?
+	-> Er kommt aus Deutschland
+
+4. Wer ist das?
+	-> Das ist Sara
+
+5. Welche Sprachen spricht sie?
+	-> Sie spricht Arabisch und Deutsch
