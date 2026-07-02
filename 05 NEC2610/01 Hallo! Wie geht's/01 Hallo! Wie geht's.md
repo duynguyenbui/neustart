@@ -1,347 +1,339 @@
-# 01 Hallo! Wie geht's?
+---
+tags: [deutsch/A1, neustart/NEC2610, lektion-01]
+date: 2026-07-01
+aliases: [Lektion 1, Hallo! Wie geht's?]
+---
 
-> **Chủ đề:** Chào hỏi, giới thiệu bản thân, nguồn gốc & nơi ở
-> **Trình độ:** A1 | **Tương đương:** Lektion 01 – 02 – 03
+# Lektion 01: Hallo! Wie geht's?
+
+> [!INFO] **Chủ đề chính**
+> - **Giao tiếp cơ bản:** Chào hỏi (Begrüßung), tạm biệt (Abschied), hỏi thăm sức khỏe (Befinden).
+> - **Giới thiệu bản thân:** Tên (Name), nguồn gốc (Herkunft), nơi ở hiện tại (Wohnort) và ngôn ngữ (Sprachen).
+> - **Phát âm:** Bảng chữ cái, ký tự đặc biệt, nguyên âm kép và tổ hợp phụ âm.
+> - **Tài liệu tham khảo:** Học phần tương đương với Lektion 1 của giáo trình A1.
 
 ---
 
 ## 1. Wortschatz — Từ Vựng
 
-### 1.1 Chào hỏi & Tạm biệt
+### 1.1 Chào hỏi (Begrüßung) & Tạm biệt (Abschied)
 
-| Tiếng Đức | Phiên âm | Nghĩa | Dùng khi |
-|-----------|---------|-------|----------|
-| **Guten Morgen** | [gu-tần mo-gần] | Chào buổi sáng | Buổi sáng |
-| **Guten Tag** | [gu-tần tạc] | Chào ban ngày | ~10h – chiều |
-| **Guten Abend** | [gu-tần a-bần-t] | Chào buổi tối | Buổi tối |
-| **Gute Nacht** | [gu-tờ nách-t] | Chúc ngủ ngon | Trước khi ngủ |
-| **Hallo** | [ha-lô] | Xin chào (thân mật) | Bạn bè, người thân |
-| **Auf Wiedersehen** | [ao-f vi-đờ-zê-ân] | Tạm biệt | Trang trọng |
-| **Tschüss** | [chút-x] | Bye (thân mật) | Bạn bè |
-| **Bis bald** | [bít ban-đ] | Hẹn sớm gặp lại | Thân mật |
+| Tiếng Đức | Phát âm gợi ý | Nghĩa | Tình huống sử dụng / Ghi chú |
+| :--- | :--- | :--- | :--- |
+| **Guten Morgen** | [gu-tần mo-gần] | Chào buổi sáng | Dùng từ sáng sớm đến khoảng 10h sáng. |
+| **Morgen** | [mo-gần] | Chào buổi sáng (rút gọn) | Thân mật, dùng giữa bạn bè, đồng nghiệp. |
+| **Guten Tag** | [gu-tần tạc] | Chào ban ngày | Dùng từ ~10h sáng đến chiều tối (trang trọng). |
+| **Tag** | [tạc] | Chào ban ngày (rút gọn) | Thân mật. |
+| **Guten Abend** | [gu-tần a-bần-t] | Chào buổi tối | Dùng từ khoảng 18h trở đi. |
+| **Gute Nacht** | [gu-tờ nách-t] | Chúc ngủ ngon | Chỉ nói khi đi ngủ hoặc ra về rất muộn vào ban đêm. |
+| **Hallo** | [ha-lô] | Xin chào | Rất phổ biến, thân mật. |
+| **Auf Wiedersehen** | [ao-f vi-đờ-zê-ân] | Tạm biệt | Trang trọng, lịch sự (nói chuyện trực tiếp). |
+| **Tschüss** | [chút-x] | Bye / Tạm biệt | Thân mật, phổ biến giữa bạn bè. |
+| **Bis bald** | [bít ban-đ] | Hẹn sớm gặp lại | Thân mật. |
+| **Bis morgen** | [bít mo-gần] | Hẹn gặp lại ngày mai | Thân mật, dùng khi biết chắc ngày mai sẽ gặp lại. |
 
-### 1.2 Cảm ơn & Phản hồi
+### 1.2 Hỏi thăm sức khỏe & Phản hồi (Befinden)
 
-| Tiếng Đức | Phiên âm | Nghĩa |
-|-----------|---------|-------|
-| **Danke** | [đăng-cờ] | Cảm ơn |
-| **Vielen Dank** | [phi-lần đăng-k] | Cảm ơn rất nhiều |
-| **Danke schön** | [đăng-cờ xơn] | Cảm ơn (lịch sự) |
-| **Bitte** | [bít-tờ] | Xin mời / Không có gì |
-| **Entschuldigung** | [ên-su-đi-gung] | Xin lỗi |
+| Câu hỏi | Dành cho đối tượng | Nghĩa |
+| :--- | :--- | :--- |
+| **Wie geht es Ihnen?** | Trang trọng (Lịch sự) | *Ngài/Quý vị khỏe không?* |
+| **Wie geht es dir?** | Thân mật | *Bạn/Cậu khỏe không?* |
+| **Wie geht's?** | Thân mật (ngắn gọn) | *Thế nào rồi? / Khỏe chứ?* |
 
-### 1.3 Hỏi thăm sức khỏe & Trả lời
+**Các mức độ trả lời sức khỏe (theo biểu cảm từ tích cực đến tiêu cực):**
+* **Sehr gut, danke. / Supergut!** (Rất tốt, cảm ơn / Tuyệt vời!)
+* **Gut, danke.** (Tốt, cảm ơn.)
+* **Ach, ganz gut.** (Ach, cũng khá tốt / ổn.)
+* **Es geht. / Es geht so. / Na ja, es geht so.** (Cũng bình thường / Tàm tạm / Tàm tạm thế thôi.)
+* **Nicht so gut.** (Không tốt lắm.)
 
-| Câu hỏi | Câu trả lời | Nghĩa |
-|---------|------------|-------|
-| **Wie geht's?** | Super! | Tuyệt vời! |
-| **Wie geht es dir?** (thân mật) | Sehr gut, danke. | Rất tốt, cảm ơn. |
-| **Wie geht es Ihnen?** (trang trọng) | Gut, danke. | Tốt, cảm ơn. |
-| | Es geht. | Cũng bình thường. |
-| | Nicht so gut. | Không tốt lắm. |
+### 1.3 Danh từ chỉ người & Giao tiếp (Personen & Kommunikation)
 
-### 1.4 Từ vựng khác
+| Danh từ | Giống (Artikel) | Số nhiều (Plural) | Nghĩa |
+| :--- | :--- | :--- | :--- |
+| **der Mann** | Đực | *die Männer* | Người đàn ông / Chồng |
+| **die Frau** | Cái | *die Frauen* | Người phụ nữ / Vợ / Bà (trước họ nữ) |
+| **der Herr** | Đực | *die Herren* | Ông (dùng trang trọng trước họ nam) |
+| **der Kollege** | Đực | *die Kollegen* | Nam đồng nghiệp |
+| **die Kollegin** | Cái | *die Kolleginnen* | Nữ đồng nghiệp |
+| **der Kursteilnehmer** | Đực | *die Kursteilnehmer* | Nam học viên |
+| **die Kursteilnehmerin** | Cái | *die Kursteilnehmerinnen* | Nữ học viên |
+| **der Name** | Đực | *die Namen* | Tên |
 
-| Từ | Phiên âm | Giống | Nghĩa |
-|----|---------|-------|-------|
-| `das Hotel` | [hoˈtɛl] (hô-teo) | Trung | Khách sạn |
-| `das Auto` | [ˈaʊ̯to] (ao-tô) | Trung | Ô tô |
-| `das Konzert` | [kɔnˈtsɛʁt] (con-xe-át) | Trung | Buổi hòa nhạc |
-| `der Döner` | [ˈdøːnɐ] (đơ-nờ) | Đực | Bánh mì Döner |
-| `die Frau` | [fʁaʊ̯] (phrao) | Cái | Bà / Người phụ nữ |
-| `der Herr` | [hɛʁ] (he-ờ) | Đực | Ông / Người đàn ông |
-| `der Kollege` | [kɔˈleːɡə] | Đực | Nam đồng nghiệp |
-| `die Kollegin` | [kɔˈleːɡɪn] | Cái | Nữ đồng nghiệp |
-| `auch` | [aʊ̯x] (ao-kh) | — | Cũng |
+> [!IMPORTANT]
+> Quy tắc lập số nhiều cho danh từ chỉ nghề nghiệp/người giống cái kết thúc bằng `-in`:
+> Chỉ cần thêm `-nen` vào cuối: **die Kollegin** $\rightarrow$ **die Kolleginnen**, **die Kursteilnehmerin** $\rightarrow$ **die Kursteilnehmerinnen**.
+> Xem chi tiết tại [[02 A1 - Pluralformen der Nomen]].
 
----
+### 1.4 Từ vựng bổ trợ khác
+* **Danke / Vielen Dank / Danke schön**: Cảm ơn / Cảm ơn nhiều / Cảm ơn (lịch sự).
+* **Bitte**: Xin mời / Không có gì (sau khi được cảm ơn).
+* **Entschuldigung**: Xin lỗi (khi làm phiền hoặc hỏi thông tin).
+* **auch** [ao-kh]: Cũng.
+* **nicht** [ních-t]: Không (phủ định).
+* **nein** [nain]: Không (trả lời câu hỏi).
+* **ja** [ya]: Có / Đúng vậy.
+* **ein bisschen** [ain bít-sần]: Một chút / Một ít.
+* **ich weiß es nicht** [ich vais es nicht]: Tôi không biết.
+* **wie bitte?** [vi bít-tờ]: Cái gì cơ? / Dạ? (yêu cầu lặp lại khi không nghe rõ).
 
-## 2. Grammatik — Ngữ Pháp
+### 1.5 Quốc gia, Ngôn ngữ & Giới từ nguồn gốc (Länder & Sprachen)
 
-### 2.1 Ba Mạo Từ Xác Định (Bestimmte Artikel)
+Đa số các quốc gia trong tiếng Đức **không có mạo từ**. Tuy nhiên, một số quốc gia **bắt buộc phải đi kèm mạo từ**. Khi dùng với giới từ **aus** (từ đâu đến), mạo từ sẽ chia ở **cách 3 (Dativ)**.
 
-| Mạo từ | Giống | Ví dụ |
-|--------|-------|-------|
-| **der** | Đực (Maskulinum) | *der* Freund, *der* Döner, *der* Herr |
-| **die** | Cái (Femininum) | *die* Frau, *die* Kollegin |
-| **das** | Trung (Neutral) | *das* Hotel, *das* Auto |
-| **die** | Số nhiều (Plural) | *die* Freunde, *die* Kollegen |
+> [!TIP]
+> - Giới từ **aus** luôn đi với **Dativ** để chỉ nguồn gốc.
+> - Giới từ **in** luôn đi với **Dativ** để chỉ nơi ở (trả lời câu hỏi *Wo*).
+> Xem thêm tại [[05 A1 - Der Dativ]] và [[06 A1 - Lokale Präpositionen]].
 
-> **Quy tắc vàng:** TẤT CẢ danh từ tiếng Đức đều viết hoa chữ cái đầu.
-> *das **H**otel, der **T**ag, die **F**rau*
-
-### 2.2 Phân Biệt "du" và "dir"
-
-| Tình huống | Dùng gì | Ví dụ | Lý do |
-|-----------|---------|-------|-------|
-| Hỏi thăm sức khỏe | **dir** | *Und dir?* | Cấu trúc *Wie geht es ...?* dùng **Dativ** → *du* → **dir** |
-| Hỏi tên / thông tin | **du** | *Und du?* | Chủ ngữ **Nominativ** |
-
-### 2.3 Thân Mật (per du) vs. Trang Trọng (per Sie)
-
-|  | **Per du** (thân mật) | **Per Sie** (trang trọng) |
-|--|----------------------|--------------------------|
-| **Dùng khi** | Bạn bè, người thân, đồng nghiệp thân | Người mới quen, cấp trên, người lớn tuổi |
-| **Hỏi sức khỏe** | *Wie geht es **dir**?* / *Wie geht's?* | *Wie geht es **Ihnen**?* |
-| **Hỏi lại SK** | *Und **dir**?* | *Und **Ihnen**?* |
-| **Hỏi tên** | *Wie heißt **du**?* | *Wie heißen **Sie**?* |
-| **Hỏi lại tên** | *Und **du**?* | *Und **Sie**?* |
-
-> ⚠️ **Viết hoa bắt buộc:** **Sie** / **Ihnen** / **Ihr** (đại từ lịch sự) luôn viết hoa trong mọi vị trí câu.
-
-> ❌ **Lỗi phổ biến:** *"Wie geht es sie?"* — SAI!
-> ✅ **Đúng:** *"Wie geht es **Ihnen**?"* — `sie` viết thường = "cô ấy/họ", hoàn toàn khác nghĩa.
-
-### 2.4 Đại Từ Lịch Sự — Bảng Tra Nhanh
-
-| Chức năng | Đại từ | Ví dụ |
-|-----------|--------|-------|
-| Chủ ngữ | **Sie** | *Wie heißen **Sie**?* |
-| Tân ngữ gián tiếp (Dativ) | **Ihnen** | *Wie geht es **Ihnen**?* |
-| Sở hữu | **Ihr / Ihre** | ***Ihr** Name* |
-
-### 2.5 Số Nhiều Danh Từ Đồng Nghiệp
-
-| Số ít | Số nhiều | Quy tắc |
-|-------|---------|---------|
-| `der Kollege` (nam) | `die Kollegen` | Thêm `-n` |
-| `die Kollegin` (nữ) | `die Kolleginnen` | `-in` → `-innen` |
-
-> Quy tắc `-in` → `-innen` áp dụng cho mọi danh từ nữ:
-> *Lehrerin* → *Lehrerinnen*, *Freundin* → *Freundinnen*
+| Loại quốc gia | Quốc gia (Land) | Ngôn ngữ (Sprache) | Cách nói nguồn gốc với **aus** | Ví dụ |
+| :--- | :--- | :--- | :--- | :--- |
+| **Không mạo từ**<br>*(aus + Land)* | **Deutschland**<br>**Vietnam**<br>**Spanien**<br>**Polen**<br>**Syrien**<br>**Nigeria**<br>**Eritrea**<br>**Brasilien**<br>**Kenia**<br>**Pakistan**<br>**Rumänien**<br>**Somalia**<br>**Tunesien**<br>**Afghanistan**<br>**Russland**<br>**Portugal**<br>**Marokko**<br>**Kanada** | *Deutsch* (Tiếng Đức)<br>*Vietnamesisch* (Tiếng Việt)<br>*Spanisch* (Tiếng Tây Ban Nha)<br>*Polnisch* (Tiếng Ba Lan)<br>*Arabisch* (Tiếng Ả Rập)<br>*Englisch* (Tiếng Anh)<br>*Tigrinya / Arabisch*<br>*Portugiesisch*<br>*Suaheli / Englisch*<br>*Urdu / Englisch*<br>*Rumänisch*<br>*Somalisch*<br>*Arabisch*<br>*Dari / Paschtu*<br>*Russisch*<br>*Portugiesisch*<br>*Arabisch*<br>*Englisch / Französisch* | **aus** Deutschland<br>**aus** Vietnam<br>**aus** Spanien<br>**aus** Polen<br>**aus** Syrien<br>**aus** Nigeria<br>**aus** Eritrea<br>**aus** Brasilien<br>**aus** Kenia<br>**aus** Pakistan<br>**aus** Rumänien<br>**aus** Somalia<br>**aus** Tunesien<br>**aus** Afghanistan<br>**aus** Russland<br>**aus** Portugal<br>**aus** Marokko<br>**aus** Kanada | *Ich komme aus Vietnam.*<br>*Miguel kommt aus Spanien.*<br>*Tayo kommt aus Nigeria.* |
+| **Giống cái (die)**<br>*(aus + der)* | **die Schweiz**<br>**die Türkei**<br>**die Ukraine** | *Deutsch / Französisch / Italienisch*<br>*Türkisch* (Tiếng Thổ Nhĩ Kỳ)<br>*Ukrainisch* (Tiếng Ukraina) | **aus der** Schweiz<br>**aus der** Türkei<br>**aus der** Ukraine | *Hanno kommt aus der Schweiz.*<br>*Esra kommt aus der Türkei.* |
+| **Giống đực (der)**<br>*(aus + dem)* | **der Iran**<br>**der Irak** | *Farsi / Persisch* (Tiếng Ba Tư)<br>*Arabisch / Kurdisch* | **aus dem** Iran<br>**aus dem** Irak | *Rabia kommt aus dem Iran.*<br>*Karim kommt aus dem Irak.* |
+| **Số nhiều (Plural)**<br>*(aus + den)* | **die USA** | *Englisch* | **aus den** USA | *John kommt aus den USA.* |
 
 ---
 
-## 3. Sätze — Mẫu Câu Giao Tiếp
+## 2. Grammatik — Ngữ Pháp Chi Tiết
 
-### 3.1 Giới Thiệu Bản Thân
+### 2.1 Xưng hô thân mật (du) vs. Trang trọng (Sie)
 
-| Cách nói | Tiếng Đức | Tiếng Việt |
-|---------|-----------|-----------|
-| Cách 1 | `Ich bin [Tên].` | Tôi là [Tên]. |
-| Cách 2 | `Ich heiße [Tên].` | Tôi tên là [Tên]. |
-| Cách 3 | `Mein Name ist [Tên].` | Tên tôi là [Tên]. |
+Tiếng Đức phân biệt rõ ràng hai mức độ giao tiếp lịch sự:
+* **Per du (Thân mật):** Dùng với bạn bè, người trong gia đình, trẻ em, học viên cùng lớp, hoặc khi được đối phương cho phép. Đại từ chủ ngữ là **du** (bạn/cậu/mày).
+* **Per Sie (Trang trọng):** Dùng trong công việc, với người lạ, người lớn tuổi hơn, cấp trên, hoặc các tình huống dịch vụ công cộng. Đại từ chủ ngữ là **Sie** (Ngài/Quý vị) và **luôn viết hoa** chữ cái đầu trong mọi vị trí câu.
 
-### 3.2 Hỏi Tên
+> [!WARNING]
+> Phân biệt **Sie** (Ngài - trang trọng) và **sie** (cô ấy / họ):
+> - *Wie heißen **Sie**?* (Ngài tên là gì?) $\rightarrow$ Trang trọng
+> - *Das ist Maria. **Sie** kommt aus Portugal.* (Cô ấy đến từ...) $\rightarrow$ Ngôi thứ ba số ít giống cái.
+> - Lỗi thường gặp: viết thường đại từ lịch sự: *wie heißen sie?* (Nghĩa bị chuyển thành: *họ tên là gì?* hoặc *cô ấy tên là gì?* tùy động từ).
 
-| Thân mật | Trang trọng |
-|---------|------------|
-| *Wie heißt du?* | *Wie heißen Sie?* |
-| *Wer bist du?* | *Wer sind Sie denn?* |
-| *Und du?* | *Und Sie?* |
-
-### 3.3 Xưng Hô Trang Trọng với Frau / Herr
-
-- Luôn dùng kèm **họ** (Familienname): *Frau Weber*, *Herr Hansen*
-- ❌ Không dùng tên đầu một mình: ~~Herr Klaus~~
-- ✅ Đầy đủ: *Herr Oliver Hansen* (tên + họ)
-
-### 3.4 Hội Thoại Mẫu
-
-**Dialog 1 — Chào hỏi bạn bè:**
-```
-A: Hallo Nina!
-B: Hallo Niklas! Wie geht's?
-A: Danke, sehr gut! Und dir?
-B: Ganz gut, danke! Bis bald!
-```
-
-**Dialog 2 — Làm quen:**
-```
-A: Hallo, ich bin Julia. Und du?
-B: Wie heißt du?
-A: Ich heiße Niklas.
-B: Entschuldigung, wie heißt du?
-A: Niklas.
-```
-
-**Dialog 3 — Gặp gỡ trang trọng:**
-```
-A: Guten Tag, Frau Kowalski!
-B: Guten Tag, Frau Weber. Wie geht es Ihnen?
-A: Danke, gut. Und Ihnen?
-B: Auch gut, danke.
-```
-
-**Dialog 4 — Giới thiệu đồng nghiệp:**
-```
-A: Hallo Frau Weber.
-B: Hallo Herr Hansen. Das ist Frau Kowalski.
-A: Guten Tag, Frau Kowalski. Mein Name ist Oliver Hansen.
-C: Guten Tag! Entschuldigung, wie heißen Sie?
-A: Oliver Hansen.
-```
+| So sánh | Thân mật (du-Form) | Trang trọng (Sie-Form) | Giải thích cấu trúc ngữ pháp |
+| :--- | :--- | :--- | :--- |
+| **Đại từ chủ ngữ** | **du** | **Sie** (luôn viết hoa) | Chủ ngữ ở cách **Nominativ** |
+| **Đại từ sở hữu** | **dein / deine** | **Ihr / Ihre** (viết hoa) | *dein/Ihr* + danh từ đực/trung; *deine/Ihre* + danh từ cái/số nhiều |
+| **Hỏi thăm sức khỏe** | *Wie geht es **dir**?* / *Wie geht's?* | *Wie geht es **Ihnen**?* | Cấu trúc **Wie geht es + Dativ**. *du* chuyển thành Dativ là **dir**, *Sie* chuyển thành Dativ là **Ihnen**. |
+| **Hỏi tên** | *Wie heißt **du**?* / *Wer bist **du**?* | *Wie heißen **Sie**?* / *Wer sind **Sie**?* | Chia động từ tương ứng với chủ ngữ. |
+| **Hỏi lại đối phương** | *Und **du**?* (chủ ngữ) / *Und **dir**?* (sức khỏe) | *Und **Sie**?* (chủ ngữ) / *Und **Ihnen**?* (sức khỏe) | Dựa vào câu hỏi trước đó để dùng Nominativ hay Dativ. |
 
 ---
 
-## 4. Herkunft & Wohnort — Nguồn Gốc & Nơi Ở
+### 2.2 Đại từ nhân xưng ngôi thứ ba số ít: er (anh ấy) & sie (cô ấy)
 
-### 4.1 Câu Hỏi W-Fragen Cơ Bản
+Khi giới thiệu hoặc nói về một người thứ ba (không tham gia cuộc trò chuyện trực tiếp):
+* Dùng **er** (anh ấy) để thay thế cho một người nam (danh từ giống đực hoặc tên nam giới).
+  * *Das ist Adil. **Er** kommt aus Marokko.*
+* Dùng **sie** (cô ấy) để thay thế cho một người nữ (danh từ giống cái hoặc tên nữ giới).
+  * *Das ist Maria. **Sie** spricht Portugiesisch.*
 
-| W-Wort | Động từ | du (thân mật) | Sie (trang trọng) | Nghĩa |
-|--------|---------|--------------|------------------|-------|
-| **Wie** | heißen | *Wie heißt **du**?* | *Wie heißen **Sie**?* | Tên là gì? |
-| **Wer** | sein | *Wer bist **du**?* | *Wer sind **Sie**?* | Bạn/Ngài là ai? |
-| **Woher** | kommen | *Woher kommst **du**?* | *Woher kommen **Sie**?* | Đến từ đâu? |
-| **Wo** | wohnen | *Wo wohnst **du**?* | *Wo wohnen **Sie**?* | Sống ở đâu? |
-| **Was** | sprechen | *Was sprichst **du**?* | *Was sprechen **Sie**?* | Nói tiếng gì? |
-
-> Cấu trúc: **W-Wort + Verb + Subjekt?**
-
-### 4.2 Cách Trả Lời
-
-| Chủ đề | Mẫu câu | Ví dụ |
-|--------|---------|-------|
-| Nguồn gốc | `Ich komme aus + Land/Stadt` | *Ich komme aus Hanoi in Vietnam.* |
-| Nơi ở | `Ich wohne in + Stadt` | *Ich wohne in Can Tho.* |
-| Ngôn ngữ | `Ich spreche + Sprache` | *Ich spreche Vietnamesisch und ein bisschen Deutsch.* |
-| Tiếng mẹ đẻ | `Meine Muttersprache ist...` | *Meine Muttersprache ist Vietnamesisch.* |
-
-### 4.3 Quốc Gia Đặc Biệt (Cần Mạo Từ + Dativ)
-
-Đa số quốc gia: `aus + Land` (không mạo từ) → *aus Deutschland*, *aus Vietnam*
-
-Một số nước **bắt buộc có mạo từ** khi dùng với `aus`:
-
-| Quốc gia | Dạng đúng | Ví dụ |
-|---------|----------|-------|
-| **die Türkei** | `aus der Türkei` | *Ich komme aus der Türkei.* |
-| **die Schweiz** | `aus der Schweiz` | *Ich komme aus der Schweiz.* |
-| **die Ukraine** | `aus der Ukraine` | *Ich komme aus der Ukraine.* |
-| **die USA** (số nhiều) | `aus den USA` | *Ich komme aus den USA.* |
-| **der Iran** | `aus dem Iran` | *Ich komme aus dem Iran.* |
-| **der Irak** | `aus dem Irak` | *Ich komme aus dem Irak.* |
-
-### 4.4 Bảng Quốc Gia & Ngôn Ngữ
-
-| Quốc gia | Ngôn ngữ | Phát âm gợi ý |
-|---------|---------|--------------|
-| Deutschland | Deutsch | [đoi-ch-lan-đ] |
-| Vietnam | Vietnamesisch | [việt-nam] |
-| die Türkei | Türkisch | [di tuya-kai] |
-| Polen | Polnisch | [pô-lân] |
-| Italien | Italienisch | [i-ta-li-ân] |
-| Frankreich | Französisch | [ph-răng-k-rai-h] |
-| Spanien | Spanisch | [x-pa-ni-ân] |
-| Russland | Russisch | [rút-x-lan-đ] |
-| China | Chinesisch | [chi-na] |
-| Japan | Japanisch | [ya-pan] |
-| die USA | Englisch | [di u-ét-xa] |
-
-### 4.5 Chia Động Từ Quan Trọng
-
-**kommen** (đến từ):
-
-| Đại từ | Chia | Phát âm |
-|--------|------|---------|
-| ich | komm**e** | [côm-mờ] |
-| du | komm**st** | [côm-x-t] |
-| er/sie/es | komm**t** | [côm-t] |
-| Sie | komm**en** | [côm-mân] |
-
-**Các động từ khác quan trọng:**
-
-| Động từ | Nghĩa | du | Sie |
-|---------|-------|-----|-----|
-| **sprechen** | nói | du sprichst | Sie sprechen |
-| **wohnen** | sống | du wohnst | Sie wohnen |
-| **heißen** | tên là | du heißt | Sie heißen |
-| **sein** | là | du bist | Sie sind |
+| Đại từ nhân xưng | Ý nghĩa | Cách chia động từ (đuôi) | Ví dụ thực tế |
+| :--- | :--- | :--- | :--- |
+| **er** | Anh ấy (He) | thêm **-t** | *Adil: **Er** wohn**t** in Frankfurt.* |
+| **sie** | Cô ấy (She) | thêm **-t** | *Anna: **Sie** komm**t** aus Russland.* |
 
 ---
 
-## 5. Aussprache — Phát Âm
+### 2.3 Chia động từ ở thì hiện tại (Verbkonjugation im Präsens)
 
-### 5.1 Bảng Chữ Cái Tiếng Đức (Alphabet)
+Để nói hoặc viết câu trong tiếng Đức, ta phải biến đổi đuôi động từ theo chủ ngữ (đại từ nhân xưng).
 
-| Chữ cái | Tên gọi | Phiên âm | Ví dụ |
-|---------|---------|---------|-------|
-| A a | ah | [aː] | **A**uto |
-| B b | beh | [beː] | **B**anane |
-| C c | ceh | [tseː] | **C**afé |
-| D d | deh | [deː] | **D**eutschland |
-| E e | eh | [eː] | **E**lefant |
-| F f | ef | [ɛf] | **F**oto |
-| G g | geh | [ɡeː] | **G**itarre |
-| H h | hah | [haː] | **H**aus |
-| I i | ih | [iː] | **I**nsel |
-| J j | jot | [jɔt] | **J**acke |
-| K k | kah | [kaː] | **K**affee |
-| L l | el | [ɛl] | **L**ampe |
-| M m | em | [ɛm] | **M**usik |
-| N n | en | [ɛn] | **N**ame |
-| O o | oh | [oː] | **O**ktober |
-| P p | peh | [peː] | **P**apier |
-| R r | er | [ɛɐ] | **R**adio |
-| S s | es | [ɛs] | **S**onne |
-| T t | teh | [teː] | **T**ag |
-| U u | uh | [uː] | **U**-Bahn |
-| V v | fau | [faʊ̯] | **V**ater |
-| W w | weh | [veː] | **W**asser |
-| Z z | zett | [tsɛt] | **Z**ug |
+#### A. Quy tắc chia động từ thường (Regelmäßige Verben)
+Động từ nguyên thể (Infinitiv) thường kết thúc bằng đuôi **-en**. Ta bỏ **-en** để lấy thân động từ (Verbstamm), sau đó thêm các đuôi tương ứng:
+* Ngôi **ich**: thêm **-e**
+* Ngôi **du**: thêm **-st**
+* Ngôi **er/sie/es**: thêm **-t**
+* Ngôi **Sie** (lịch sự): giữ nguyên đuôi **-en**
 
-### 5.2 Ký Tự Đặc Biệt (Sonderzeichen)
+> [!NOTE]
+> **Trường hợp đặc biệt (như động từ heißen):**
+> Thân động từ là *heiß-* kết thúc bằng âm **ß** (phát âm như /s/). Theo quy tắc, ngôi **du** phải thêm đuôi **-st** (*heißst*). Tuy nhiên, để tránh việc có quá nhiều âm /s/ đi liền nhau, ta chỉ cần thêm đuôi **-t** cho ngôi **du** $\rightarrow$ **du heißt** (giống hệt ngôi er/sie/es).
+> Chi tiết xem tại [[15 A1 - Verbkonjugation im Präsens]].
 
-| Ký tự | Tên | Cách đọc | Ví dụ |
-|-------|-----|---------|-------|
-| **Ä ä** | A-Umlaut | "e" kéo dài | **Ä**pfel |
-| **Ö ö** | O-Umlaut | "ơ" + tròn môi | **Ö**sterreich |
-| **Ü ü** | U-Umlaut | "uy" + chu môi | **Ü**bung |
-| **ß** | Eszett | "s" kéo dài | hei**ß**en |
+#### B. Động từ biến đổi nguyên âm (Unregelmäßige Verben)
+Một số động từ thay đổi nguyên âm ở thân từ đối với các ngôi số ít **du** và **er/sie/es**:
+* Động từ **sprechen** (nói): đổi nguyên âm **e** $\rightarrow$ **i**.
+  * Ngôi *du* $\rightarrow$ **du sprichst**
+  * Ngôi *er/sie/es* $\rightarrow$ **er/sie/es spricht**
+  * Ngôi *ich* và *Sie* vẫn tuân theo quy tắc thông thường (*ich spreche*, *Sie sprechen*).
 
-> **Mẹo Umlaute:**
-> - **Ä:** Mở miệng như "A" nhưng phát âm "E"
-> - **Ö:** Chu môi như "O" nhưng phát âm "E"
-> - **Ü:** Chu môi như "U" nhưng phát âm "I"
-> - **ß** → viết thay được bằng `ss` nếu bàn phím không có
+#### C. Động từ bất quy tắc đặc biệt (sein)
+Động từ **sein** (thì, là, ở) biến đổi hoàn toàn và cần phải học thuộc lòng:
+* *ich* **bin**
+* *du* **bist**
+* *er/sie/es* **ist**
+* *Sie* **sind**
 
-### 5.3 Nguyên Âm Kép (Diphthonge)
+#### Bảng chia động từ tổng hợp (Dựa trên nội dung Bài 1):
 
-| Ký tự | Phát âm | Ví dụ | Nghĩa |
-|-------|---------|-------|-------|
-| **ei / ai** | "ai" | n**ei**n, m**ei**n | không, của tôi |
-| **ie** | "i" dài | s**ie**, v**ie**l | cô ấy, nhiều |
-| **au** | "ao" | **Au**to, **au**s | ô tô, từ đâu |
-| **eu / äu** | "oi" | n**eu**, H**äu**ser | mới, những ngôi nhà |
+| Đại từ nhân xưng | kommen *(đến)* | wohnen *(ở)* | heißen *(tên là)* | lernen *(học)* | sprechen *(nói)* | sein *(là)* |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **ich** | komm**e** | wohn**e** | heiß**e** | lern**e** | sprech**e** | **bin** |
+| **du** | komm**st** | wohn**st** | heiß**t** *(đặc biệt)* | lern**st** | spr**i**ch**st** *(biến âm)* | **bist** |
+| **er/sie** | komm**t** | wohn**t** | heiß**t** | lern**t** | spr**i**ch**t** *(biến âm)* | **ist** |
+| **Sie** | komm**en** | wohn**en** | heiß**en** | lern**en** | sprech**en** | **sind** |
 
-### 5.4 Phụ Âm Đặc Biệt
+---
 
-| Ký tự | Quy tắc | Ví dụ | Cách đọc |
-|-------|---------|-------|---------|
-| **W** | Đọc là "V" tiếng Việt | **w**er, **w**ie | [ve-a], [vi] |
-| **V** | Đọc là "Ph" | **v**ier, **v**iel | [phia], [phi:l] |
-| **Z** | Đọc là "ts" | **z**wei, **Z**ug | [tsvay], [tsuk] |
-| **J** | Đọc như "D/Y" nhẹ | **J**a, **J**ahr | [da], [da-a] |
-| **S** đầu từ | Đọc là "D" (miền Nam) | **s**ie | [zi] |
-| **ß** | Luôn là "S" kéo dài | hei**ß**en | [hai-sần] |
+### 2.4 Cấu trúc câu cơ bản (Satzbau)
 
-### 5.5 Tổ Hợp Phụ Âm
+Vị trí của động từ là yếu tố quan trọng nhất trong cấu trúc câu tiếng Đức.
 
-| Tổ hợp | Vị trí | Cách đọc | Ví dụ |
-|--------|--------|---------|-------|
-| **sch** | Mọi vị trí | "S nặng" + uốn lưỡi | **sch**ön, Deut**sch** |
-| **st / sp** | Đầu từ | "S nặng + t/p" | **St**udent, **sp**rechen |
-| **ch** | Sau e, i, ä, ö, ü | "ch" nhẹ (đẩy gió qua kẽ răng) | i**ch** |
-| **ch** | Sau a, o, u, au | "Kh" từ cuống họng | a**ch**t, bu**ch** |
-| **-ig** | Cuối từ | Giống âm "ich" nhẹ | zwanz**ig** |
-| **R** | Đầu từ | Rung họng nhẹ | **R**adio |
-| **R** | Cuối từ | Âm "ờ" nhẹ | Vate**r** |
+#### A. Câu trần thuật (Aussage)
+* **Quy tắc:** Động từ được chia luôn đứng ở **vị trí thứ 2** (Position 2).
+* **Cấu trúc:** `Chủ ngữ` (Pos 1) + `Động từ chia` (Pos 2) + `Thành phần phụ` (Pos 3).
+* **Ví dụ:**
+  * *Ich* (1) **bin** (2) *Ella Krüger* (3).
+  * *Hanno* (1) **wohnt** (2) *in Frankfurt* (3).
+  * *Mein Name* (1) **ist** (2) *Karim Moussa* (3). (Cụm danh từ "Mein Name" tính là 1 thành phần ở Pos 1).
 
-### 5.6 Phát Âm Chữ `a` — Ngắn vs. Dài
+#### B. Câu hỏi có từ để hỏi (W-Frage)
+* **Quy tắc:** Từ để hỏi (W-Wort) đứng ở **vị trí thứ 1**, động từ chia đứng ở **vị trí thứ 2**, và chủ ngữ bị đẩy ra **vị trí thứ 3**.
+* **Cấu trúc:** `W-Wort` (Pos 1) + `Động từ chia` (Pos 2) + `Chủ ngữ` (Pos 3) + `...?`
+* **Từ để hỏi cơ bản:**
+  * **Wer?** (Ai?) $\rightarrow$ Hỏi người: *Wer bist du?*
+  * **Wie?** (Thế nào?) $\rightarrow$ Hỏi tên/sức khỏe: *Wie heißen Sie?*, *Wie geht's?*
+  * **Woher?** (Từ đâu?) $\rightarrow$ Hỏi nguồn gốc: *Woher kommst du?*
+  * **Wo?** (Ở đâu?) $\rightarrow$ Hỏi nơi ở: *Wo wohnen Sie?*
+  * **Was?** (Cái gì?) $\rightarrow$ Hỏi ngôn ngữ hoặc hành động: *Was sprichst du?*, *Was lernst du?*
+  * **Welche Sprache(n)?** (Ngôn ngữ nào?) $\rightarrow$ Hỏi ngôn ngữ cụ thể: *Welche Sprache sprechen Sie?* (Cụm "Welche Sprache" tính là 1 thành phần ở Pos 1).
 
-> **Quy tắc:**
-> - `a` + 2 phụ âm trở lên → **a NGẮN** /a/
-> - `a` + h câm (*Dehnungs-h*) → **a DÀI** /aː/
-> - `a` + 1 phụ âm → nguyên âm → **a DÀI** /aː/
+#### C. Câu hỏi Có/Không (Ja-/Nein-Frage)
+* **Quy tắc:** Động từ chia được đảo lên **vị trí thứ 1**, chủ ngữ đứng ở **vị trí thứ 2**.
+* **Cấu trúc:** `Động từ chia` (Pos 1) + `Chủ ngữ` (Pos 2) + `Thành phần phụ` (Pos 3) + `...?`
+* **Ví dụ:**
+  * **Sprechen** (1) *Sie* (2) *Englisch* (3)? $\rightarrow$ *Ja, ich spreche Englisch.* / *Nein, Russisch.*
+  * **Kommen** (1) *Sie* (2) *aus Syrien* (3)? $\rightarrow$ *Ja, ich komme aus Aleppo.* / *Nein, aus Nigeria.*
+  * **Sind** (1) *Sie* (2) *Frau Krüger* (3)? $\rightarrow$ *Ja, richtig.* / *Nein, ich bin Rabia Navid.*
 
-| A ngắn /a/ | Lý do | A dài /aː/ | Lý do |
-|-----------|-------|-----------|-------|
-| M**a**nn | `a` + `nn` | T**a**g | `a` + 1 phụ âm |
-| B**a**ll | `a` + `ll` | N**a**me | `a` + `m` + nguyên âm |
-| St**a**dt | `a` + `dt` | V**a**ter | `a` + `t` + nguyên âm |
-| k**a**nn | `a` + `nn` | f**a**hren | `a` + `h` câm |
-| t**a**nzen | `a` + `nz` | J**a**hr | `a` + `h` câm |
+> [!NOTE]
+> Để tìm hiểu sâu hơn về trật tự từ và các loại câu khác, xem tại [[03 A1 - Der einfache Satz und die Verbposition]].
 
-- [Länder und Sprachen](https://wordwall.net/de/resource/9019003/daf/l%C3%A4nder-und-sprachen)
-- [20 Länder](https://wordwall.net/de/resource/33398891/s-20-l%C3%A4nder)
-- [W-Fragen](https://wordwall.net/de/resource/75590995/w-fragen)
+---
+
+## 3. Sätze — Mẫu Câu Giao Tiếp Chi Tiết
+
+### 3.1 Hỏi và Giới thiệu Tên
+
+* **Hỏi tên:**
+  * **Wie heißen Sie?** (Trang trọng) - *Ngài tên là gì?*
+  * **Wie heißt du?** (Thân mật) - *Cậu tên gì?*
+  * **Hỏi bằng cách dùng từ "Tên":** *Wie ist Ihr Name?* (Trang trọng) / *Wie ist dein Name?* (Thân mật)
+  * **Hỏi trực tiếp "Ai":** *Wer sind Sie?* (Trang trọng) / *Wer bist du?* (Thân mật)
+* **Trả lời:**
+  * **Ich heiße + [Tên].** (Tôi tên là...)
+  * **Ich bin + [Tên].** (Tôi là...)
+  * **Mein Name ist + [Tên].** (Tên của tôi là...)
+* **Hỏi tên người khác (ngôi thứ ba):**
+  * *Wer ist das?* (Đây là ai?) $\rightarrow$ *Das ist Karim Moussa.* (Đây là Karim Moussa.)
+  * *Wie heißt die Frau / der Mann?* (Người phụ nữ / người đàn ông kia tên là gì?) $\rightarrow$ *Die Frau / Der Mann heißt Laura Salewska / Tayo Okoye.*
+
+### 3.2 Hỏi và Giới thiệu Nguồn gốc, Nơi ở & Ngôn ngữ
+
+* **Nguồn gốc (Herkunft):**
+  * Q: *Woher kommen Sie?* (Trang trọng) / *Woher kommst du?* (Thân mật)
+  * A: **Ich komme aus + [Quốc gia / Thành phố].** (Tôi đến từ...)
+    * *Ich komme aus Vietnam.*
+    * *Ich komme aus Aleppo in Syrien.* (Tôi đến từ Aleppo ở nước Syrien.)
+    * *Ich komme aus der Türkei.* (Chú ý mạo từ Dativ giống cái)
+* **Nơi ở hiện tại (Wohnort):**
+  * Q: *Wo wohnen Sie?* (Trang trọng) / *Wo wohnst du?* (Thân mật)
+  * A: **Ich wohne in + [Thành phố].** (Tôi sống ở...)
+    * *Ich wohne in Berlin.*
+    * *Ich wohne in Frankfurt.*
+* **Ngôn ngữ (Sprachen):**
+  * Q: *Welche Sprache(n) sprechen Sie?* (Trang trọng) / *Welche Sprache sprichst du?* (Thân mật)
+  * Q: *Sprechen Sie + [Tên tiếng]?* (Ngài có nói tiếng... không?) $\rightarrow$ *Sprechen Sie Deutsch?* / *Sprichst du Englisch?*
+  * A: **Ich spreche + [Ngôn ngữ].**
+    * *Ich spreche Vietnamesisch und ein bisschen Deutsch.* (Tôi nói tiếng Việt và một chút tiếng Đức.)
+    * *Ich spreche Spanisch, Englisch und Deutsch.*
+* **Việc học ngôn ngữ hiện tại (Lernen):**
+  * Q: *Was lernen Sie?* (Trang trọng) / *Was lernst du?* (Thân mật)
+  * A: **Ich lerne + [Ngôn ngữ].**
+    * *Ich lerne Deutsch.* (Tôi đang học tiếng Đức.)
+    * *Sie lernt Englisch und Arabisch.* (Cô ấy đang học tiếng Anh và tiếng Ả Rập.)
+
+---
+
+### 3.3 Các đoạn hội thoại mẫu thực tế (Dialoge)
+
+#### Dialog 1: Chào hỏi bạn bè (Per du)
+* **A:** Hallo Nina!
+* **B:** Hallo Niklas! Wie geht's?
+* **A:** Danke, rất tốt! Còn cậu? (*Danke, sehr gut! Und dir?*)
+* **B:** Cũng ổn, cảm ơn! Hẹn gặp lại sớm nhé! (*Ganz gut, danke! Bis bald!*)
+* **A:** Tạm biệt! (*Tschüss!*)
+
+#### Dialog 2: Làm quen và hỏi thông tin (Per du)
+* **A:** Hallo, ich bin Julia. Und wer bist du?
+* **B:** Ich heiße Tayo.
+* **A:** Entschuldigung, wie heißt du? (Hỏi lại khi chưa rõ)
+* **B:** Tayo. Tayo Okoye.
+* **A:** Ah, ok. Woher kommst du, Tayo?
+* **B:** Ich komme aus Nigeria. Und du?
+* **A:** Ich komme aus Deutschland. Ich wohne in Berlin.
+
+#### Dialog 3: Gặp gỡ trang trọng trong công việc (Per Sie)
+* **A:** Guten Tag, Frau Kowalski!
+* **B:** Guten Tag, Frau Weber. Wie geht es Ihnen?
+* **A:** Danke, gut. Und Ihnen?
+* **B:** Auch gut, danke.
+* **A:** Frau Weber, das ist Herr Oliver Hansen. Er ist mein Kollege.
+* **C (Herr Hansen):** Guten Tag, Frau Kowalski. Mein Name ist Oliver Hansen.
+* **B (Frau Kowalski):** Guten Tag. Entschuldigung, wie heißen Sie?
+* **C (Herr Hansen):** Oliver Hansen.
+* **B (Frau Kowalski):** Ah, Herr Hansen. Hân hạnh được gặp ngài! (*Freut mich!*)
+
+---
+
+## 4. Aussprache — Quy Tắc Phát Âm Cơ Bản
+
+Xem thêm các bài viết chi tiết về phát âm tại thư mục [[04 Aussprache]]:
+- [[01 Vokalkombinationen]] (Nguyên âm kép)
+- [[02 Konsonantenkombinationen]] (Tổ hợp phụ âm)
+- [[03 Sonderregeln]] (Quy tắc đặc biệt)
+
+### 4.1 Ký tự đặc biệt (Sonderzeichen)
+* **Ä ä** (A-Umlaut): Phát âm như âm /e/ kéo dài (Mở miệng phát âm chữ A nhưng hơi nghiêng sang E). Ví dụ: *Äpfel* (những quả táo). Xem tại [[06 A-Umlaut]].
+* **Ö ö** (O-Umlaut): Chu tròn môi như khi phát âm chữ O, nhưng luồng hơi phát ra là âm E. Ví dụ: *Österreich* (nước Áo), *schön* (đẹp). Xem tại [[04 O-Umlaut]].
+* **Ü ü** (U-Umlaut): Chu tròn môi như khi phát âm chữ U, nhưng luồng hơi phát ra là âm I (giống âm /uy/ trong tiếng Việt). Ví dụ: *Übung* (bài tập), *Türkei* (Thổ Nhĩ Kỳ). Xem tại [[05 U-Umlaut]].
+* **ß** (Eszett): Phát âm như âm "S" kéo dài (luôn là âm vô thanh /s/, không bao giờ rung). Ví dụ: *heißen*.
+
+### 4.2 Nguyên âm kép (Diphthonge)
+* **ei / ai**: Phát âm là **"ai"**. Ví dụ: *nein* (không), *mein* (của tôi).
+* **ie**: Phát âm là **"i" kéo dài**. Ví dụ: *sie* (cô ấy), *wie* (thế nào), *vier* (bốn).
+* **au**: Phát âm là **"ao"**. Ví dụ: *Auto* (ô tô), *aus* (từ đâu).
+* **eu / äu**: Phát âm là **"oi"**. Ví dụ: *neu* (mới), *Deutsch* (tiếng Đức), *Häuser* (những ngôi nhà).
+
+### 4.3 Phụ âm đặc biệt & Tổ hợp phụ âm
+* **W**: Đọc giống âm **"V"** trong tiếng Việt. Ví dụ: *wer* [ve-a], *wie* [vi], *wohnen* [vô-nân].
+* **V**: Thường đọc giống âm **"Ph" (f)** trong tiếng Việt. Ví dụ: *vier* [phia], *viel* [phi:l], *Vater* [pha-tờ]. (Ngoại trừ từ ngoại nhập đọc là V: *das Verb*).
+* **Z**: Đọc là âm ghép **"ts"** (bật hơi nhanh). Ví dụ: *zwei* [tsvay], *Zug* [tsuk]. Xem tại [[09 Z-Laut]].
+* **J**: Đọc như âm **"D/Y"** nhẹ. Ví dụ: *Ja* [ya], *Japan* [ya-pan].
+* **S đứng đầu từ trước một nguyên âm**: Đọc phát âm thành âm **"z" (rung)**. Ví dụ: *sie* [zi], *sind* [zint], *Salewska* [za-lép-x-ca].
+* **sch**: Đọc là âm **"s" nặng / uốn lưỡi** (sh). Ví dụ: *schön*, *Deutsch*.
+* **st / sp ở đầu từ hoặc đầu âm tiết**: Đọc thành **"scht" / "schp"** (sh-t / sh-p). Ví dụ: *Student* [schtu-đên-t], *sprechen* [schpre-chần], *Spanisch* [schpa-nisch].
+* **ch**:
+  * Phát âm **nhẹ (Ich-Laut)**: Sau các nguyên âm *e, i, ä, ö, ü, ei, eu*: đẩy gió qua kẽ răng (như âm /h/ nhẹ). Ví dụ: *ich* [ich], *sprechen* [schpre-chần]. Xem tại [[07 Ch-Laut]].
+  * Phát âm **khàn (Ach-Laut)**: Sau các nguyên âm *a, o, u, au*: đọc khàn từ cuống họng (như âm /kh/ nhẹ). Ví dụ: *acht* [akht], *auch* [aukh].
+* **-ig ở cuối từ**: Đọc giống âm **"ich"** nhẹ. Ví dụ: *zwanzig* [tsvan-tsich], *richtig* [rich-tich].
+* **R**:
+  * Đứng đầu từ hoặc trước nguyên âm: Rung ở cuống họng. Ví dụ: *Radio*, *Russland*.
+  * Đứng cuối từ: Đọc nhẹ đi thành một âm **"ờ"** lướt nhẹ. Ví dụ: *Vater* [pha-tờ], *woher* [vô-he-ờ], *Herr* [he-ờ]. Xem tại [[08 R-Laut]].
+
+### 4.4 Quy tắc nguyên âm ngắn và nguyên âm dài (Chữ `a`)
+* **Nguyên âm ngắn /a/:** Khi chữ `a` đi trước **2 phụ âm trở lên** (hoặc phụ âm gấp đôi).
+  * Ví dụ: *Mann* (a + nn), *Ball* (a + ll), *Stadt* (a + dt), *kann* (a + nn).
+* **Nguyên âm dài /aː/:** Khi chữ `a` đi trước **1 phụ âm đơn** hoặc đi cùng **chữ h câm** (*Dehnungs-h*).
+  * Ví dụ: *Tag* (a + g), *Name* (a + m + nguyên âm), *Vater* (a + t + nguyên âm), *fahren* (a + h câm), *Jahr* (a + h câm).
+
+---
+
+## 5. Tài liệu Luyện tập & Liên kết ngoài
+
+* Luyện tập từ vựng & cấu trúc trực tuyến:
+  - [Länder und Sprachen - Wordwall](https://wordwall.net/de/resource/9019003/daf/l%C3%A4nder-und-sprachen)
+  - [20 Länder - Wordwall](https://wordwall.net/de/resource/33398891/s-20-l%C3%A4nder)
+  - [W-Fragen - Wordwall](https://wordwall.net/de/resource/75590995/w-fragen)
+* Bài tập thực hành của bài học này:
+  - Xem và làm bài tập tại: [[02 Übungen — Hallo! Wie geht's?]]

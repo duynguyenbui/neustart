@@ -1,6 +1,3 @@
-# Übungen — Hallo! Wie geht's?
-
----
 
 ## 1 · Mein Name ist …
 
@@ -296,9 +293,9 @@ Mir ___ -> Mir geht es gut
 | T | Ü | R | K | I | S | C | H | G | N |
 | M | S | P | R | A | A | E | I | K | A |
 
-Sprachen: ___ / ___ / ___ / ___
+Sprachen: ___ / ___ / ___ / ___ -> Arabisch / Deutsch / Türkisch
 
-Länder: ___ / ___ / ___ / ___
+Länder: ___ / ___ / ___ / ___ -> Spanien / Iran / Syrien / Nigeria / USA / Ghana
 
 ---
 
@@ -306,25 +303,25 @@ Länder: ___ / ___ / ___ / ___
 
 > Arabisch · Tigrinya · Englisch · Somali · Dari · Polnisch · Französisch · Deutsch
 
-| Land | Sprache |
-|------|---------|
-| Afghanistan | ___ |
-| Deutschland | ___ |
-| Eritrea | ___ |
-| Frankreich | ___ |
-| Marokko | ___ |
-| Polen | ___ |
-| Somalia | ___ |
-| USA | ___ |
+| Land        | Sprache     |
+| ----------- | ----------- |
+| Afghanistan | Dari        |
+| Deutschland | Deutsch     |
+| Eritrea     | Tigrinya    |
+| Frankreich  | Französisch |
+| Marokko     | Arabisch    |
+| Polen       | Polnisch    |
+| Somalia     | Somali      |
+| USA         | Englisch    |
 
 ---
 
 **c) Antworten Sie.**
 
 Welche Sprachen sprechen Sie?
-Ich ___
+Ich spreche Vietnamesisch, Englisch, und ein bisschen Deutsch
 
-Sprechen Sie auch ein bisschen Deutsch?
+Sprechen Sie auch ein bisschen Deutsch? Ja, ein bisschen
 ___
 
 ---
