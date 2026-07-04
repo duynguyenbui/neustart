@@ -38,13 +38,13 @@ aliases: [Vergleich Akkusativ und Dativ, Akkusativ và Dativ]
 >   * **M** (Trung) $\rightarrow$ *de**m** / eine**m** / keine**m***
 >   * **N** (Số nhiều) $\rightarrow$ *de**n** / --- / keine**n*** (+ danh từ thêm **-n** ở cuối)
 
-### 2.1. Bảng Tóm tắt Tổng hợp (Mạo từ Xác định, Không xác định, Phủ định)
+### 2.1. Bảng Tổng Hợp Mạo Từ "Tất cả trong 1" (Xác định, Không xác định, Phủ định)
 
-| Cách / Giống  | Đực (maskulin - *der*)                                      | Trung (neutral - *das*)                                     | Cái (feminin - *die*)                                       | Số nhiều (Plural - *die*)                                                         |
-| :------------ | :---------------------------------------------------------- | :---------------------------------------------------------- | :---------------------------------------------------------- | :-------------------------------------------------------------------------------- |
-| **Nominativ** | der / ein / kein                                            | das / ein / kein                                            | die / eine / keine                                          | die / --- / keine                                                                 |
-| **Akkusativ** | <span style="color:#d9383a">**den / einen / keinen**</span> | das / ein / kein *(không đổi)*                              | die / eine / keine *(không đổi)*                            | die / --- / keine *(không đổi)*                                                   |
-| **Dativ**     | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**dem / einem / keinem**</span> | <span style="color:#2196F3">**der / einer / keiner**</span> | <span style="color:#4CAF50">**den / --- / keinen**</span> (+ danh từ thêm **-n**) |
+| Cách / Vai trò | ♂️ Giống Đực (der) | 👶 Giống Trung (das) | ♀️ Giống Cái (die) | 👨‍👩‍👧‍👦 Số nhiều (die Pl.) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** *(Chủ ngữ)* | der / ein / kein | das / ein / kein | die / eine / keine | die / *(không)* / keine |
+| **Akkusativ** *(Trực tiếp)* | **den / einen / keinen** | das / ein / kein | die / eine / keine | die / *(không)* / keine |
+| **Dativ** *(Gián tiếp)* | **dem / einem / keinem** | **dem / einem / keinem** | **der / einer / keiner** | **den**... + **n** / *(không)* / **keinen**... + **n** |
 
 ### 2.2. Mạo từ Xác định (Bestimmte Artikel)
 

@@ -9,7 +9,7 @@ Kho lưu trữ được cấu trúc theo các thư mục và tệp tin sau:
 - **`02 Grammatik`**: Các bài viết chuyên sâu về ngữ pháp tiếng Đức.
 - **`03 Sätze`**: Các mẫu câu giao tiếp và cấu trúc câu phổ biến.
 - **`04 Aussprache`**: Tài liệu và hướng dẫn về phát âm.
-- **`05 NEC2610`**: Ghi chú và bài tập từ khóa học tiếng Đức (Deutschkurs A1).
+- **`05 NEC2610`**: Ghi chú và bài tập từ khóa học tiếng Đức (NEC2610 - Cô Hường Nguyễn).
 - **`99 Schreibübung.md`**: Tệp tin chuyên dụng để luyện viết tiếng Đức.
 - **`.agents/`**: Cấu trúc cấu hình, kỹ năng (skills) và quy tắc (rules) dành cho trợ lý AI.
 
@@ -20,5 +20,5 @@ Tệp tin này liệt kê các quy tắc và hướng dẫn áp dụng trên to�
 ## Rules List
 
 - **Anti-Hallucination (CRITICAL):** @.agents/rules/anti-hallucination.md — Ngăn chặn việc AI tự tạo ra thông tin sai lệch bằng cách bắt buộc xác thực nguồn thông tin.
-- **Obsidian Environment:** @.agents/rules/remember-obsidian.md — Nhắc nhở AI rằng đây là một Obsidian vault để tuân thủ đúng định dạng Markdown và liên kết nội bộ.
 - **Always Explain Grammar:** @.agents/rules/always-explain-grammar.md — Luôn giải thích chi tiết ngữ pháp tiếng Đức khi người dùng làm bài tập hoặc luyện viết.
+- **Source-First Documentation:** @.agents/rules/source-first-documentation.md — Bắt buộc AI Agent tìm tài liệu chính xác trong vault trước, đặc biệt là tài liệu ngữ pháp, rồi mới tìm nguồn bên ngoài khi cần.
