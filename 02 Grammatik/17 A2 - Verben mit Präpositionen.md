@@ -1,9 +1,9 @@
-> **Chủ điểm:** *Verben mit Präpositionen* — Động từ đi kèm giới từ cố định
-> **Mục tiêu chương:** Sau khi hoàn thành, bạn có thể:
-> - Hiểu vì sao động từ tiếng Đức phải đi kèm giới từ cố định
-> - Nhận biết và dùng đúng các cụm động từ + giới từ thường gặp ở A2
-> - Không dịch từng từ theo tiếng Việt — học theo nghĩa cả cụm
-> - Phân biệt giới từ + Akkusativ và giới từ + Dativ
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Hiểu vì sao động từ tiếng Đức phải đi kèm giới từ cố định
+> - ✅ Nhận biết và dùng đúng các cụm động từ + giới từ thường gặp ở A2
+> - ✅ Không dịch từng từ theo tiếng Việt — học theo nghĩa cả cụm
+> - ✅ Phân biệt giới từ + Akkusativ và giới từ + Dativ
 
 ---
 

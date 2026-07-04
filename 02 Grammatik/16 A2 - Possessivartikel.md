@@ -1,9 +1,10 @@
-> **Chủ điểm:** *Possessivartikel* — mein / dein / sein / ihr / ...
-> **Mục tiêu chương:** Sau khi hoàn thành, bạn có thể:
-> - Hiểu mạo từ sở hữu là gì và dùng khi nào
-> - Phân biệt mạo từ sở hữu với đại từ nhân xưng
-> - Dùng đúng mạo từ sở hữu trong Nominativ – Akkusativ – Dativ
-> - Tránh các lỗi thường gặp khi học kém
+
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Hiểu mạo từ sở hữu là gì và dùng khi nào
+> - ✅ Phân biệt mạo từ sở hữu với đại từ nhân xưng
+> - ✅ Dùng đúng mạo từ sở hữu trong Nominativ – Akkusativ – Dativ
+> - ✅ Tránh các lỗi thường gặp khi học kém
 
 ---
 

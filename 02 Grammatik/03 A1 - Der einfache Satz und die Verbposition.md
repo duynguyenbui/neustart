@@ -1,19 +1,10 @@
-
-> [!meta] Thông tin chung
-> - **Tags:** #grammar #german #deutsch-lernen #satz #verbposition #satzbau
-> - **Level:** A1
-> - **Nguồn:** Ngữ pháp A1 — Nền móng Tiếng Đức (A1-03)
-
----
-
-## Mục tiêu chương
-
-Sau khi hoàn thành chương này, bạn có thể:
-- ✅ Hiểu câu tiếng Đức được xây dựng như thế nào
-- ✅ Biết và sử dụng đại từ nhân xưng (Personalpronomen)
-- ✅ Chia động từ cơ bản đúng theo chủ ngữ
-- ✅ Đặt đúng: câu trần thuật, câu hỏi, câu phủ định, câu hỏi phủ định
-- ✅ Tránh những lỗi nền tảng nhất của người mới học
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Hiểu câu tiếng Đức được xây dựng như thế nào
+> - ✅ Biết và sử dụng đại từ nhân xưng (Personalpronomen)
+> - ✅ Chia động từ cơ bản đúng theo chủ ngữ
+> - ✅ Đặt đúng: câu trần thuật, câu hỏi, câu phủ định, câu hỏi phủ định
+> - ✅ Tránh những lỗi nền tảng nhất của người mới học
 
 ---
 

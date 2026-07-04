@@ -1,3 +1,11 @@
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Hiểu câu mệnh lệnh (Imperativ) là gì và dùng khi nào
+> - ✅ Chia đúng động từ ở thể mệnh lệnh cho các ngôi du, ihr, Sie
+> - ✅ Nhận biết và sử dụng các dạng bất quy tắc của câu mệnh lệnh
+
+---
+
 Câu mệnh lệnh trong tiếng Đức được sử dụng để yêu cầu, ra lệnh, khuyên bảo hoặc đưa ra lời đề nghị cho ai đó làm một việc gì đó.
 Đặc trưng của câu mệnh lệnh: **Không có chủ ngữ (đối với ngôi *du* và *ihr*) và động từ luôn đứng ở vị trí ĐẦU CÂU.**
 

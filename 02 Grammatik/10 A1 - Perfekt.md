@@ -1,23 +1,22 @@
 *(Kể những việc đã xảy ra trong đời sống hằng ngày)*
 
-## Mục tiêu chương
-
-- Hiểu và nhận diện thì Perfekt
-- Phân biệt được:
-  - Câu hiện tại (Ich arbeite.)
-  - Câu quá khứ Perfekt (Ich habe gearbeitet.)
-- Nắm vững công thức Perfekt: **haben / sein + Partizip II**
-- Phân biệt và sử dụng đúng **haben** và **sein**
-- Sử dụng thì Perfekt trong các dạng câu thường gặp:
-  - Câu trần thuật
-  - Câu phủ định với *nicht / kein*
-  - Câu hỏi Có - Không
-  - Câu hỏi với từ để hỏi (Was? Wann? Wo?)
-- Ứng dụng Perfekt vào giao tiếp đời sống
-- Kể ngắn gọn những việc đã xảy ra:
-  - hôm qua
-  - tuần trước
-  - sáng nay
+> [!INFO]+ Mục tiêu chương
+> - ✅ Hiểu và nhận diện thì Perfekt
+> - ✅ Phân biệt được:
+> - ✅ Câu hiện tại (Ich arbeite.)
+> - ✅ Câu quá khứ Perfekt (Ich habe gearbeitet.)
+> - ✅ Nắm vững công thức Perfekt: **haben / sein + Partizip II**
+> - ✅ Phân biệt và sử dụng đúng **haben** và **sein**
+> - ✅ Sử dụng thì Perfekt trong các dạng câu thường gặp:
+> - ✅ Câu trần thuật
+> - ✅ Câu phủ định với *nicht / kein*
+> - ✅ Câu hỏi Có - Không
+> - ✅ Câu hỏi với từ để hỏi (Was? Wann? Wo?)
+> - ✅ Ứng dụng Perfekt vào giao tiếp đời sống
+> - ✅ Kể ngắn gọn những việc đã xảy ra:
+> - ✅ hôm qua
+> - ✅ tuần trước
+> - ✅ sáng nay
 
 ---
 

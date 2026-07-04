@@ -1,13 +1,12 @@
----
-date: 2026-06-29
-tags:
-  - Deutsch
-  - Grammatik
-  - A1
-  - Präsens
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Nắm vững nguyên tắc chia động từ cơ bản ở thì hiện tại (Präsens)
+> - ✅ Phân biệt và chia đúng các động từ có quy tắc và bất quy tắc
+> - ✅ Hiểu rõ cách biến đổi nguyên âm gốc ở một số động từ đặc biệt
+
 ---
 
-# Chia động từ ở thì hiện tại đơn (Verbkonjugation im Präsens)
+
 
 Trong tiếng Đức, việc chia động từ ở thì hiện tại đơn (*Präsens*) là nền tảng cốt lõi nhất. Động từ sẽ biến đổi phần đuôi (hoặc cả phần nguyên âm gốc) tùy thuộc vào **chủ ngữ** (ngôi nhân xưng) thực hiện hành động đó.
 

@@ -1,9 +1,9 @@
-> [!NOTE] Mục tiêu chương
+> [!INFO]+ Mục tiêu chương
 > Sau khi hoàn thành chương này, bạn có thể:
-> - Hiểu động từ tách là gì và vì sao phải tách.
-> - Nhận biết các động từ tách thường gặp ở A1.
-> - Đặt câu hiện tại (Präsens) với động từ tách đúng trật tự.
-> - Tránh các lỗi rất hay gặp khi nói và viết động từ tách.
+> - ✅ Hiểu động từ tách là gì và vì sao phải tách.
+> - ✅ Nhận biết các động từ tách thường gặp ở A1.
+> - ✅ Đặt câu hiện tại (Präsens) với động từ tách đúng trật tự.
+> - ✅ Tránh các lỗi rất hay gặp khi nói và viết động từ tách.
 
 ---
 

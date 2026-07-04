@@ -22,3 +22,15 @@ Tệp tin này liệt kê các quy tắc và hướng dẫn áp dụng trên to�
 - **Anti-Hallucination (CRITICAL):** @.agents/rules/anti-hallucination.md — Ngăn chặn việc AI tự tạo ra thông tin sai lệch bằng cách bắt buộc xác thực nguồn thông tin.
 - **Always Explain Grammar:** @.agents/rules/always-explain-grammar.md — Luôn giải thích chi tiết ngữ pháp tiếng Đức khi người dùng làm bài tập hoặc luyện viết.
 - **Source-First Documentation:** @.agents/rules/source-first-documentation.md — Bắt buộc AI Agent tìm tài liệu chính xác trong vault trước, đặc biệt là tài liệu ngữ pháp, rồi mới tìm nguồn bên ngoài khi cần.
+- **No Redundant H1:** @.agents/rules/no-redundant-h1.md — Không thêm thẻ Heading 1 (`#`) trùng lặp với tên file ở đầu các tài liệu do Obsidian đã tự động hiển thị tên file làm tiêu đề.
+
+## Harness: German Learning
+
+**Objective:** A team of agents to assist with learning German (Grammar, Writing, Vocabulary).
+
+**Trigger:** Use the `german-tutor` skill for requests related to learning German, correcting writing, or explaining grammar. Simple questions can be answered directly.
+
+**Changelog:**
+| Date | Changes | Target | Reason |
+|------|----------|------|------|
+| 2026-07-04 | Initial setup | All | Created harness for German learning project |

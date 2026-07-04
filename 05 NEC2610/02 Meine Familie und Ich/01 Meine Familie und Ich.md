@@ -3,13 +3,91 @@
 Trong tiếng Đức, khi học danh từ bạn bắt buộc phải học kèm giống (der/die/das), dạng số nhiều và cách phát âm của chúng.
 *(Lưu ý: Phần phát âm được ghi theo âm bồi tiếng Việt để người mới bắt đầu dễ hình dung nhất. Chữ "r" ở cuối từ thường được đọc nhẹ như âm "ờ").*
 
+## I. Sơ đồ tư duy (Mindmap & Stammbaum)
+
+### 1. Cây gia đình (Stammbaum)
+Sơ đồ dưới đây giúp bạn dễ hình dung mối quan hệ trong gia đình qua các thế hệ. Màu xanh dương chỉ nam giới (der), màu đỏ hồng chỉ nữ giới (die).
+
+```mermaid
+graph TD
+    classDef male fill:#D6EAF8,stroke:#2E86C1,stroke-width:2px,color:#154360;
+    classDef female fill:#FADBD8,stroke:#CB4335,stroke-width:2px,color:#641E16;
+    classDef group fill:#F2F3F4,stroke:#7B7D7D,stroke-width:1px,color:#424949,stroke-dasharray: 5 5;
+
+    Oma["👵<br><b>die Großmutter</b><br>(die Oma)"]:::female
+    Opa["👴<br><b>der Großvater</b><br>(der Opa)"]:::male
+    
+    Großeltern{"<b>die Großeltern</b><br>(ông bà)"}:::group
+    
+    Oma --- Großeltern
+    Opa --- Großeltern
+    
+    Mutter["👩<br><b>die Mutter</b><br>(die Mama)"]:::female
+    Vater["👨<br><b>der Vater</b><br>(der Papa)"]:::male
+    Tante["👩<br><b>die Tante</b><br>(cô/dì/bác gái)"]:::female
+    Onkel["👨<br><b>der Onkel</b><br>(chú/cậu/bác trai)"]:::male
+    
+    Eltern{"<b>die Eltern</b><br>(bố mẹ)"}:::group
+    
+    Großeltern --> Eltern
+    Großeltern --> Tante
+    Großeltern --> Onkel
+    
+    Mutter --- Eltern
+    Vater --- Eltern
+    
+    Sohn["👦<br><b>der Sohn</b><br>(der Bruder)"]:::male
+    Tochter["👧<br><b>die Tochter</b><br>(die Schwester)"]:::female
+    
+    Kinder{"<b>die Kinder</b> (con cái)<br><b>die Geschwister</b> (anh chị em)"}:::group
+    
+    Eltern --> Kinder
+    
+    Kinder --- Sohn
+    Kinder --- Tochter
+```
+
+### 2. Các cặp quan hệ đối xứng (Beziehungen)
+Cách học từ vựng theo cặp (nam/nữ, cha/con...) sẽ giúp bạn ghi nhớ nhanh và lâu hơn!
+
+```mermaid
+graph LR
+    classDef male fill:#D6EAF8,stroke:#2E86C1,stroke-width:2px,color:#154360;
+    classDef female fill:#FADBD8,stroke:#CB4335,stroke-width:2px,color:#641E16;
+
+    subgraph Gia đình hạt nhân & Hôn nhân
+    Vater["👨 der Vater"]:::male <--> Sohn["👦 der Sohn"]:::male
+    Mutter["👩 die Mutter"]:::female <--> Tochter["👧 die Tochter"]:::female
+    Bruder["👦 der Bruder"]:::male <--> Schwester["👧 die Schwester"]:::female
+    Ehemann["👨 der Ehemann"]:::male <--> Ehefrau["👩 die Ehefrau"]:::female
+    end
+    
+    subgraph Họ hàng & Cháu
+    Opa["👴 der Opa"]:::male <--> Enkelin["👧 die Enkelin"]:::female
+    Oma["👵 die Oma"]:::female <--> Enkel["👦 der Enkel"]:::male
+    Cousine["👩 die Cousine"]:::female <--> Cousin["👦 der Cousin"]:::male
+    Tante["👩 die Tante"]:::female <--> Neffe["👦 der Neffe"]:::male
+    Onkel["👨 der Onkel"]:::male <--> Nichte["👧 die Nichte"]:::female
+    end
+    
+    subgraph Gia đình Vợ/Chồng
+    Schwägerin["👩 die Schwägerin"]:::female <--> Schwager["👨 der Schwager"]:::male
+    Schwiegermutter["👵 die Schwiegermutter"]:::female <--> Schwiegersohn["👨 der Schwiegersohn"]:::male
+    Schwiegervater["👴 der Schwiegervater"]:::male <--> Schwiegertochter["👩 die Schwiegertochter"]:::female
+    end
+```
+
+## II. Bảng từ vựng chi tiết
+
 ### 1. Gia đình hạt nhân (Kernfamilie)
 | Từ vựng (Số ít) | Phát âm | Số nhiều | Phát âm (Số nhiều) | Nghĩa Tiếng Việt |
 | :--- | :--- | :--- | :--- | :--- |
 | **die Familie** | *fa-mi-li-ờ* | die Familien | *fa-mi-li-ờn* | gia đình |
 | *(chỉ có số nhiều)* | - | **die Eltern** | *el-tờn* | bố mẹ |
 | **der Vater** | *fa-tờ* | die Väter | *fê-tờ* | bố |
+| *(hay gọi:)* **der Papa** | *pa-pa* | die Papas | *pa-pa-x* | ba / bố |
 | **die Mutter** | *mút-tờ* | die Mütter | *mứt-tờ* | mẹ |
+| *(hay gọi:)* **die Mama** | *ma-ma* | die Mamas | *ma-ma-x* | má / mẹ |
 | **das Kind** | *kin-t* | die Kinder | *kin-đờ* | đứa trẻ / con cái |
 | **der Sohn** | *dôn* | die Söhne | *dơ-nờ* | con trai |
 | **die Tochter** | *tóc-tờ* | die Töchter | *tớc-tờ* | con gái |

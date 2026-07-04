@@ -1,4 +1,5 @@
-> **Mục tiêu:** Ôn luyện toàn bộ ngữ pháp A1 (bài 01 → 11) trước khi bước sang A2.
+> [!INFO]+ Mục tiêu chương
+> Ôn luyện toàn bộ ngữ pháp A1 (bài 01 → 11) trước khi bước sang A2.
 > ⏱ Thời gian gợi ý: **45 – 60 phút** | Không tra bảng — làm như một bài kiểm tra thực sự.
 
 ---

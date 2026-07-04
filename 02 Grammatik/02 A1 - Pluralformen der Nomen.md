@@ -1,17 +1,8 @@
-
-> [!meta] Thông tin chung
-> - **Tags:** #grammar #german #deutsch-lernen #nomen #plural #pluralformen
-> - **Level:** A1
-> - **Nguồn:** Ngữ pháp A1 — Nền móng Tiếng Đức (A1-02)
-
----
-
-## Mục tiêu chương
-
-Sau khi hoàn thành chương này, bạn có thể:
-- ✅ Hiểu khái niệm danh từ số nhiều trong tiếng Đức
-- ✅ Biết mạo từ dùng cho danh từ số nhiều
-- ✅ Nhận biết và sử dụng các dạng số nhiều cơ bản ở trình độ A1
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Hiểu khái niệm danh từ số nhiều trong tiếng Đức
+> - ✅ Biết mạo từ dùng cho danh từ số nhiều
+> - ✅ Nhận biết và sử dụng các dạng số nhiều cơ bản ở trình độ A1
 
 ---
 

@@ -1,9 +1,9 @@
-> [!NOTE] Mục tiêu chương
+> [!INFO]+ Mục tiêu chương
 > Sau khi hoàn thành chương này, bạn có thể:
-> - Sử dụng đúng các giới từ chỉ nơi chốn và hướng đi phổ biến.
-> - Phân biệt khi nào dùng **Akkusativ** (hướng chuyển động) và **Dativ** (vị trí).
-> - Sử dụng chính xác 3 giới từ chỉ hướng `nach`, `zu`, `in`.
-> - Tránh các bẫy ngữ pháp phổ biến khi sử dụng giới từ nơi chốn.
+> - ✅ Sử dụng đúng các giới từ chỉ nơi chốn và hướng đi phổ biến.
+> - ✅ Phân biệt khi nào dùng **Akkusativ** (hướng chuyển động) và **Dativ** (vị trí).
+> - ✅ Sử dụng chính xác 3 giới từ chỉ hướng `nach`, `zu`, `in`.
+> - ✅ Tránh các bẫy ngữ pháp phổ biến khi sử dụng giới từ nơi chốn.
 
 ---
 

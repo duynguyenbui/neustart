@@ -1,11 +1,11 @@
-> [!NOTE] Mục tiêu chương
+> [!INFO]+ Mục tiêu chương
 > Sau khi hoàn thành chương này, bạn có thể:
-> - Hiểu Dativ là gì và khi nào dùng
-> - Chia đúng mạo từ xác định và không xác định ở Dativ
-> - Biến đổi đại từ nhân xưng sang Dativ
-> - Nhận biết động từ và giới từ luôn đi với Dativ
-> - Phân biệt Dativ và Akkusativ trong cùng một câu
-> - Tránh các lỗi thường gặp
+> - ✅ Hiểu Dativ là gì và khi nào dùng
+> - ✅ Chia đúng mạo từ xác định và không xác định ở Dativ
+> - ✅ Biến đổi đại từ nhân xưng sang Dativ
+> - ✅ Nhận biết động từ và giới từ luôn đi với Dativ
+> - ✅ Phân biệt Dativ và Akkusativ trong cùng một câu
+> - ✅ Tránh các lỗi thường gặp
 
 ---
 

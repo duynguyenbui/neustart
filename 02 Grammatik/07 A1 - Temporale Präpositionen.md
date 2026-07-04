@@ -1,9 +1,9 @@
-> [!NOTE] Mục tiêu chương
+> [!INFO]+ Mục tiêu chương
 > Sau khi hoàn thành chương này, bạn có thể:
-> - Nắm vững các giới từ thời gian cơ bản và cách chia đi kèm (Dativ hoặc Akkusativ).
-> - Phân biệt chính xác cách dùng `am`, `um`, `im`, `von...bis`.
-> - Tránh các bẫy thường gặp khi dùng giới từ thời gian.
-> - Phân biệt rõ ràng `bis`, `ab`, và `seit`.
+> - ✅ Nắm vững các giới từ thời gian cơ bản và cách chia đi kèm (Dativ hoặc Akkusativ).
+> - ✅ Phân biệt chính xác cách dùng `am`, `um`, `im`, `von...bis`.
+> - ✅ Tránh các bẫy thường gặp khi dùng giới từ thời gian.
+> - ✅ Phân biệt rõ ràng `bis`, `ab`, và `seit`.
 
 ---
 

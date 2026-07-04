@@ -1,10 +1,10 @@
-> [!NOTE] Mục tiêu chương
+> [!INFO]+ Mục tiêu chương
 > Sau khi hoàn thành chương này, bạn có thể:
-> - Hiểu Akkusativ là gì và khi nào dùng
-> - Chia đúng mạo từ xác định, không xác định, và phủ định ở Akkusativ
-> - Biến đổi đại từ nhân xưng sang Akkusativ
-> - Nhận biết động từ và giới từ luôn đi với Akkusativ
-> - Tránh các lỗi thường gặp
+> - ✅ Hiểu Akkusativ là gì và khi nào dùng
+> - ✅ Chia đúng mạo từ xác định, không xác định, và phủ định ở Akkusativ
+> - ✅ Biến đổi đại từ nhân xưng sang Akkusativ
+> - ✅ Nhận biết động từ và giới từ luôn đi với Akkusativ
+> - ✅ Tránh các lỗi thường gặp
 
 ---
 

@@ -1,15 +1,16 @@
----
-tags: [deutsch/A1, grammar, akkusativ, dativ]
-date: 2026-07-01
-aliases: [Vergleich Akkusativ und Dativ, Akkusativ và Dativ]
----
-
-# 16 A1 - Akkusativ und Dativ im Vergleich
-
 > [!INFO] **Tổng quan**
 > Trong tiếng Đức, vai trò của danh từ được xác định thông qua 4 Cách (Kasus). Ở trình độ A1, việc phân biệt rõ ràng giữa **Akkusativ (Cách 4 - Tân ngữ trực tiếp)** và **Dativ (Cách 3 - Tân ngữ gián tiếp)** là nền tảng cốt lõi nhất để xây dựng câu chính xác.
 
 ---
+
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Phân biệt rõ ràng chức năng của Akkusativ và Dativ trong câu
+> - ✅ Nhận diện được động từ và giới từ đi kèm với từng cách
+> - ✅ Vận dụng đúng mạo từ và đại từ cho Akkusativ và Dativ
+
+---
+
 
 ## 1. So sánh Bản chất: Nominativ vs. Akkusativ vs. Dativ
 

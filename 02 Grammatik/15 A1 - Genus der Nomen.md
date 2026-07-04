@@ -1,16 +1,8 @@
-> [!meta] Thông tin chung
-> - **Tags:** #grammar #german #deutsch-lernen #nomen #artikel #genus
-> - **Level:** A1
-> - **Nguồn:** Ngữ pháp A1 — Nền móng Tiếng Đức
-
----
-
-## Mục tiêu chương
-
-Sau khi hoàn thành chương này, bạn có thể:
-- ✅ Nhận biết được một số quy tắc xác định giống danh từ (`der`, `die`, `das`).
-- ✅ Biết cách phân loại danh từ chỉ người và sự vật.
-- ✅ Áp dụng các đuôi từ để nhận diện mạo từ.
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Nhận biết được một số quy tắc xác định giống danh từ (`der`, `die`, `das`).
+> - ✅ Biết cách phân loại danh từ chỉ người và sự vật.
+> - ✅ Áp dụng các đuôi từ để nhận diện mạo từ.
 
 ---
 

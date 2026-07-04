@@ -1,3 +1,11 @@
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Hiểu ý nghĩa và cách dùng của 6 động từ khuyết thiếu cơ bản
+> - ✅ Chia đúng các động từ khuyết thiếu theo ngôi
+> - ✅ Đặt câu đúng trật tự từ với động từ khuyết thiếu
+
+---
+
 Động từ khuyết thiếu (Modalverben) đóng vai trò bổ sung ý nghĩa cho động từ chính trong câu (như khả năng, sự bắt buộc, mong muốn, v.v.). Trong tiếng Đức có 6 động từ khuyết thiếu cơ bản: **können, müssen, wollen, sollen, dürfen, mögen** và một dạng đặc biệt là **möchten** (thực chất là dạng Konjunktiv II của *mögen*, nhưng thường được sử dụng như một Modalverb độc lập ở trình độ A1).
 
 ---

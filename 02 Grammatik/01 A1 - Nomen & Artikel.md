@@ -1,17 +1,8 @@
-
-> [!meta] Thông tin chung
-> - **Tags:** #grammar #german #deutsch-lernen #nomen #artikel
-> - **Level:** A1 - B1
-> - **Nguồn:** Ngữ pháp A1 — Nền móng Tiếng Đức
-
----
-
-## Mục tiêu chương
-
-Sau khi hoàn thành chương này, bạn có thể:
-- ✅ Hiểu danh từ trong tiếng Đức luôn đi kèm mạo từ
-- ✅ Phân biệt ba giống danh từ: `der` – `die` – `das`
-- ✅ Biết cách ghi nhớ giống danh từ hiệu quả ở trình độ A1
+> [!INFO]+ Mục tiêu chương
+> Sau khi hoàn thành chương này, bạn có thể:
+> - ✅ Hiểu danh từ trong tiếng Đức luôn đi kèm mạo từ
+> - ✅ Phân biệt ba giống danh từ: `der` – `die` – `das`
+> - ✅ Biết cách ghi nhớ giống danh từ hiệu quả ở trình độ A1
 
 ---
 
