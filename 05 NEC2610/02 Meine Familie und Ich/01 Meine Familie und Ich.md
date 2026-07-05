@@ -133,7 +133,27 @@ graph LR
 | **die Schwägerin** | *suê-gờ-rin* | die Schwägerinnen| *suê-gờ-rin-nền*| chị/em dâu, chị/em vợ |
 
 ### 5. Tình trạng hôn nhân (Familienstand) - Tính từ
-*   **ledig** (*lê-đích*): độc thân
-*   **verheiratet** (*phe-hai-ra-tẹt*): đã kết hôn
-*   **geschieden** (*gê-si-đền*): đã ly hôn
-*   **verwitwet** (*phe-vít-vẹt*): góa (chồng/vợ)
+*  **ledig** (*lê-đích*): độc thân
+*  **verheiratet** (*phe-hai-ra-tẹt*): đã kết hôn
+*  **geschieden** (*gê-si-đền*): đã ly hôn
+*  **verwitwet** (*phe-vít-vẹt*): góa (chồng/vợ)
+* **Familienstand**:Tình trạng hôn nhân
+## III. Sách
+
+**Bài tập 1.7a: Das ist meine Familie (Nghe và điền từ)**
+*(Dựa trên hình ảnh bài tập cung cấp)*
+
+Từ vựng: *Bruder | Frau | Mann | Schwägerin | Schwester | Schwiegervater | Sohn | Tochter | Vater*
+
+**Đoạn hội thoại và đáp án:**
+* **Akono:** „Das ist meine Familie. Meine Kinder sind mein **Sohn (1)** Tayo und meine **Tochter (2)** Joana. Meine Schwiegertochter heißt Michaela.“
+* **Joana:** „Hier ist mein **Vater (3)** Akono. Und das sind mein **Bruder (4)** Tayo und meine Schwägerin Michaela.“
+* **Michaela:** „Hier sind mein **Mann (5)** Tayo, meine **Schwägerin (6)** Joana und mein **Schwiegervater (7)** Akono.“
+* **Tayo:** „Hier ist mein Schatz, meine **Frau (8)** Michaela. Das sind mein Vater Akono und meine **Schwester (9)** Joana.“
+
+
+
+
+verheiratet
+zwei Kinder
+Deutsch
