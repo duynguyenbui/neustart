@@ -63,7 +63,7 @@ aliases: [Lektion 1, Hallo! Wie geht's?]
 > [!IMPORTANT]
 > Quy tắc lập số nhiều cho danh từ chỉ nghề nghiệp/người giống cái kết thúc bằng `-in`:
 > Chỉ cần thêm `-nen` vào cuối: **die Kollegin** $\rightarrow$ **die Kolleginnen**, **die Kursteilnehmerin** $\rightarrow$ **die Kursteilnehmerinnen**.
-> Xem chi tiết tại [[02 A1 - Pluralformen der Nomen]].
+> Xem chi tiết tại [[02_Grammatik/01_A1/02_Pluralformen_der_Nomen]].
 
 ### 1.4 Từ vựng bổ trợ khác
 * **Danke / Vielen Dank / Danke schön**: Cảm ơn / Cảm ơn nhiều / Cảm ơn (lịch sự).
@@ -84,7 +84,7 @@ aliases: [Lektion 1, Hallo! Wie geht's?]
 > [!TIP]
 > - Giới từ **aus** luôn đi với **Dativ** để chỉ nguồn gốc.
 > - Giới từ **in** luôn đi với **Dativ** để chỉ nơi ở (trả lời câu hỏi *Wo*).
-> Xem thêm tại [[05 A1 - Der Dativ]] và [[06 A1 - Lokale Präpositionen]].
+> Xem thêm tại [[02_Grammatik/01_A1/05_Der_Dativ]] và [[02_Grammatik/01_A1/06_Lokale_Präpositionen]].
 
 | Loại quốc gia | Quốc gia (Land) | Ngôn ngữ (Sprache) | Cách nói nguồn gốc với **aus** | Ví dụ |
 | :--- | :--- | :--- | :--- | :--- |
@@ -148,7 +148,7 @@ Khi giới thiệu hoặc nói về một người thứ ba (không tham gia cu�
 > [!NOTE]
 > **Trường hợp đặc biệt (như động từ heißen):**
 > Thân động từ là *heiß-* kết thúc bằng âm **ß** (phát âm như /s/). Theo quy tắc, ngôi **du** phải thêm đuôi **-st** (*heißst*). Tuy nhiên, để tránh việc có quá nhiều âm /s/ đi liền nhau, ta chỉ cần thêm đuôi **-t** cho ngôi **du** $\rightarrow$ **du heißt** (giống hệt ngôi er/sie/es).
-> Chi tiết xem tại [[15 A1 - Verbkonjugation im Präsens]].
+> Chi tiết xem tại [[02_Grammatik/01_A1/14_Verbkonjugation_im_Präsens]].
 
 #### B. Động từ biến đổi nguyên âm (Unregelmäßige Verben)
 Một số động từ thay đổi nguyên âm ở thân từ đối với các ngôi số ít **du** và **er/sie/es**:
@@ -207,7 +207,7 @@ Vị trí của động từ là yếu tố quan trọng nhất trong cấu trú
   * **Sind** (1) *Sie* (2) *Frau Krüger* (3)? $\rightarrow$ *Ja, richtig.* / *Nein, ich bin Rabia Navid.*
 
 > [!NOTE]
-> Để tìm hiểu sâu hơn về trật tự từ và các loại câu khác, xem tại [[03 A1 - Der einfache Satz und die Verbposition]].
+> Để tìm hiểu sâu hơn về trật tự từ và các loại câu khác, xem tại [[02_Grammatik/01_A1/03_Der_einfache_Satz_und_die_Verbposition]].
 
 ---
 
@@ -288,15 +288,15 @@ Vị trí của động từ là yếu tố quan trọng nhất trong cấu trú
 
 ## 4. Aussprache — Quy Tắc Phát Âm Cơ Bản
 
-Xem thêm các bài viết chi tiết về phát âm tại thư mục [[04 Aussprache]]:
-- [[01 Vokalkombinationen]] (Nguyên âm kép)
-- [[02 Konsonantenkombinationen]] (Tổ hợp phụ âm)
-- [[03 Sonderregeln]] (Quy tắc đặc biệt)
+Xem thêm các bài viết chi tiết về phát âm tại thư mục [[04_Aussprache]]:
+- [[04_Aussprache/01_Vokalkombinationen]] (Nguyên âm kép)
+- [[04_Aussprache/02_Konsonantenkombinationen]] (Tổ hợp phụ âm)
+- [[04_Aussprache/03_Sonderregeln]] (Quy tắc đặc biệt)
 
 ### 4.1 Ký tự đặc biệt (Sonderzeichen)
-* **Ä ä** (A-Umlaut): Phát âm như âm /e/ kéo dài (Mở miệng phát âm chữ A nhưng hơi nghiêng sang E). Ví dụ: *Äpfel* (những quả táo). Xem tại [[06 A-Umlaut]].
-* **Ö ö** (O-Umlaut): Chu tròn môi như khi phát âm chữ O, nhưng luồng hơi phát ra là âm E. Ví dụ: *Österreich* (nước Áo), *schön* (đẹp). Xem tại [[04 O-Umlaut]].
-* **Ü ü** (U-Umlaut): Chu tròn môi như khi phát âm chữ U, nhưng luồng hơi phát ra là âm I (giống âm /uy/ trong tiếng Việt). Ví dụ: *Übung* (bài tập), *Türkei* (Thổ Nhĩ Kỳ). Xem tại [[05 U-Umlaut]].
+* **Ä ä** (A-Umlaut): Phát âm như âm /e/ kéo dài (Mở miệng phát âm chữ A nhưng hơi nghiêng sang E). Ví dụ: *Äpfel* (những quả táo). Xem tại [[04_Aussprache/06_A_Umlaut]].
+* **Ö ö** (O-Umlaut): Chu tròn môi như khi phát âm chữ O, nhưng luồng hơi phát ra là âm E. Ví dụ: *Österreich* (nước Áo), *schön* (đẹp). Xem tại [[04_Aussprache/04_O_Umlaut]].
+* **Ü ü** (U-Umlaut): Chu tròn môi như khi phát âm chữ U, nhưng luồng hơi phát ra là âm I (giống âm /uy/ trong tiếng Việt). Ví dụ: *Übung* (bài tập), *Türkei* (Thổ Nhĩ Kỳ). Xem tại [[04_Aussprache/05_U_Umlaut]].
 * **ß** (Eszett): Phát âm như âm "S" kéo dài (luôn là âm vô thanh /s/, không bao giờ rung). Ví dụ: *heißen*.
 
 ### 4.2 Nguyên âm kép (Diphthonge)
@@ -308,18 +308,18 @@ Xem thêm các bài viết chi tiết về phát âm tại thư mục [[04 Aussp
 ### 4.3 Phụ âm đặc biệt & Tổ hợp phụ âm
 * **W**: Đọc giống âm **"V"** trong tiếng Việt. Ví dụ: *wer* [ve-a], *wie* [vi], *wohnen* [vô-nân].
 * **V**: Thường đọc giống âm **"Ph" (f)** trong tiếng Việt. Ví dụ: *vier* [phia], *viel* [phi:l], *Vater* [pha-tờ]. (Ngoại trừ từ ngoại nhập đọc là V: *das Verb*).
-* **Z**: Đọc là âm ghép **"ts"** (bật hơi nhanh). Ví dụ: *zwei* [tsvay], *Zug* [tsuk]. Xem tại [[09 Z-Laut]].
+* **Z**: Đọc là âm ghép **"ts"** (bật hơi nhanh). Ví dụ: *zwei* [tsvay], *Zug* [tsuk]. Xem tại [[04_Aussprache/09_Z_Laut]].
 * **J**: Đọc như âm **"D/Y"** nhẹ. Ví dụ: *Ja* [ya], *Japan* [ya-pan].
 * **S đứng đầu từ trước một nguyên âm**: Đọc phát âm thành âm **"z" (rung)**. Ví dụ: *sie* [zi], *sind* [zint], *Salewska* [za-lép-x-ca].
 * **sch**: Đọc là âm **"s" nặng / uốn lưỡi** (sh). Ví dụ: *schön*, *Deutsch*.
 * **st / sp ở đầu từ hoặc đầu âm tiết**: Đọc thành **"scht" / "schp"** (sh-t / sh-p). Ví dụ: *Student* [schtu-đên-t], *sprechen* [schpre-chần], *Spanisch* [schpa-nisch].
 * **ch**:
-  * Phát âm **nhẹ (Ich-Laut)**: Sau các nguyên âm *e, i, ä, ö, ü, ei, eu*: đẩy gió qua kẽ răng (như âm /h/ nhẹ). Ví dụ: *ich* [ich], *sprechen* [schpre-chần]. Xem tại [[07 Ch-Laut]].
+  * Phát âm **nhẹ (Ich-Laut)**: Sau các nguyên âm *e, i, ä, ö, ü, ei, eu*: đẩy gió qua kẽ răng (như âm /h/ nhẹ). Ví dụ: *ich* [ich], *sprechen* [schpre-chần]. Xem tại [[04_Aussprache/07_Ch_Laut]].
   * Phát âm **khàn (Ach-Laut)**: Sau các nguyên âm *a, o, u, au*: đọc khàn từ cuống họng (như âm /kh/ nhẹ). Ví dụ: *acht* [akht], *auch* [aukh].
 * **-ig ở cuối từ**: Đọc giống âm **"ich"** nhẹ. Ví dụ: *zwanzig* [tsvan-tsich], *richtig* [rich-tich].
 * **R**:
   * Đứng đầu từ hoặc trước nguyên âm: Rung ở cuống họng. Ví dụ: *Radio*, *Russland*.
-  * Đứng cuối từ: Đọc nhẹ đi thành một âm **"ờ"** lướt nhẹ. Ví dụ: *Vater* [pha-tờ], *woher* [vô-he-ờ], *Herr* [he-ờ]. Xem tại [[08 R-Laut]].
+  * Đứng cuối từ: Đọc nhẹ đi thành một âm **"ờ"** lướt nhẹ. Ví dụ: *Vater* [pha-tờ], *woher* [vô-he-ờ], *Herr* [he-ờ]. Xem tại [[04_Aussprache/08_R_Laut]].
 
 ### 4.4 Quy tắc nguyên âm ngắn và nguyên âm dài (Chữ `a`)
 * **Nguyên âm ngắn /a/:** Khi chữ `a` đi trước **2 phụ âm trở lên** (hoặc phụ âm gấp đôi).
@@ -336,4 +336,4 @@ Xem thêm các bài viết chi tiết về phát âm tại thư mục [[04 Aussp
   - [20 Länder - Wordwall](https://wordwall.net/de/resource/33398891/s-20-l%C3%A4nder)
   - [W-Fragen - Wordwall](https://wordwall.net/de/resource/75590995/w-fragen)
 * Bài tập thực hành của bài học này:
-  - Xem và làm bài tập tại: [[02 Übungen — Hallo! Wie geht's?]]
+  - Xem và làm bài tập tại: [[05_NEC2610/01_Hallo_Wie_gehts/02_Übungen_Hallo_Wie_gehts]]

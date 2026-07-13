@@ -188,7 +188,7 @@ Khi câu chứa cả tân ngữ Dativ (chỉ người nhận) và Akkusativ (ch�
 ---
 
 ## Các bài viết liên quan trong Vault:
-* [[01 A1 - Nomen & Artikel]] — Kiến thức cơ bản về giống và danh từ.
-* [[04 A1 - Der Akkusativ]] — Bài viết chi tiết về Akkusativ.
-* [[05 A1 - Der Dativ]] — Bài viết chi tiết về Dativ.
-* [[03 A1 - Der einfache Satz und die Verbposition]] — Tìm hiểu sâu về cấu trúc câu.
+* [[02_Grammatik/01_A1/01_Nomen_Artikel]] — Kiến thức cơ bản về giống và danh từ.
+* [[02_Grammatik/01_A1/04_Der_Akkusativ]] — Bài viết chi tiết về Akkusativ.
+* [[02_Grammatik/01_A1/05_Der_Dativ]] — Bài viết chi tiết về Dativ.
+* [[02_Grammatik/01_A1/03_Der_einfache_Satz_und_die_Verbposition]] — Tìm hiểu sâu về cấu trúc câu.

@@ -164,6 +164,6 @@ Có 3 kiểu biến đổi nguyên âm chính:
 ---
 
 ## 🔗 Các chủ đề liên quan
-* [[08 A1 - Trennbare Verben]] — Cách chia và trật tự từ đối với động từ tách.
-* [[09 A1 - Modalverben]] — Cách chia nhóm động từ khuyết thiếu.
-* [[10 A1 - Perfekt]] — Cách chia động từ ở thì quá khứ hoàn thành.
+* [[02_Grammatik/01_A1/09_Trennbare_Verben]] — Cách chia và trật tự từ đối với động từ tách.
+* [[02_Grammatik/01_A1/10_Modalverben]] — Cách chia nhóm động từ khuyết thiếu.
+* [[02_Grammatik/01_A1/11_Perfekt]] — Cách chia động từ ở thì quá khứ hoàn thành.
