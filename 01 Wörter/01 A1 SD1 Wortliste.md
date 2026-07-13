@@ -1,0 +1,751 @@
+## A
+
+- **ab** *(từ, kể từ)*: Ab morgen muss ich arbeiten.
+- **aber** *(nhưng)*: Ich bin oft im Büro, aber nur für wenige Stunden.
+- **abfahren** *(khởi hành)*: Wir fahren um zwölf Uhr ab.
+  - **<span style="color: #E91E63;">die Abfahrt</span>** *(sự khởi hành, chuyến đi)*: Vor der Abfahrt rufe ich an.
+- **abgeben** *(nộp, giao lại)*: Ich muss meine Schlüssel abgeben.
+- **abholen** *(đón, lấy về)*: Wann kann ich den Schrank bei dir abholen? Wir müssen noch meinen Bruder abholen.
+- **<span style="color: #2196F3;">der Absender</span>** *(người gửi)*: Da ist ein Brief für dich ohne Absender.
+- **Achtung** *(sự chú ý, cẩn thận)*: Achtung! Das dürfen Sie nicht tun.
+- **<span style="color: #E91E63;">die Adresse, -en</span>** *(địa chỉ)*: Können Sie mir seine Adresse sagen?
+- **all-** *(tất cả)*: Alles Gute! Das ist alles. Sind alle da? Alle Freunde kommen. Hast du alles?
+- **allein** *(một mình)*: Er kommt allein.
+- **also** *(vì vậy, thế thì)*: Also, es ist so: ... Er hat Zeit, also muss er uns helfen.
+- **alt** *(cũ, già)*: Wie alt sind Sie? Sie sehen aber nicht so alt aus. Mein Auto ist schon sehr alt. Wir wohnen in einem sehr alten Haus. Köln ist eine alte Stadt.
+- **<span style="color: #4CAF50;">das Alter</span>** *(tuổi tác)*: Alter: 26 Jahre.
+- **an** *(ở, vào, tới)*: Fahren Sie an der nächsten Straße nach rechts. Wir treffen uns am Bahnhof. Am nächsten Montag geht es leider nicht.
+- **anbieten** *(cung cấp, mời)*: Was darf ich dir anbieten?
+  - **<span style="color: #4CAF50;">das Angebot, -e</span>** *(lời đề nghị, khuyến mãi)*: Heute sind Sportschuhe im Angebot.
+- **ander-** *(khác)*: Willst du diese Jacke? – Nein, ich möchte die andere.
+- **anfangen** *(bắt đầu)*: Hier fängt die Bahnhofstraße an. Der Unterricht fängt gleich an.
+  - **<span style="color: #2196F3;">der Anfang</span>** *(sự bắt đầu)*: Sie wohnt am Anfang der Straße. Wir machen Anfang Juli Urlaub.
+- **anklicken** *(nhấp chuột)*: Da musst du dieses Wort anklicken.
+- **ankommen** *(đến nơi)*: Wann kommt dieser Zug in Hamburg an?
+- **<span style="color: #E91E63;">die Ankunft</span>** *(sự đến nơi)*: Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.
+- **ankreuzen** *(đánh dấu chéo)*: Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.
+- **anmachen** *(bật)*: Mach bitte das Licht an!
+- **sich anmelden** *(đăng ký)*: Wo kann ich mich anmelden?
+  - **<span style="color: #E91E63;">die Anmeldung</span>** *(sự đăng ký)*: Eine Anmeldung für diesen Kurs ist nicht mehr möglich.
+- **<span style="color: #E91E63;">die Anrede</span>** *(lời xưng hô)*: Schreiben Sie auch eine Anrede und einen Gruß.
+- **anrufen** *(gọi điện)*: Kann man Sie anrufen? Peter ruft kurz seine Freundin an.
+- **<span style="color: #2196F3;">der Anruf, -e</span>** *(cuộc gọi)*: Sie bekommt viele Anrufe auf ihrem Handy.
+  - **<span style="color: #2196F3;">der Anrufbeantworter</span>** *(máy trả lời tự động)*: Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter.
+- **<span style="color: #E91E63;">die Ansage, -n</span>** *(lời thông báo)*: Hören Sie die Ansagen.
+- **<span style="color: #2196F3;">der Anschluss</span>** *(sự kết nối, chuyến đi tiếp theo)*: In Mannheim haben Sie Anschluss nach Saarbrücken. Ist das die Anmeldung für einen Telefonanschluss?
+- **an sein** *(đang bật)*: Heute Nacht war das Licht an.
+- **antworten** *(trả lời)*: Er antwortet nicht.
+  - **<span style="color: #E91E63;">die Antwort, -en</span>** *(câu trả lời)*: Er gibt leider keine Antwort.
+- **<span style="color: #E91E63;">die Anzeige, -n</span>** *(quảng cáo, thông báo)*: Ich habe Ihre Anzeige in der Zeitung gelesen.
+- **sich anziehen** *(mặc quần áo)*: Ich muss mich noch anziehen.
+- **<span style="color: #4CAF50;">das Apartment, -s</span>** *(căn hộ)*: Wir haben ein Apartment gemietet.
+- **<span style="color: #2196F3;">der Apfel, -Ä</span>** *(quả táo)*: Ein Pfund Äpfel bitte.
+- **<span style="color: #2196F3;">der Appetit</span>** *(sự thèm ăn)*: Guten Appetit!
+- **arbeiten** *(làm việc)*: Wo arbeiten Sie?
+  - **<span style="color: #E91E63;">die Arbeit, -en</span>** *(công việc)*: Mein Bruder sucht Arbeit.
+- **arbeitslos** *(thất nghiệp)*: Es gibt bei uns viele Leute, die schon lange arbeitslos sind.
+- **<span style="color: #2196F3;">der Arbeitsplatz, -ä, e</span>** *(chỗ làm việc)*: An meinem Arbeitsplatz fehlt ein Drucker.
+- **<span style="color: #2196F3;">der Arm, -e</span>** *(cánh tay)*: Mein Arm tut weh.
+- **<span style="color: #2196F3;">der Arzt, -Ä, e</span>** *(bác sĩ)*: Morgen habe ich einen Termin bei meiner Ärztin.
+- **auch** *(cũng)*: Ich bin auch Spanier.
+- **auf** *(trên, lên)*: Die Kinder spielen auf der Straße. Auf Wiedersehen. Wie heißt das auf Deutsch?
+- **<span style="color: #E91E63;">die Aufgabe, -n</span>** *(bài tập, nhiệm vụ)*: Das ist eine schwere Aufgabe.
+- **aufhören** *(dừng lại, kết thúc)*: Der Kurs hört in einer Woche auf. Hier hört die Bahnhofstraße auf.
+- **auf sein** *(đang mở)*: Du brauchst den Schlüssel nicht. Die Wohnung ist auf.
+- **aufstehen** *(thức dậy, đứng lên)*: Ich muss immer um vier Uhr aufstehen. Soll ich aufstehen?
+- **<span style="color: #2196F3;">der Aufzug, -ü, e</span>** *(thang máy)*: In diesem Haus gibt es keinen Aufzug.
+- **<span style="color: #4CAF50;">das Auge, -n</span>** *(con mắt)*: Er hat blaue Augen.
+- **aus** *(từ, ra khỏi)*: Er kommt aus Brasilien.
+- **<span style="color: #2196F3;">der Ausflug</span>** *(chuyến dã ngoại)*: Morgen machen wir einen Ausflug nach Heidelberg.
+- **ausfüllen** *(điền vào)*: Füllen Sie bitte dieses Formular aus.
+- **<span style="color: #2196F3;">der Ausgang</span>** *(lối ra)*: Wo ist der Ausgang?
+- **<span style="color: #E91E63;">die Auskunft, -ü, e</span>** *(thông tin)*: Können Sie mir eine Auskunft geben?
+- **<span style="color: #4CAF50;">das Ausland</span>** *(nước ngoài)*: Fahren Sie ins Ausland?
+  - **<span style="color: #2196F3;">der Ausländer, -</span>** *(người nước ngoài)*: Sind Sie Ausländerin?
+  - **ausländisch** *(thuộc về nước ngoài)*: Leider habe ich nur ausländisches Geld.
+- **ausmachen** *(tắt)*: Mach bitte das Licht aus!
+- **<span style="color: #E91E63;">die Aussage, -n</span>** *(lời tuyên bố, phát biểu)*: Ist die Aussage richtig oder falsch?
+- **aussehen** *(trông có vẻ)*: Das sieht schön aus.
+- **aus sein** *(đang tắt, kết thúc)*: Das Licht ist aus. Die Schule ist aus.
+- **aussteigen** *(xuống xe)*: Wo muss ich aussteigen?
+- **<span style="color: #2196F3;">der Ausweis</span>** *(chứng minh thư)*: Hier ist mein Ausweis.
+- **sich ausziehen** *(cởi quần áo)*: Zieh die Schuhe aus, bitte!
+- **<span style="color: #4CAF50;">das Auto, -s</span>** *(ô tô)*: Er kommt mit dem Auto.
+- **<span style="color: #E91E63;">die Autobahn, -en</span>** *(đường cao tốc)*: Wo geht's hier bitte zur Autobahn?
+- **<span style="color: #2196F3;">der Automat</span>** *(máy tự động)*: Die Fahrkarten gibt es nur am Automaten.
+- **automatisch** *(tự động)*: Du musst nichts machen. Das geht automatisch.
+
+## B
+
+- **<span style="color: #4CAF50;">das Baby, -s</span>** *(em bé)*: Mein Kind ist noch ein Baby.
+- **<span style="color: #E91E63;">die Bäckerei</span>** *(tiệm bánh mì)*: Ich geh mal schnell zur Bäckerei.
+- **<span style="color: #4CAF50;">das Bad</span>** *(phòng tắm)*: Wir haben kein großes Bad.
+- **baden** *(tắm bồn, tắm biển)*: Ich bade nicht so gern, ich dusche lieber.
+- **<span style="color: #E91E63;">die Bahn</span>** *(tàu hỏa)*: Wir fahren lieber mit der Bahn. Ich nehme die nächste Bahn.
+- **<span style="color: #2196F3;">der Bahnhof</span>** *(nhà ga)*: Komme ich hier zum Bahnhof?
+- **<span style="color: #2196F3;">der Bahnsteig</span>** *(sân ga)*: Auf welchem Bahnsteig fährt der Zug?
+- **bald** *(sớm)*: Ich komme bald.
+- **<span style="color: #2196F3;">der Balkon</span>** *(ban công)*: Die Wohnung hat auch einen kleinen Balkon.
+- **<span style="color: #E91E63;">die Banane, -n</span>** *(quả chuối)*: Drei Bananen, bitte!
+- **<span style="color: #E91E63;">die Bank</span>** *(ngân hàng, ghế đá)*: Die Bank schließt schon um vier Uhr. Er sitzt im Park auf einer Bank und liest.
+- **bar** *(tiền mặt)*: Muss ich bar zahlen oder geht's auch mit Karte?
+- **<span style="color: #2196F3;">der Bauch</span>** *(bụng)*: Seit gestern tut mir der Bauch weh.
+- **<span style="color: #2196F3;">der Baum, -ä, e</span>** *(cái cây)*: Vorsicht, fahr nicht an den Baum!
+- **<span style="color: #2196F3;">der Beamte, -n</span>** *(công chức)*: Fragen Sie die Beamtin an Schalter acht!
+- **bedeuten** *(có nghĩa là)*: Was bedeutet das Wort?
+- **beginnen** *(bắt đầu)*: Das Spiel beginnt um 15.30 Uhr.
+- **bei** *(ở chỗ, tại)*: Offenbach liegt bei Frankfurt. Ich wohne bei meinen Eltern. Bei uns regnet es heute. Er arbeitet bei der Polizei.
+- **beide** *(cả hai)*: Beide Eltern arbeiten. Wir kommen beide.
+- **<span style="color: #4CAF50;">das Bein, -e</span>** *(cái chân)*: Mein rechtes Bein tut weh.
+- **<span style="color: #4CAF50;">das Beispiel, -e</span>** *(ví dụ)*: Kannst du mir ein Beispiel sagen?
+  - **zum Beispiel / z. B.** *(ví dụ như)*: Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.
+- **bekannt** *(nổi tiếng, được biết đến)*: Picasso ist sehr bekannt.
+  - **der/die Bekannte, -n** *(người quen)*: Ein Bekannter von mir heißt Klaus.
+- **bekommen** *(nhận được)*: Haben Sie meinen Brief bekommen? Was bekommen Sie? Dieses Medikament bekommen Sie in der Apotheke.
+- **benutzen** *(sử dụng)*: Die Aufzüge bitte nicht benutzen!
+- **<span style="color: #2196F3;">der Beruf, -e</span>** *(nghề nghiệp)*: Was sind Sie von Beruf? Was ist Ihr Beruf?
+- **besetzt** *(đã có người, bận)*: Die Nummer ist immer besetzt. Der Platz ist besetzt.
+- **besichtigen** *(tham quan)*: Ich möchte gern den Dom besichtigen.
+- **besser** *(tốt hơn)*: Es geht mir schon besser.
+- **best-** *(tốt nhất)*: Am besten treffen wir uns morgen.
+- **bestellen** *(đặt hàng, gọi món)*: Wir möchten bestellen, bitte. Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?
+- **besuchen** *(thăm)*: Darf ich dich besuchen?
+- **<span style="color: #4CAF50;">das Bett, -en</span>** *(cái giường)*: Wir brauchen noch ein Kinderbett.
+- **bezahlen** *(thanh toán)*: Wo muss ich bezahlen?
+- **<span style="color: #4CAF50;">das Bier</span>** *(bia)*: Noch ein Bier bitte.
+- **<span style="color: #4CAF50;">das Bild, -er</span>** *(bức tranh, bức ảnh)*: Hast du ein Bild von deinem Sohn?
+- **billig** *(rẻ)*: Die Jacke kostet nur 10 Euro! Die ist aber billig!
+- **<span style="color: #E91E63;">die Birne, -n</span>** *(quả lê)*: Ein Kilo Birnen, bitte!
+- **bis** *(cho đến)*: Ich fahre nur bis Stuttgart. Ich warte bis morgen.
+- **bisschen** *(một chút)*: Ich spreche Englisch, Französisch und ein bisschen Deutsch.
+- **bitte** *(xin vui lòng)*: Eine Tasse Kaffee, bitte! Sprechen Sie bitte leise!
+  - **<span style="color: #E91E63;">die Bitte, -n</span>** *(lời thỉnh cầu)*: Ich habe noch eine Bitte.
+  - **bitten** *(xin, yêu cầu)*: Darf ich Sie um etwas bitten?
+- **bitter** *(đắng)*: Der Kaffee schmeckt bitter.
+- **bleiben** *(ở lại)*: Ich bleibe heute zu Hause. Wir bleiben nur bis morgen.
+- **<span style="color: #2196F3;">der Bleistift, -e</span>** *(bút chì)*: Hast du einen Bleistift?
+- **<span style="color: #2196F3;">der Blick</span>** *(tầm nhìn, quang cảnh)*: Von diesem Hotel hat man einen guten Blick auf den Rhein.
+- **<span style="color: #E91E63;">die Blume, -n</span>** *(bông hoa)*: Gefallen dir die Blumen?
+- **<span style="color: #2196F3;">der Bogen</span>** *(tờ giấy, cung)*: Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
+- **böse** *(tức giận, xấu xa)*: Sie ist böse auf mich.
+- **brauchen** *(cần)*: Brauchst du die Zeitung noch?
+- **breit** *(rộng)*: Wie breit ist der Schrank?
+- **<span style="color: #2196F3;">der Brief, -e</span>** *(bức thư)*: Haben Sie einen Brief für mich?
+- **<span style="color: #E91E63;">die Briefmarke, -n</span>** *(tem thư)*: Kaufst du bitte Briefmarken bei der Post.
+- **bringen** *(mang lại, đem)*: Bringen Sie mir bitte noch einen Kaffee! Wir müssen ihn zum Arzt bringen.
+- **<span style="color: #4CAF50;">das Brot, -e</span>** *(bánh mì)*: Haben Sie auch Weißbrot? Nimm noch ein paar Brote für die Fahrt mit.
+- **<span style="color: #4CAF50;">das Brötchen, -</span>** *(bánh mì tròn nhỏ)*: Möchtest du Brötchen zum Frühstück?
+- **<span style="color: #2196F3;">der Bruder, -ü</span>** *(anh/em trai)*: Sein Bruder arbeitet auch hier.
+- **<span style="color: #4CAF50;">das Buch, -ü, er</span>** *(quyển sách)*: Gute Bücher sind oft sehr teuer. In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.
+- **<span style="color: #2196F3;">der Buchstabe, -n</span>** *(chữ cái)*: Diesen Buchstaben gibt es in meiner Sprache nicht.
+- **buchstabieren** *(đánh vần)*: Bitte buchstabieren Sie Ihren Namen.
+- **<span style="color: #2196F3;">der Bus, -se</span>** *(xe buýt)*: Wann kommt der nächste Bus?
+- **<span style="color: #E91E63;">die Butter</span>** *(bơ)*: Für mich bitte ein Brötchen mit Butter und Käse.
+
+## C
+
+- **<span style="color: #4CAF50;">das Café, -s</span>** *(quán cà phê)*: Sollen wir uns im Café treffen?
+- **<span style="color: #E91E63;">die CD, -s</span>** *(đĩa CD)*: Bring bitte deine Lieblings-CD mit.
+- **<span style="color: #2196F3;">der Chef</span>** *(sếp)*: Wir haben eine neue Chefin.
+- **circa/ca.** *(khoảng)*: Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.
+- **<span style="color: #2196F3;">der Computer, -</span>** *(máy tính)*: Wann bekommst du deinen neuen Computer?
+
+## D
+
+- **da** *(ở đó, vì)*: Da hinten ist er ja. Wir sprechen gerade über Paul. Da kommt er ja gerade. Ich nehme das da. Ist Herr Klein schon da?
+- **<span style="color: #E91E63;">die Dame, -n</span>** *(quý bà)*: Damen (an der Toilette). Sehr geehrte Damen und Herren!
+- **daneben** *(bên cạnh)*: Du kennst doch die Post. Daneben ist die Bank.
+- **danken** *(cảm ơn)*: Ich danke Ihnen für die Einladung.
+  - **<span style="color: #2196F3;">der Dank</span>** *(sự cảm ơn)*: Vielen Dank! Herzlichen Dank!
+  - **danke** *(cảm ơn)*: Soll ich Ihnen helfen? - Nein, danke!
+- **dann** *(sau đó, vậy thì)*: Ich muss noch schnell zur Post, dann komme ich.
+- **<span style="color: #4CAF50;">das Datum</span>** *(ngày tháng)*: Bitte schreiben Sie noch das Datum auf das Formular.
+- **dauern** *(kéo dài)*: Wie lange dauert der Film?
+- **dein-** *(của bạn)*: Ist das dein Auto? Ist das deins?
+- **denn** *(vì, bởi vì)*: Ich kann nicht kommen, denn ich bin krank.
+- **der, die, das** *(cái đó)*: Ich nehme das da. Hier ist der Brief, den du suchst. Die Fahrkarte bekommst du am Bahnhof.
+- **dich** *(bạn - tân ngữ)*: Die Blumen sind für dich.
+- **dies-** *(này)*: Ich nehme lieber diesen Kuchen.
+- **dir** *(bạn - tân ngữ gián tiếp)*: Gefallen dir die Blumen?
+- **<span style="color: #E91E63;">die Disco</span>** *(sàn nhảy)*: Heute abend gehen wir in die Disco tanzen.
+- **<span style="color: #2196F3;">der Doktor</span>** *(bác sĩ)*: Meine Tochter ist krank. Wir gehen zum Doktor.
+- **<span style="color: #4CAF50;">das Doppelzimmer</span>** *(phòng đôi)*: Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?
+- **<span style="color: #4CAF50;">das Dorf, -ö, er</span>** *(ngôi làng)*: Meine Familie lebt in einem Dorf.
+- **dort, -her, -hin** *(ở đó, từ đó đến, đến đó)*: Deine Tasche kannst du dorthin stellen. Dort ist unser Haus.
+- **draußen** *(bên ngoài)*: Wollen wir draußen sitzen?
+- **drucken** *(in)*: Bitte drucke das Formular für mich.
+  - **<span style="color: #2196F3;">der Drucker, -</span>** *(máy in)*: Mein Drucker ist kaputt.
+- **drücken** *(nhấn)*: Drück hier, dann geht der Computer an.
+- **durch** *(qua, xuyên qua)*: Am besten gehen Sie durch die Breite Straße.
+- **<span style="color: #E91E63;">die Durchsage, -n</span>** *(thông báo qua loa)*: Ich habe die Durchsage nicht verstanden.
+- **dürfen** *(được phép)*: Sie dürfen hier nicht rauchen. Darf ich Sie zu einem Kaffee einladen? Es darf nicht mehr als 15 Euro kosten.
+- **<span style="color: #2196F3;">der Durst</span>** *(sự khát nước)*: Hast du etwas zu trinken? Ich habe großen Durst.
+- **sich duschen** *(tắm vòi sen)*: Ich bade nicht so gern, ich dusche lieber.
+  - **<span style="color: #E91E63;">die Dusche</span>** *(vòi sen)*: Unsere Wohnung hat nur eine Dusche.
+
+## E
+
+- **<span style="color: #E91E63;">die Ecke, -n</span>** *(góc)*: An der nächsten Ecke links.
+- **<span style="color: #E91E63;">die Ehefrau, -en / der Ehemann, ä, er</span>** *(vợ / chồng)*: Das ist mein (Ehe-) Mann / meine (Ehe-) Frau.
+- **<span style="color: #4CAF50;">das Ei, -er</span>** *(quả trứng)*: Möchtest du ein Ei zum Frühstück?
+- **eilig** *(vội vã)*: Hast du es eilig?
+- **ein-** *(một)*: Ich nehme ein Bier. Willst du auch eins? Ist hier einer, der das kann?
+- **einfach** *(đơn giản, một chiều)*: Die Prüfung ist ganz einfach. Hin und zurück? – Nein, bitte nur einfach. Ich brauche nur ein einfaches Zimmer.
+- **<span style="color: #2196F3;">der Eingang</span>** *(lối vào)*: Der Eingang ist um die Ecke.
+- **einkaufen** *(mua sắm)*: Ich muss noch für morgen einkaufen.
+- **einladen** *(mời)*: Darf ich Sie zu einem Kaffee einladen?
+  - **<span style="color: #E91E63;">die Einladung</span>** *(lời mời)*: Danke für die Einladung!
+- **einmal** *(một lần)*: Diese Prüfung mache ich nicht noch einmal.
+- **einsteigen** *(lên xe)*: Schnell, steig ein, der Zug fährt gleich.
+- **<span style="color: #2196F3;">der Eintritt</span>** *(sự vào cửa)*: Der Preis für den Eintritt ist 5 Euro.
+- **<span style="color: #4CAF50;">das Einzelzimmer</span>** *(phòng đơn)*: Haben Sie noch ein Einzelzimmer?
+- **<span style="color: #E91E63;">die Eltern (pl.)</span>** *(cha mẹ)*: Meine Eltern leben in Spanien.
+- **<span style="color: #E91E63;">die E-Mail, -s</span>** *(thư điện tử)*: Ich habe Ihre E-Mail nicht bekommen.
+- **<span style="color: #2196F3;">der Empfänger, -</span>** *(người nhận)*: Auf dem Brief steht dein Name, also bist du der Empfänger.
+- **empfehlen** *(giới thiệu, khuyên)*: Welchen Wein können Sie mir empfehlen?
+- **enden** *(kết thúc)*: Die Straße endet hier. Er bekommt sein Geld am Ende des Monats.
+  - **<span style="color: #4CAF50;">das Ende</span>** *(sự kết thúc)*: Sie wohnt am Ende der Straße.
+- **entschuldigen** *(xin lỗi)*: Entschuldigen Sie bitte!
+  - **<span style="color: #E91E63;">die Entschuldigung</span>** *(lời xin lỗi)*: Entschuldigung! – Bitte.
+- **er** *(anh ấy, ông ấy)*: Er heißt Ali.
+- **<span style="color: #4CAF50;">das Ergebnis, -se</span>** *(kết quả)*: Das Ergebnis des Tests bekommen Sie in zwei Wochen.
+- **erklären** *(giải thích)*: Kannst du mir das erklären?
+- **erlauben** *(cho phép)*: Rauchen ist hier nicht erlaubt.
+- **<span style="color: #2196F3;">der Erwachsene, -n</span>** *(người lớn)*: Dieser Film ist nur für Erwachsene.
+- **erzählen** *(kể)*: Wir müssen euch etwas erzählen!
+- **es** *(nó)*: Es regnet.
+- **essen** *(ăn)*: Was gibt es zu essen?
+  - **<span style="color: #4CAF50;">das Essen</span>** *(đồ ăn, bữa ăn)*: Das Essen ist heute sehr gut.
+- **euer** *(của các bạn)*: Euer Kurs beginnt heute.
+## F
+
+- **fahren** *(đi xe, lái xe)*: Ich fahre mit dem Auto zur Arbeit.
+  - **<span style="color: #2196F3;">der Fahrer</span>** *(tài xế)*: Bitte nicht mit dem Fahrer sprechen!
+- **<span style="color: #E91E63;">die Fahrkarte, -n</span>** *(vé xe/tàu)*: Hast du schon eine Fahrkarte?
+- **<span style="color: #4CAF50;">das Fahrrad, -ä, er</span>** *(xe đạp)*: Fährst du mit dem Fahrrad oder mit dem Auto?
+- **falsch** *(sai)*: Das ist falsch.
+- **<span style="color: #E91E63;">die Familie, -n</span>** *(gia đình)*: Meine Familie lebt in Spanien.
+  - **<span style="color: #2196F3;">der Familienname</span>** *(họ)*: Meine Familiennamen sind García González.
+  - **<span style="color: #2196F3;">der Familienstand</span>** *(tình trạng hôn nhân)*: Bei „Familienstand“ musst du „ledig“ ankreuzen.
+- **<span style="color: #E91E63;">die Farbe, -n</span>** *(màu sắc)*: Die Farbe gefällt mir gut.
+- **<span style="color: #4CAF50;">das Fax, -e</span>** *(máy fax, bản fax)*: Schicken Sie uns einfach ein Fax!
+- **Feier-** *(ngày lễ, lễ kỷ niệm)*: z. B. Feierabend, Feiertag. Am Montag ist Feiertag.
+- **feiern** *(ăn mừng, tổ chức tiệc)*: Wir feiern heute meinen Geburtstag.
+- **fehlen** *(thiếu, vắng mặt)*: Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?
+- **<span style="color: #2196F3;">der Fehler, -</span>** *(lỗi)*: Diesen Fehler mache ich immer.
+- **fernsehen** *(xem tivi)*: Wollen wir heute Abend mal fernsehen?
+- **fertig** *(hoàn thành, xong)*: Bist du fertig? Ist mein Auto schon fertig?
+- **<span style="color: #4CAF50;">das Feuer</span>** *(lửa, bật lửa)*: Haben Sie Feuer?
+- **<span style="color: #4CAF50;">das Fieber</span>** *(sốt)*: Mein Mann hat noch immer Fieber.
+- **<span style="color: #2196F3;">der Film, -e</span>** *(phim)*: Ich möchte gern diesen Film sehen.
+- **finden** *(tìm thấy)*: Wir müssen den Schlüssel finden.
+- **<span style="color: #E91E63;">die Firma</span>** *(công ty)*: Er arbeitet jetzt bei einer anderen Firma.
+- **<span style="color: #2196F3;">der Fisch, -e</span>** *(cá)*: Ich esse gern Fisch. Fleisch mag ich nicht.
+- **<span style="color: #E91E63;">die Flasche, -n</span>** *(cái chai)*: Eine Flasche Bier, bitte.
+- **<span style="color: #4CAF50;">das Fleisch</span>** *(thịt)*: Fleisch mag ich nicht.
+- **fliegen** *(bay)*: Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.
+  - **abfliegen** *(cất cánh)*: Wann fliegst du ab?
+  - **<span style="color: #2196F3;">der Abflug</span>** *(chuyến bay đi)*: Der Abflug ist um 11.20 Uhr.
+- **<span style="color: #2196F3;">der Flughafen</span>** *(sân bay)*: Kannst du mich zum Flughafen bringen?
+- **<span style="color: #4CAF50;">das Flugzeug</span>** *(máy bay)*: Das Flugzeug aus Berlin kommt heute später an.
+- **<span style="color: #4CAF50;">das Formular, -e</span>** *(biểu mẫu)*: Sie müssen dieses Formular ausfüllen.
+- **<span style="color: #4CAF50;">das Foto, -s</span>** *(bức ảnh)*: Darf ich ein Foto machen?
+- **fragen** *(hỏi)*: Er möchte Sie etwas fragen. Wann kommen Sie?
+  - **<span style="color: #E91E63;">die Frage, -n</span>** *(câu hỏi)*: Ich habe eine Frage.
+- **<span style="color: #E91E63;">die Frau, -en</span>** *(phụ nữ, bà)*: Das ist Frau Becker. Guten Tag, Frau Schmitt! Hier arbeiten mehr Frauen als Männer.
+- **frei** *(trống, rảnh rỗi)*: Ist der Platz noch frei?
+- **<span style="color: #E91E63;">die Freizeit</span>** *(thời gian rảnh)*: In meiner Freizeit spiele ich oft Fußball.
+- **fremd** *(lạ, xa lạ)*: Das weiß ich nicht; ich bin fremd hier.
+- **sich freuen** *(vui mừng)*: Ich freue mich auf den Urlaub.
+- **<span style="color: #2196F3;">der Freund, -e</span>** *(người bạn)*: Das ist ein Freund von mir. Das ist meine Freundin.
+- **früher** *(trước đây, sớm hơn)*: Früher waren wir oft zusammen im Kino.
+- **frühstücken** *(ăn sáng)*: Am Sonntag frühstücke ich gern im Bett.
+  - **<span style="color: #4CAF50;">das Frühstück</span>** *(bữa sáng)*: Möchtest du ein Ei zum Frühstück?
+- **<span style="color: #E91E63;">die Führung</span>** *(sự hướng dẫn, chuyến đi xem có hướng dẫn)*: Die Führung durch das Haus beginnt in 3 Minuten.
+- **für** *(cho)*: Das ist für Sie. Das ist der Schlüssel für die Haustür. Das ist das Brot für morgen.
+- **<span style="color: #2196F3;">der Fuß, -ü, e</span>** *(bàn chân)*: Der linke Fuß tut mir weh.
+- **<span style="color: #2196F3;">der Fußball</span>** *(bóng đá)*: Spielt ihr gerne Fußball?
+
+## G
+
+- **<span style="color: #2196F3;">der Garten</span>** *(khu vườn)*: Wir haben leider keinen Garten.
+- **<span style="color: #2196F3;">der Gast, -ä, e</span>** *(khách)*: Am Wochenende haben wir mehrere Gäste.
+- **geben** *(đưa, cho)*: Kannst du mir bitte deinen Kugelschreiber geben? Es gibt keine Karten mehr.
+- **geboren** *(được sinh ra)*: Ich bin in Zagreb geboren.
+- **<span style="color: #4CAF50;">das Geburtsjahr</span>** *(năm sinh)*: Das Geburtsjahr Ihres Sohnes, bitte?
+- **<span style="color: #2196F3;">der Geburtsort</span>** *(nơi sinh)*: Bitte schreiben Sie Ihren Geburtsort auf das Formular.
+- **<span style="color: #2196F3;">der Geburtstag</span>** *(sinh nhật)*: Herzlichen Glückwunsch zum Geburtstag!
+- **gefallen** *(làm hài lòng, thích)*: Das gefällt mir.
+- **gegen** *(chống lại, khoảng chừng)*: Fahr nicht gegen den Baum! Ich bin gegen diese Lösung. Wer spielt gegen wen?
+- **gehen** *(đi)*: Ich weiß nicht, wie das geht. Wie geht's? Jetzt muss ich (aber) leider gehen. Ich muss zum Arzt gehen. Das geht nicht!
+- **gehören** *(thuộc về)*: Wem gehört das?
+- **<span style="color: #4CAF50;">das Geld</span>** *(tiền)*: Hast du noch Geld?
+- **<span style="color: #4CAF50;">das Gemüse</span>** *(rau củ)*: Gemüse brauchen wir auch noch.
+- **<span style="color: #4CAF50;">das Gepäck</span>** *(hành lý)*: Wollen Sie Ihr Gepäck mitnehmen?
+- **gerade** *(vừa mới, thẳng)*: Da kommt er ja gerade.
+- **geradeaus** *(đi thẳng)*: Gehen Sie immer geradeaus!
+- **gern(e)** *(thích)*: Ich gehe gerne einkaufen.
+- **<span style="color: #4CAF50;">das Geschäft, -e</span>** *(cửa hàng)*: Die Geschäfte schließen um 18.30 Uhr.
+- **<span style="color: #4CAF50;">das Geschenk, -e</span>** *(món quà)*: Danke für das schöne Geschenk.
+- **<span style="color: #E91E63;">die Geschwister (pl.)</span>** *(anh chị em)*: Ich habe leider keine Geschwister.
+- **<span style="color: #4CAF50;">das Gespräch, -e</span>** *(cuộc trò chuyện)*: Das Gespräch mit Frau Kunz ist um 14 Uhr.
+- **gestern** *(hôm qua)*: Gestern war ich krank.
+- **gestorben** *(đã qua đời)*: Meine Frau ist gestern gestorben.
+- **<span style="color: #4CAF50;">das Getränk, -e</span>** *(đồ uống)*: Mein Lieblingsgetränk ist Tomatensaft.
+- **<span style="color: #4CAF50;">das Gewicht</span>** *(cân nặng)*: Bei „Gewicht“ schreibst du: 62 Kilo.
+- **gewinnen** *(chiến thắng)*: Wer gewinnt das Spiel?
+- **<span style="color: #4CAF50;">das Glas, -ä, er</span>** *(ly, cốc)*: Bitte noch ein Glas Wein! Wir brauchen noch drei Gläser.
+- **glauben** *(tin)*: Sie können mir glauben, es ist so. Ich glaube, er kommt gleich.
+- **gleich** *(giống nhau, ngay bây giờ)*: Das ist mir gleich. Das ist der gleiche Preis. Ich komme gleich.
+- **<span style="color: #4CAF50;">das Gleis, -e</span>** *(đường ray, sân ga)*: Der ICE nach Berlin hält heute an Gleis 12.
+- **<span style="color: #4CAF50;">das Glück</span>** *(sự may mắn)*: Viel Glück!
+- **glücklich** *(hạnh phúc, may mắn)*: Meine Kinder sind glücklich verheiratet.
+- **<span style="color: #2196F3;">der Glückwunsch</span>** *(lời chúc mừng)*: Herzlichen Glückwunsch zum Geburtstag.
+- **Grad (Celsius)** *(độ C)*: Heute haben wir dreißig Grad.
+- **gratulieren** *(chúc mừng)*: Ich gratuliere dir!
+- **grillen** *(nướng)*: Heute grillen wir im Garten.
+- **groß** *(lớn, to)*: Mein Bruder und ich sind gleich groß. Frankfurt ist eine große Stadt.
+  - **<span style="color: #E91E63;">die Größe</span>** *(kích cỡ)*: Haben Sie das auch in Größe 40?
+- **<span style="color: #E91E63;">die Großeltern (pl.)</span>** *(ông bà)*: Meine Großeltern leben in Japan.
+  - **<span style="color: #E91E63;">die Großmutter</span>** *(bà)*: Meine Großmutter heißt Eva.
+  - **<span style="color: #2196F3;">der Großvater</span>** *(ông)*: Mein Großvater ist schon 80.
+- **<span style="color: #E91E63;">die Gruppe, -n</span>** *(nhóm)*: Die erste Gruppe beginnt um 16 Uhr.
+- **<span style="color: #2196F3;">der Gruß, -ü, e</span>** *(lời chào)*: Viele Grüße an Ihre Frau. Mit freundlichen Grüßen.
+- **gültig** *(có hiệu lực)*: Der Pass ist nicht mehr gültig.
+- **günstig** *(thuận lợi, giá cả phải chăng)*: Dort gibt es günstige Angebote.
+- **gut** *(tốt)*: Das finde ich gut. Ich komme um 13 Uhr. – Gut! Guten Morgen! Ein gutes neues Jahr! Guten Appetit!
+
+## H
+
+- **<span style="color: #4CAF50;">das Haar, -e</span>** *(tóc)*: Sie hat lange Haare.
+- **haben** *(có)*: Ich habe ein neues Auto.
+- **<span style="color: #4CAF50;">das Hähnchen, -</span>** *(gà rán/nướng)*: Ein Hähnchen mit Pommes bitte!
+- **<span style="color: #E91E63;">die Halbpension</span>** *(chế độ bao nửa bữa)*: Möchten Sie Vollpension oder Halbpension?
+- **<span style="color: #E91E63;">die Halle</span>** *(hội trường, sảnh)*: Wir treffen uns in Halle B.
+- **hallo** *(xin chào)*: Hallo Inge! Wie geht’s?
+- **halten** *(dừng lại, cầm)*: Dieser Zug hält nicht in Rüdesheim.
+- **<span style="color: #E91E63;">die Haltestelle</span>** *(trạm dừng)*: An der nächsten Haltestelle müssen Sie aussteigen.
+- **<span style="color: #E91E63;">die Hand, -ä, e</span>** *(bàn tay)*: Er gibt mir die Hand.
+- **<span style="color: #4CAF50;">das Handy, -s</span>** *(điện thoại di động)*: In der Schule bitte die Handys ausmachen!
+- **<span style="color: #4CAF50;">das Haus, -ä, er</span>** *(ngôi nhà)*: In welchem Haus wohnst du? Ich gehe jetzt nach Hause. Paul ist nicht zu Hause.
+- **<span style="color: #E91E63;">die Hausaufgabe, -n</span>** *(bài tập về nhà)*: Kannst du mir bei den Hausaufgaben helfen?
+- **<span style="color: #E91E63;">die Hausfrau, -en / der Hausmann</span>** *(người nội trợ)*: Die Hausfrau/der Hausmann wäscht, kocht und kauft ein.
+- **<span style="color: #E91E63;">die Heimat</span>** *(quê hương)*: Ich komme aus der Schweiz. Das ist meine Heimat.
+- **heiraten** *(kết hôn)*: Meine Schwester heiratet einen Japaner.
+- **heißen** *(được gọi là)*: Ich heiße Charlotte Meier. Wie heißt das auf Deutsch?
+- **helfen** *(giúp đỡ)*: Können Sie mir helfen, bitte?
+- **hell** *(sáng)*: Im Sommer ist es bis 21 Uhr hell.
+- **<span style="color: #2196F3;">der Herd</span>** *(bếp lò)*: In der neuen Küche fehlt noch der Herd.
+- **<span style="color: #2196F3;">der Herr, -en</span>** *(quý ngài, ông)*: Guten Tag, Herr Sommer!
+- **herzlich** *(chân thành)*: Herzlichen Glückwunsch!
+- **heute** *(hôm nay)*: Heute ist ein schöner Tag.
+- **hier** *(ở đây)*: Hier ist 06131-553221, Pamela Linke. Hier wohne ich.
+- **<span style="color: #E91E63;">die Hilfe</span>** *(sự giúp đỡ)*: Hilfe! Bitte helfen Sie mir! Brauchen Sie meine Hilfe?
+- **hinten** *(phía sau)*: Die Tür zum Aussteigen ist hinten.
+- **<span style="color: #4CAF50;">das Hobby, -s</span>** *(sở thích)*: Meine Hobbys sind Wandern und Schwimmen.
+- **hoch** *(cao)*: Der Mount Everest ist 8.880 Meter hoch.
+- **<span style="color: #E91E63;">die Hochzeit</span>** *(đám cưới)*: Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
+- **holen** *(lấy)*: Ich hole zwei Flaschen Wasser aus der Küche.
+- **hören** *(nghe)*: Hör mal! Was ist das? Ich habe das Lied schon mal gehört.
+- **<span style="color: #4CAF50;">das Hotel, -s</span>** *(khách sạn)*: Im Urlaub sind wir in einem Hotel am Meer.
+- **<span style="color: #2196F3;">der Hund, -e</span>** *(con chó)*: Der Hund ist noch jung.
+- **<span style="color: #2196F3;">der Hunger</span>** *(sự đói)*: Ich habe Hunger! Wann ist das Essen fertig?
+
+## I
+
+- **ich** *(tôi)*: Ich heiße Veronika.
+- **ihr/ihm/ihn** *(cô ấy, ông ấy, nó - đại từ)*: Gib ihr/ihm bitte das Buch. Ruf ihn bitte an.
+- **immer** *(luôn luôn)*: Frau Bast kommt immer zu spät.
+- **in** *(trong, ở)*: Ich wohne in Wiesbaden. Der Zug kommt in fünf Minuten. Frau Rausch arbeitet in einem Geschäft. Komm, wir gehen ins Kino.
+- **<span style="color: #E91E63;">die Information, -en</span>** *(thông tin)*: Wenn Sie Fragen haben, gehen Sie zur Information. Wir haben hier wichtige Informationen für Sie.
+- **international** *(quốc tế)*: Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ...
+- **<span style="color: #4CAF50;">das Internet</span>** *(internet)*: Das findest du im Internet.
+
+## J
+
+- **ja** *(vâng, có)*: Sind Sie Herr Watanabe? – Ja.
+- **<span style="color: #E91E63;">die Jacke, -n</span>** *(áo khoác)*: Zieh dir eine Jacke an. Es ist kalt.
+- **jed-** *(mỗi)*: Blumen kannst du in jedem Bahnhof kaufen.
+- **jetzt** *(bây giờ)*: Jetzt machen wir eine Pause.
+- **<span style="color: #2196F3;">der Job, -s</span>** *(công việc)*: Jenny hat einen neuen Job bei der Post.
+- **<span style="color: #2196F3;">der Jugendliche, -n</span>** *(thanh thiếu niên)*: Viele Jugendliche kaufen gern ein.
+- **jung** *(trẻ)*: Claudia ist 21. – Was? Noch so jung?
+- **<span style="color: #2196F3;">der Junge, -n</span>** *(cậu bé)*: Ich habe zwei Kinder. Einen Jungen und ein Mädchen.
+
+## K
+
+- **<span style="color: #2196F3;">der Kaffee</span>** *(cà phê)*: Zum Frühstück trinke ich immer Kaffee.
+- **kaputt** *(hỏng, vỡ)*: Das Glas war teuer. Es geht sehr leicht kaputt.
+- **<span style="color: #E91E63;">die Karte, -n</span>** *(thẻ, bản đồ, thiệp)*: Ich schreibe meinen Bekannten eine Karte aus dem Urlaub. Wollen wir Karten spielen? Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.
+  - **<span style="color: #E91E63;">die (Kredit)-Karte, -n</span>** *(thẻ tín dụng)*: Kann ich auch mit Karte (be-) zahlen?
+- **<span style="color: #E91E63;">die Kartoffel, -n</span>** *(khoai tây)*: Für Pommes frites braucht man Kartoffeln.
+- **<span style="color: #E91E63;">die Kasse</span>** *(quầy thu ngân)*: Zahlen Sie bitte an der Kasse.
+- **kaufen** *(mua)*: Tim kauft sich ein neues Auto.
+- **kein** *(không có)*: Es gibt keine Eintrittskarten mehr.
+- **kennen** *(biết, quen biết)*: Kennen Sie diese Frau? – Nein, leider nicht.
+  - **kennenlernen** *(làm quen)*: Wir sind neu hier. Wir möchten Sie kennenlernen.
+- **<span style="color: #4CAF50;">das Kind, -er</span>** *(trẻ em)*: Wie viele Kinder haben Sie?
+- **<span style="color: #2196F3;">der Kindergarten</span>** *(trường mẫu giáo)*: Die kleine Laura geht schon in den Kindergarten.
+- **<span style="color: #4CAF50;">das Kino, -s</span>** *(rạp chiếu phim)*: Wir sehen heute Abend im Kino einen schönen Film.
+- **<span style="color: #2196F3;">der Kiosk</span>** *(ki-ốt)*: Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.
+- **klar** *(rõ ràng, tất nhiên)*: Kommst du mit? – Klar!
+- **<span style="color: #E91E63;">die Klasse</span>** *(lớp học, hạng)*: In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer 2. Klasse.
+- **<span style="color: #E91E63;">die Kleidung</span>** *(quần áo)*: Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock.
+- **klein** *(nhỏ)*: Eltville ist eine kleine Stadt am Rhein.
+- **kochen** *(nấu ăn)*: Herr Georgi kann gut kochen.
+- **<span style="color: #2196F3;">der Koffer, -</span>** *(vali)*: Ist das Ihr Koffer?
+- **<span style="color: #2196F3;">der Kollege, -n</span>** *(đồng nghiệp)*: Wie heißt die neue Kollegin?
+- **kommen** *(đến)*: Woher kommen Sie? – Aus Frankreich. Kommst du mit ins Schwimmbad?
+- **können** *(có thể)*: Ich kann Deutsch und Russisch. Können Sie mir helfen?
+- **<span style="color: #4CAF50;">das Konto</span>** *(tài khoản)*: Das Geld überweisen wir am ersten März auf Ihr Konto.
+- **<span style="color: #2196F3;">der Kopf</span>** *(đầu)*: Mein Kopf tut weh!
+- **kosten** *(có giá)*: Wie viel kostet das? – 10 Euro.
+- **krank** *(ốm)*: Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.
+- **kriegen** *(nhận được)*: Ich kriege 15 Euro in der Stunde für meine Arbeit.
+- **<span style="color: #E91E63;">die Küche</span>** *(nhà bếp)*: Der neue Herd kommt in die Küche.
+- **<span style="color: #2196F3;">der Kuchen</span>** *(bánh ngọt)*: Ich nehme ein Stück Kuchen.
+- **<span style="color: #2196F3;">der Kugelschreiber</span>** *(bút bi)*: Hast du einen Kugelschreiber für mich?
+- **<span style="color: #2196F3;">der Kühlschrank</span>** *(tủ lạnh)*: Haben wir noch Milch? – Ja, im Kühlschrank.
+- **kulturell** *(thuộc về văn hóa)*: Ich bin kulturell interessiert. Ich gehe oft ins Museum.
+- **sich kümmern** *(chăm sóc, quan tâm)*: Jede Mutter kümmert sich um ihre kleinen Kinder.
+- **<span style="color: #2196F3;">der Kunde, -n</span>** *(khách hàng)*: Einen Moment, bitte. Ich habe eine Kundin.
+- **<span style="color: #2196F3;">der Kurs, -e</span>** *(khóa học)*: Der Deutschkurs geht bis zum Sommer.
+- **kurz** *(ngắn)*: Ricardo hat kurzes Haar.
+
+## L
+
+- **lachen** *(cười)*: Die Kinder lachen viel.
+- **<span style="color: #2196F3;">der Laden, -ä</span>** *(cửa hàng)*: Im Buchladen können Sie Bücher kaufen.
+- **<span style="color: #4CAF50;">das Land, -ä, er</span>** *(đất nước, vùng quê)*: Italien ist ein schönes Land.
+- **lang** *(dài)*: Die Jeans ist zu lang.
+- **lange** *(lâu)*: Wie lange fährt der Zug von Hamburg nach Berlin?
+- **langsam** *(chậm)*: Könnten Sie bitte etwas langsamer sprechen?
+- **laufen** *(chạy, đi bộ)*: Ich möchte nicht Auto fahren, ich möchte laufen.
+- **laut** *(to, ồn ào)*: Nicht so laut! Das Baby schläft.
+- **leben** *(sống)*: Sie lebt bei ihrer Schwester. Ihre Eltern leben nicht mehr.
+  - **<span style="color: #4CAF50;">das Leben</span>** *(cuộc sống)*: Das Leben in diesem Land ist teuer.
+  - **<span style="color: #E91E63;">die Lebensmittel (pl.)</span>** *(thực phẩm)*: Lebensmittel bekommen Sie im Supermarkt.
+- **ledig** *(độc thân)*: Sind Sie verheiratet? – Nein. Ledig.
+- **legen** *(đặt, để)*: Legen Sie das Buch auf den Tisch.
+- **<span style="color: #2196F3;">der Lehrer, -</span>** *(giáo viên)*: Unsere Deutschlehrerin heißt Frau Müller.
+- **leicht** *(nhẹ, dễ)*: Der Koffer ist leicht. Deutsch ist nicht leicht.
+- **leider** *(rất tiếc)*: Leider kann ich nicht kommen. Ich muss zum Arzt.
+- **leise** *(nhỏ tiếng, khẽ)*: Seid leise. Die anderen schlafen schon.
+- **lernen** *(học)*: Wie lange lernen Sie schon Deutsch?
+- **lesen** *(đọc)*: Ich lese ein Buch von García Márquez.
+- **letzt-** *(cuối cùng)*: Morgen ist der letzte Kurstag.
+- **<span style="color: #E91E63;">die Leute (pl.)</span>** *(mọi người)*: In der Disko sind viele Leute.
+- **<span style="color: #4CAF50;">das Licht</span>** *(ánh sáng, đèn)*: Wo macht man hier das Licht an?
+- **lieb-** *(yêu dấu)*: Liebe Susanne, lieber Hans,
+  - **lieben** *(yêu)*: Ich liebe dich!
+  - **lieber** *(thích hơn)*: Sie fährt lieber mit der Bahn.
+- **Lieblings-** *(yêu thích)*: Mein Lieblingsfilm ist „Schwarze Augen“.
+- **<span style="color: #4CAF50;">das Lied, -er</span>** *(bài hát)*: Welches ist dein Lieblingslied?
+- **liegen** *(nằm)*: Um neun Uhr liegt Judith noch im Bett. Frankfurt liegt am Main.
+- **links** *(bên trái)*: Gehen Sie die nächste Straße links.
+- **<span style="color: #2196F3;">der Lkw, -s</span>** *(xe tải)*: Dieser Lastkraftwagen ist sehr groß.
+- **<span style="color: #4CAF50;">das Lokal</span>** *(quán ăn, quán rượu)*: In unserer Straße gibt es ein neues Lokal.
+- **<span style="color: #E91E63;">die Lösung, -en</span>** *(giải pháp, đáp án)*: Die Lösung ist ganz einfach.
+- **lustig** *(vui vẻ, hài hước)*: Frau Mertens ist lustig. Sie lacht immer.
+
+## M
+
+- **machen** *(làm)*: Was machst du heute Abend? Ich muss jetzt das Essen machen. Das macht 5 Euro 95. Das macht nichts.
+- **<span style="color: #4CAF50;">das Mädchen, -</span>** *(cô gái)*: Familie Kurz bekommt ein Baby. – Junge oder Mädchen?
+- **man** *(người ta)*: Hier darf man nicht rauchen.
+- **<span style="color: #2196F3;">der Mann, -ä, er</span>** *(người đàn ông, chồng)*: Mein Mann arbeitet bei der Polizei.
+  - **männlich** *(nam giới)*: Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+- **<span style="color: #E91E63;">die Maschine, -n</span>** *(máy móc)*: Die Waschmaschine ist günstig.
+- **<span style="color: #4CAF50;">das Meer</span>** *(biển)*: Wir machen Urlaub am Meer.
+- **mehr** *(nhiều hơn)*: Dieses Auto kostet 1.000 Euro mehr als das andere.
+- **mein** *(của tôi)*: Mein Vater ist Arzt.
+- **meist-** *(hầu hết)*: Die meisten Norddeutschen sind sehr groß.
+- **<span style="color: #2196F3;">der Mensch, -en</span>** *(con người)*: Die Menschen sind hier anders als bei uns.
+- **mieten** *(thuê)*: Ich möchte ein Auto mieten.
+  - **<span style="color: #E91E63;">die Miete</span>** *(tiền thuê)*: Die Miete für diese Wohnung ist 600 Euro.
+- **<span style="color: #E91E63;">die Milch</span>** *(sữa)*: Die Milch steht im Kühlschrank.
+- **mit** *(với)*: Trinken Sie den Kaffee mit Milch?
+- **mitbringen** *(mang theo)*: Ich gehe einkaufen. Soll ich dir was mitbringen?
+- **mitkommen** *(đi cùng)*: Ich gehe ins Kino. Kommst du mit?
+- **mitmachen** *(tham gia)*: Warum macht ihr nicht mit?
+- **mitnehmen** *(mang đi cùng)*: Nehmen wir meine Schwester ins Kino mit?
+- **<span style="color: #E91E63;">die Mitte</span>** *(ở giữa)*: Der Lehrer steht in der Mitte des Klassenzimmers.
+- **<span style="color: #E91E63;">die Möbel (pl.)</span>** *(đồ nội thất)*: Sind die Möbel neu?
+- **möchten** *(muốn)*: Was möchten Sie trinken?
+- **mögen** *(thích)*: Magst du Kaffee oder Tee?
+- **möglich** *(có thể)*: Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.
+- **<span style="color: #2196F3;">der Moment</span>** *(khoảnh khắc)*: Moment mal bitte! Einen Moment bitte.
+- **morgen** *(ngày mai)*: Morgen beginnt die Schule um 10 Uhr.
+- **müde** *(mệt mỏi)*: Ich bin müde. Ich gehe schlafen.
+- **<span style="color: #2196F3;">der Mund</span>** *(miệng)*: Öffnen Sie den Mund.
+- **müssen** *(phải)*: Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+- **<span style="color: #E91E63;">die Mutter, -ü</span>** *(mẹ)*: Frau Berghäuser ist die Mutter von Michaela.
+
+## N
+
+- **nach** *(đến, sau)*: Ich gehe jetzt nach Hause. Ich fliege nach München. Es ist schon 5 nach 12.
+- **nächst-** *(tiếp theo)*: Sehen wir uns nächste Woche?
+- **<span style="color: #2196F3;">der Name, -n</span>** *(tên)*: Mein Name ist Thomas Schmidt. Mein Vorname ist Thomas; Schmidt ist der Familienname.
+- **nehmen** *(lấy, chọn)*: Heute gibt es Hähnchen. Das nehme ich. Ich nehme den Bus.
+- **nein** *(không)*: Fährst du auch nach München? – Nein, ich habe keine Zeit.
+- **neu** *(mới)*: Ich bin der neue Kollege. Wir haben eine neue Wohnung.
+- **nicht** *(không)*: Das stimmt nicht. Das ist doch schön, nicht?
+- **nichts** *(không có gì)*: Das macht nichts. Hier kaufe ich nichts. Der Laden gefällt mir nicht.
+- **nie** *(không bao giờ)*: Er kommt nie pünktlich.
+- **noch** *(vẫn còn, thêm)*: Vielleicht kommt er noch. Wir warten noch fünf Minuten. Ich habe noch 20 Euro.
+- **normal** *(bình thường)*: 75 kg. Sein Gewicht ist normal.
+- **<span style="color: #E91E63;">die Nummer, -n</span>** *(số)*: Sie haben Zimmer Nummer zwölf. Welche Hausnummer haben Sie? Können Sie mir Ihre Nummer geben?
+- **nur** *(chỉ)*: Ich möchte nur ein Glas Wasser.
+
+## O
+
+- **oben** *(bên trên)*: Ich wohne oben.
+- **<span style="color: #4CAF50;">das Obst</span>** *(trái cây)*: Im Sommer ist das Obst billig.
+- **oder** *(hoặc)*: Wann können Sie kommen – heute oder morgen?
+- **öffnen** *(mở)*: Ich öffne die Tür.
+  - **geöffnet** *(được mở)*: Der Laden ist samstags bis 16.00 Uhr geöffnet.
+- **oft** *(thường xuyên)*: Petra treffe ich oft.
+- **ohne** *(không có)*: Ohne Geld kann er nichts kaufen.
+- **<span style="color: #4CAF50;">das Öl</span>** *(dầu ăn)*: Den Salat machen wir ohne Öl.
+- **<span style="color: #E91E63;">die Oma, -s</span>** *(bà)*: Meine Oma ist schon tot.
+- **<span style="color: #2196F3;">der Opa, -s</span>** *(ông)*: Mein Opa heißt Hans.
+- **<span style="color: #E91E63;">die Ordnung</span>** *(sự ngăn nắp, trật tự)*: Das ist in Ordnung.
+- **<span style="color: #2196F3;">der Ort, -e</span>** *(nơi, địa điểm)*: Der Ort liegt am Meer.
+
+## P
+
+- **<span style="color: #4CAF50;">das Papier</span>** *(giấy)*: Hier sind Papier und Bleistift.
+- **<span style="color: #E91E63;">die Papiere (pl.)</span>** *(giấy tờ)*: Haben Sie Ihre Papiere dabei?
+- **<span style="color: #2196F3;">der Partner, - / die Partnerin, -nen</span>** *(đối tác, người bạn đời)*: Sie ist meine Partnerin.
+- **<span style="color: #E91E63;">die Party</span>** *(bữa tiệc)*: Heute Abend machen wir eine Party.
+- **<span style="color: #2196F3;">der Pass, -ä, e</span>** *(hộ chiếu)*: Im Hotel brauchst du deinen Pass.
+- **<span style="color: #E91E63;">die Pause, -n</span>** *(giờ nghỉ)*: Von 12.00 bis 12.30 Uhr haben wir Mittagspause.
+- **<span style="color: #2196F3;">der Plan, -ä, e</span>** *(kế hoạch, bản đồ)*: Ich kaufe mir einen Stadtplan.
+- **<span style="color: #2196F3;">der Platz, -ä, e</span>** *(chỗ, quảng trường)*: Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5.
+- **<span style="color: #E91E63;">die Polizei</span>** *(cảnh sát)*: Holen Sie die Polizei!
+- **<span style="color: #E91E63;">die Pommes frites (pl.)</span>** *(khoai tây chiên)*: Die Kinder essen Hähnchen mit Pommes frites.
+- **<span style="color: #E91E63;">die Post</span>** *(bưu điện, thư tín)*: Wo ist die Post, bitte? Ist Post da?
+- **<span style="color: #E91E63;">die Postleitzahl</span>** *(mã bưu điện)*: Wie ist Ihre Postleitzahl?
+- **<span style="color: #4CAF50;">das Praktikum</span>** *(kỳ thực tập)*: Ich mache ein Praktikum bei Siemens.
+- **<span style="color: #E91E63;">die Praxis</span>** *(phòng khám)*: Die Praxis ist ab acht Uhr geöffnet.
+- **<span style="color: #2196F3;">der Preis, -e</span>** *(giá cả)*: Die Preise sind hoch.
+- **<span style="color: #4CAF50;">das Problem, -e</span>** *(vấn đề)*: Mein Problem ist die Sprache.
+- **<span style="color: #2196F3;">der Prospekt, -e</span>** *(tờ rơi, tài liệu quảng cáo)*: Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.
+- **<span style="color: #E91E63;">die Prüfung</span>** *(kỳ thi)*: Die Prüfung ist am Montag um 8.00 Uhr.
+- **pünktlich** *(đúng giờ)*: Der Bus fährt pünktlich um acht Uhr. Herr Müller ist immer pünktlich.
+
+## R
+
+- **Rad fahren** *(đạp xe)*: Das Kind kann schon Rad fahren.
+- **rauchen** *(hút thuốc)*: Ich rauche nicht.
+- **<span style="color: #2196F3;">der Raum, -ä, e</span>** *(căn phòng)*: Der Unterricht ist in Raum 332.
+- **<span style="color: #E91E63;">die Rechnung, -en</span>** *(hóa đơn)*: Die Rechnung, bitte.
+- **rechts** *(bên phải)*: Die Schillerstraße ist hier rechts.
+- **regnen** *(trời mưa)*: Heute regnet es.
+  - **<span style="color: #2196F3;">der Regen</span>** *(cơn mưa)*: Bei diesem Regen gehe ich nicht raus.
+- **<span style="color: #2196F3;">der Reis</span>** *(gạo, cơm)*: Ich esse gern Reis.
+- **reisen** *(đi du lịch)*: Ich reise gern.
+  - **<span style="color: #E91E63;">die Reise</span>** *(chuyến đi)*: Wir machen eine Reise nach Österreich.
+  - **<span style="color: #4CAF50;">das Reisebüro, -s</span>** *(văn phòng du lịch)*: Mein Mann arbeitet im Reisebüro.
+  - **<span style="color: #2196F3;">der Reiseführer</span>** *(sách hướng dẫn du lịch, hướng dẫn viên)*: Ich kaufe mir einen Reiseführer von Berlin. Unser Reiseführer heißt Peter.
+- **reparieren** *(sửa chữa)*: Er hat das Fahrrad repariert.
+  - **<span style="color: #E91E63;">die Reparatur</span>** *(sự sửa chữa)*: Die Reparatur ist sehr teuer.
+- **<span style="color: #4CAF50;">das Restaurant, -s</span>** *(nhà hàng)*: Wir essen heute in einem Restaurant.
+- **<span style="color: #E91E63;">die Rezeption</span>** *(lễ tân)*: Fragen Sie bitte im Hotel an der Rezeption.
+- **richtig** *(đúng)*: Habe ich das richtig verstanden? Das ist richtig.
+- **riechen** *(ngửi, có mùi)*: Dieser Wein riecht gut.
+- **ruhig** *(yên tĩnh)*: Ich möchte ein ruhiges Zimmer.
+
+## S
+
+- **<span style="color: #2196F3;">der Saft</span>** *(nước ép)*: Möchtest du einen Apfelsaft?
+- **sagen** *(nói)*: Sag mal, wie geht es dir denn?
+- **<span style="color: #2196F3;">der Salat</span>** *(món salad)*: Wie schmeckt dir der Salat?
+- **<span style="color: #4CAF50;">das Salz</span>** *(muối)*: Herr Ober, kann ich bitte Salz haben?
+- **<span style="color: #2196F3;">der Satz, -ä, e</span>** *(câu)*: Dieser Satz ist sehr einfach.
+- **<span style="color: #E91E63;">die S-Bahn</span>** *(tàu chạy ngoại ô)*: Ich nehme lieber die S-Bahn.
+- **<span style="color: #2196F3;">der Schalter</span>** *(quầy giao dịch, công tắc)*: Gehen Sie bitte zum Schalter drei!
+- **scheinen** *(chiếu sáng, có vẻ)*: Die Sonne scheint.
+- **schicken** *(gửi)*: Bitte schicken Sie mir eine E-Mail.
+- **<span style="color: #4CAF50;">das Schild, -er</span>** *(biển báo)*: Haben Sie nicht das Schild gesehen?
+- **<span style="color: #2196F3;">der Schinken, -</span>** *(thịt giăm bông)*: Ich möchte gern ein Schinkenbrot.
+- **schlafen** *(ngủ)*: Ich schlafe meistens acht Stunden.
+- **schlecht** *(xấu, tồi)*: Mir ist schlecht! Sie sehen schlecht aus. Wir haben schlechtes Wetter.
+- **schließen** *(đóng)*: Bitte, schließen Sie die Tür.
+  - **geschlossen** *(bị đóng)*: Die Bank hat am Samstag geschlossen.
+- **<span style="color: #2196F3;">der Schluss</span>** *(sự kết thúc)*: Ich muss jetzt Schluss machen. Zum Schluss gibt er uns allen die Hand.
+- **<span style="color: #2196F3;">der Schlüssel, -</span>** *(chìa khóa)*: Ich gebe Ihnen noch den Zimmerschlüssel.
+- **schmecken** *(có vị, thưởng thức)*: Schmeckt das gut?
+- **schnell** *(nhanh)*: Er fährt schnell.
+- **schon** *(đã)*: Ist das Essen schon fertig?
+- **schön** *(đẹp, tốt)*: Schönen Urlaub! Das ist sehr schön.
+- **<span style="color: #2196F3;">der Schrank, -ä, e</span>** *(cái tủ)*: Die Gläser stehen im Schrank.
+- **schreiben** *(viết)*: Er schreibt jeden Tag fünfzig E-Mails.
+- **<span style="color: #2196F3;">der Schuh, -e</span>** *(chiếc giày)*: Zieh die Schuhe aus!
+- **<span style="color: #E91E63;">die Schule</span>** *(trường học)*: Meine Tochter geht schon in die Schule. Die Schule ist gleich hier um die Ecke.
+  - **<span style="color: #2196F3;">der Schüler, - / die Schülerin, -nen</span>** *(học sinh)*: In meinem Kurs sind acht Schülerinnen und fünf Schüler.
+- **schwer** *(nặng, khó)*: Ist Ihr Gepäck sehr schwer? Das ist eine schwere Arbeit.
+- **<span style="color: #E91E63;">die Schwester, -n</span>** *(chị/em gái)*: Meine Schwester kommt am Dienstag.
+- **schwimmen** *(bơi)*: Ich schwimme jeden Tag einen Kilometer.
+  - **<span style="color: #4CAF50;">das Schwimmbad</span>** *(hồ bơi)*: Kommst du mit ins Schwimmbad?
+- **<span style="color: #2196F3;">der See</span>** *(hồ)*: Komm, wir fahren zum Starnberger See.
+- **sehen** *(nhìn, thấy)*: Ich kann dich nicht sehen. Ich habe diesen Jungen schon einmal gesehen.
+  - **<span style="color: #E91E63;">die Sehenswürdigkeit, -en</span>** *(danh lam thắng cảnh)*: Welche Sehenswürdigkeiten gibt es in Frankfurt?
+- **sehr** *(rất)*: Danke sehr! Das ist sehr schwer.
+- **sein** *(là, của anh ấy)*: Herr Müller ist in seinem Zimmer. Mir ist kalt. Ich bin dreiundzwanzig.
+  - **an sein** *(đang bật)*: Das Licht ist noch an.
+  - **auf sein** *(đang mở)*: Das Fenster ist noch auf.
+  - **weg sein** *(đã đi khỏi)*: Herr Meier ist schon weg.
+  - **zu sein** *(đang đóng)*: Die Tür ist zu.
+- **seit** *(từ, kể từ khi)*: Ich wohne seit drei Jahren in Köln.
+- **selbstständig** *(độc lập, tự kinh doanh)*: Er ist selbstständig.
+- **sich** *(bản thân - đại từ phản thân)*: Sie müssen sich erst anmelden.
+- **sie** *(cô ấy, họ)*: Wie heißt sie?
+- **Sie** *(Ngài, Bà - trang trọng)*: Wie heißen Sie, bitte?
+- **sitzen** *(ngồi)*: Wo sitzen Sie?
+- **so** *(như vậy, quá)*: Sie müssen das so machen! Fahren Sie bitte nicht so schnell! Meine Frau ist so groß wie ich. So, das war's/wär's!
+- **<span style="color: #4CAF50;">das Sofa</span>** *(ghế sô pha)*: Das Sofa ist neu.
+- **sofort** *(ngay lập tức)*: Bitte antworten Sie sofort.
+- **<span style="color: #2196F3;">der Sohn, -ö, e</span>** *(con trai)*: Das ist Hans, mein Sohn.
+- **sollen** *(nên, phải)*: Soll ich kommen? Was soll ich mitbringen?
+- **<span style="color: #E91E63;">die Sonne</span>** *(mặt trời)*: Die Sonne scheint.
+- **spät** *(muộn)*: Es ist schon spät, ich muss gehen.
+- **später** *(muộn hơn, sau này)*: Das können wir später machen.
+- **<span style="color: #E91E63;">die Speisekarte</span>** *(thực đơn)*: Bringen Sie mir die Speisekarte, bitte.
+- **spielen** *(chơi)*: Die Kinder spielen draußen. Spielen Sie Karten?
+- **<span style="color: #2196F3;">der Sport</span>** *(thể thao)*: Ich mache viel Sport.
+- **<span style="color: #E91E63;">die Sprache, -n</span>** *(ngôn ngữ)*: Welche Sprachen sprichst du?
+- **sprechen** *(nói)*: Kann ich (mit) Herrn Klein sprechen?
+- **<span style="color: #E91E63;">die Stadt, -ä, e</span>** *(thành phố)*: Heidelberg ist eine alte Stadt.
+- **stehen** *(đứng, nằm ở)*: Ich glaube es nicht, aber es steht in der Zeitung. Der Bus steht schon an der Haltestelle.
+- **<span style="color: #E91E63;">die Stelle, -n</span>** *(vị trí, chỗ làm)*: Ich habe eine neue Stelle.
+- **stellen** *(đặt, để)*: Stell die Tasche rechts in die Ecke!
+- **<span style="color: #2196F3;">der Stock</span>** *(tầng)*: Unsere Wohnung liegt im ersten Stock.
+- **<span style="color: #E91E63;">die Straße, -n</span>** *(con đường)*: In welcher Straße wohnen Sie?
+- **<span style="color: #E91E63;">die Straßenbahn</span>** *(xe điện)*: Wo fährt die Straßenbahn ab?
+- **studieren** *(học đại học)*: Ich studiere in Mainz.
+  - **<span style="color: #4CAF50;">das Studium</span>** *(việc học đại học)*: Das Studium beginnt im Oktober.
+  - **<span style="color: #2196F3;">der Student, -en / die Studentin, -nen</span>** *(sinh viên)*: Ich bin Studentin.
+- **<span style="color: #E91E63;">die Stunde, -n</span>** *(giờ)*: Ich bin in einer Stunde zurück.
+- **suchen** *(tìm kiếm)*: Suchst du etwas?
+
+## T
+
+- **tanzen** *(khiêu vũ, nhảy múa)*: Tanzen Sie gern?
+- **<span style="color: #E91E63;">die Tasche, -n</span>** *(cái túi)*: Ich habe die Schlüssel in der Tasche.
+- **<span style="color: #4CAF50;">das Taxi, -s</span>** *(xe taxi)*: Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.
+- **<span style="color: #2196F3;">der Tee</span>** *(trà)*: Ich trinke morgens immer Tee.
+- **<span style="color: #2196F3;">der Teil, -e</span>** *(phần)*: Lies bitte auch den zweiten Teil.
+- **telefonieren** *(gọi điện thoại)*: Darf ich mal telefonieren?
+  - **<span style="color: #4CAF50;">das Telefon</span>** *(điện thoại)*: Haben Sie Telefon?
+- **<span style="color: #2196F3;">der Termin, -e</span>** *(cuộc hẹn)*: Am besten machen wir sofort einen Termin.
+- **<span style="color: #2196F3;">der Test</span>** *(bài kiểm tra)*: Der Test war einfach.
+- **teuer** *(đắt)*: Das ist mir zu teuer.
+- **<span style="color: #2196F3;">der Text, -e</span>** *(văn bản)*: Lesen Sie bitte diesen Text.
+- **<span style="color: #4CAF50;">das Thema</span>** *(chủ đề)*: Wir sprechen heute über das Thema „Essen und Trinken“.
+- **<span style="color: #4CAF50;">das Ticket, -s</span>** *(vé)*: Wie viel kostet das Ticket?
+- **<span style="color: #2196F3;">der Tisch, -e</span>** *(cái bàn)*: Die Fotos liegen auf dem Tisch.
+- **<span style="color: #E91E63;">die Tochter, -ö</span>** *(con gái)*: Das ist meine Tochter Katharina.
+- **<span style="color: #E91E63;">die Toilette, -en</span>** *(nhà vệ sinh)*: Wo ist die Toilette, bitte?
+- **<span style="color: #E91E63;">die Tomate, -n</span>** *(quả cà chua)*: Die Tomate ist noch grün.
+- **tot** *(chết)*: Sein Vater ist schon lange tot.
+- **sich treffen** *(gặp gỡ)*: Ich treffe in der Stadt einen Kollegen. Wir treffen uns immer freitags.
+- **<span style="color: #E91E63;">die Treppe, -n</span>** *(cầu thang)*: Die Toilette? Die Treppe hoch und dann links.
+- **trinken** *(uống)*: Möchtest du etwas trinken?
+- **tschüss** *(tạm biệt)*: Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
+- **tun** *(làm)*: Ich habe noch etwas zu tun. Was tut Ihr Mann?
+
+## U
+
+- **über** *(qua, về, trên)*: Gehen Sie hier über die Straße. Er wohnt im zweiten Stock über Familie Meier. Sind Sie über 18?
+- **übernachten** *(ngủ qua đêm)*: Du kannst bei mir übernachten.
+- **überweisen** *(chuyển khoản)*: Sie können das Geld auch überweisen.
+- **<span style="color: #E91E63;">die Uhr</span>** *(đồng hồ, giờ)*: Es ist vier Uhr.
+- **um** *(vào lúc, quanh)*: Er kommt um sieben Uhr. Da kommt er gerade um die Ecke.
+- **umziehen** *(chuyển nhà)*: Nächsten Monat ziehen wir um.
+- **und** *(và)*: Peter und Helmut sind meine Söhne.
+- **unser-** *(của chúng tôi)*: Das ist unsere Lehrerin.
+- **unten** *(bên dưới)*: Er wohnt ganz unten im Haus.
+- **unter** *(dưới)*: Unter uns wohnt eine Familie mit drei Kindern.
+- **<span style="color: #2196F3;">der Unterricht</span>** *(tiết học)*: Wir haben Unterricht von 8.00 bis 12.00 Uhr.
+- **unterschreiben** *(ký tên)*: Wo muss ich unterschreiben?
+  - **<span style="color: #E91E63;">die Unterschrift</span>** *(chữ ký)*: Hier fehlt noch Ihre Unterschrift.
+- **<span style="color: #2196F3;">der Urlaub</span>** *(kỳ nghỉ)*: Ich nehme im September Urlaub.
+
+## V
+
+- **<span style="color: #2196F3;">der Vater, -ä</span>** *(bố)*: Mein Vater ist Arbeiter.
+- **verboten** *(bị cấm)*: Hier ist Rauchen verboten.
+- **verdienen** *(kiếm được)*: Ich verdiene 1.500 Euro im Monat.
+- **<span style="color: #2196F3;">der Verein</span>** *(câu lạc bộ, hiệp hội)*: Es gibt einen neuen Sportverein in der Stadt.
+- **verheiratet** *(đã kết hôn)*: Ich bin verheiratet und habe drei Kinder.
+- **verkaufen** *(bán)*: Er verkauft sein altes Auto.
+  - **<span style="color: #2196F3;">der Verkäufer, - / die Verkäuferin, -nen</span>** *(người bán hàng)*: Meine Mutter ist Verkäuferin im Kaufhaus.
+- **vermieten** *(cho thuê)*: Die Wohnung ist schon vermietet.
+  - **<span style="color: #2196F3;">der Vermieter</span>** *(chủ nhà)*: Unser Vermieter heißt Huber. Er wohnt auch hier.
+- **verstehen** *(hiểu)*: Können Sie mich verstehen?
+- **<span style="color: #2196F3;">der Verwandte, -n</span>** *(người họ hàng)*: Peter besucht seine Verwandten in Polen.
+- **viel** *(nhiều)*: Hier regnet es viel.
+- **vielleicht** *(có lẽ)*: Ich komme vielleicht mit dem Bus.
+- **von** *(từ, của)*: Das Auto von Felix ist kaputt. Er kommt gerade von Köln/von zu Hause.
+- **vor** *(trước)*: Der Termin war vor einer Stunde. Das Auto steht vor der Tür.
+- **<span style="color: #2196F3;">der Vorname, -n</span>** *(tên gọi)*: Ich heiße Müller, mein Vorname ist Eva.
+- **<span style="color: #E91E63;">die Vorsicht</span>** *(sự cẩn thận)*: Vorsicht! Da kommt ein Auto.
+- **sich vorstellen** *(giới thiệu bản thân)*: Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?
+- **<span style="color: #E91E63;">die Vorwahl</span>** *(mã vùng)*: Wie ist die Vorwahl von München?
+
+## W
+
+- **wandern** *(đi bộ đường dài)*: Wir wandern um den Chiemsee.
+- **wann** *(khi nào)*: Wann bist du fertig? Wann kann ich Sie anrufen? Wann sind Sie geboren?
+- **warten** *(chờ đợi)*: Können Sie ein paar Minuten warten? Auf wen warten Sie?
+- **warum** *(tại sao)*: Warum kommt er nicht?
+- **was** *(cái gì)*: Was ist das? Was möchten Sie?
+- **was für ein** *(loại gì)*: Was für eine Farbe möchten Sie?
+- **sich waschen** *(rửa, tắm)*: Wo kann ich mir die Hände waschen? Ich muss morgen waschen.
+- **<span style="color: #4CAF50;">das Wasser</span>** *(nước)*: Ein Glas Wasser, bitte.
+- **weh tun** *(làm đau)*: Ich muss zum Arzt. Mein Bein tut weh.
+- **weiblich** *(nữ giới)*: Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+- **<span style="color: #2196F3;">der Wein</span>** *(rượu vang)*: Nein danke, ich möchte keinen Wein.
+- **weit** *(xa)*: Zum Bahnhof ist es nicht weit.
+- **weiter** *(tiếp tục, xa hơn)*: Der Bus fährt nicht weiter.
+- **welch-** *(nào)*: Welches Buch möchtest du?
+- **<span style="color: #E91E63;">die Welt</span>** *(thế giới)*: Es gibt viele Probleme auf der Welt.
+- **wenig** *(ít)*: Ich habe leider nur wenig verstanden. Er verdient wenig.
+- **wer** *(ai)*: Wer ist das?
+- **werden** *(trở thành, sẽ)*: Mein Sohn will Arzt werden.
+- **<span style="color: #4CAF50;">das Wetter</span>** *(thời tiết)*: Wir hatten schlechtes Wetter.
+- **wichtig** *(quan trọng)*: Dieses Formular ist sehr wichtig.
+- **wie** *(như thế nào, như)*: Wie heißt du? Er schreibt wie ein Kind. Meine Frau ist so groß wie ich. Wie soll ich das machen? Wie groß ist die Wohnung? Wie bitte? Wie lange bist du schon hier?
+- **wiederholen** *(lặp lại)*: Können Sie das bitte wiederholen?
+- **<span style="color: #4CAF50;">das Wiederhören</span>** *(sự gặp lại qua điện thoại)*: Wir müssen jetzt Schluss machen. Also auf Wiederhören!
+- **<span style="color: #4CAF50;">das Wiedersehen</span>** *(sự gặp lại)*: Auf Wiedersehen!
+- **wie viel** *(bao nhiêu)*: Wie viel Milch nehmen Sie?
+- **willkommen** *(chào mừng)*: Herzlich willkommen!
+- **<span style="color: #2196F3;">der Wind</span>** *(gió)*: Der Wind kommt aus Osten.
+- **wir** *(chúng tôi)*: Wir lernen Deutsch.
+- **wissen** *(biết)*: Weißt du, wie er heißt?
+- **wo** *(ở đâu)*: Wo waren Sie im Urlaub? Wo ist die Post? Wo sind Sie geboren?
+- **woher** *(từ đâu)*: Woher kommen Sie?
+- **wohin** *(đi đâu)*: Wohin fährt dieser Bus? Wohin wollen Sie am Wochenende?
+- **wohnen** *(sống, ở)*: Ich wohne in München.
+  - **<span style="color: #E91E63;">die Wohnung, -en</span>** *(căn hộ)*: Seit wann haben Sie diese Wohnung?
+- **wollen** *(muốn)*: Wollen Sie einen Kaffee trinken?
+- **<span style="color: #4CAF50;">das Wort, -ö, er/-e</span>** *(từ vựng)*: Ich kenne das Wort nicht.
+- **wunderbar** *(tuyệt vời)*: Das Essen schmeckt wunderbar.
+
+## Z
+
+- **zahlen** *(trả tiền)*: Zahlen, bitte!
+- **<span style="color: #E91E63;">die Zeit</span>** *(thời gian)*: Ich habe heute keine Zeit.
+  - **zurzeit** *(hiện tại)*: Zurzeit habe ich sehr viel zu tun.
+- **<span style="color: #E91E63;">die Zeitung, -en</span>** *(tờ báo)*: Ich lese gern Zeitung.
+- **<span style="color: #E91E63;">die Zigarette, -n</span>** *(điếu thuốc lá)*: Wie teuer sind die Zigaretten?
+- **<span style="color: #4CAF50;">das Zimmer, -</span>** *(căn phòng)*: Das Zimmer ist groß. Öffne im Schlafzimmer das Fenster, bitte! Die Wohnung hat drei Zimmer. Ich habe ein Zimmer bestellt.
+- **<span style="color: #2196F3;">der Zoll</span>** *(hải quan)*: Wir müssen noch durch den Zoll.
+- **zu** *(tới, quá)*: Der Bus fährt zum Bahnhof. Ich gehe zu Fuß. Ich bin zu Hause.
+- **zufrieden** *(hài lòng)*: Ich bin mit der Wohnung zufrieden.
+- **<span style="color: #2196F3;">der Zug, -ü, e</span>** *(tàu hỏa)*: Ich fahre gern mit dem Zug.
+- **zurück** *(trở lại)*: Einmal Frankfurt und zurück. Wann kommst du zurück?
+- **zusammen** *(cùng nhau)*: Sollen wir zusammen essen gehen? Das macht zusammen 2 Euro 80.
+- **zwischen** *(ở giữa)*: Heidelberg liegt zwischen Frankfurt und Stuttgart.

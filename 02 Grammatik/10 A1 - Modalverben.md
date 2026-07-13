@@ -30,14 +30,14 @@
 - Ngôi **ich** và ngôi **er/sie/es** luôn **giống hệt nhau** và **không có đuôi**.
 - Số ít (ich, du, er/sie/es) thường bị biến âm (đổi nguyên âm) so với dạng nguyên thể (ngoại trừ *sollen* và *möchten*).
 
-| Ngôi | können | müssen | wollen | sollen | dürfen | mögen | möchten |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ich** | k**a**nn | m**u**ss | w**i**ll | soll | d**a**rf | m**a**g | möchte |
-| **du** | k**a**nn*st* | m**u**ss*t* | w**i**ll*st* | soll*st* | d**a**rf*st* | m**a**g*st* | möchte*st* |
-| **er / sie / es** | k**a**nn | m**u**ss | w**i**ll | soll | d**a**rf | m**a**g | möchte |
-| **wir** | können | müssen | wollen | sollen | dürfen | mögen | möchten |
-| **ihr** | könn*t* | müss*t* | woll*t* | soll*t* | dürf*t* | mög*t* | möchte*t* |
-| **sie / Sie** | können | müssen | wollen | sollen | dürfen | mögen | möchten |
+| Ngôi              | können       | müssen      | wollen       | sollen   | dürfen       | mögen       | möchten    |
+| :---------------- | :----------- | :---------- | :----------- | :------- | :----------- | :---------- | :--------- |
+| **ich**           | k**a**nn     | m**u**ss    | w**i**ll     | soll     | d**a**rf     | m**a**g     | möchte     |
+| **du**            | k**a**nn*st* | m**u**ss*t* | w**i**ll*st* | soll*st* | d**a**rf*st* | m**a**g*st* | möchte*st* |
+| **er / sie / es** | k**a**nn     | m**u**ss    | w**i**ll     | soll     | d**a**rf     | m**a**g     | möchte     |
+| **wir**           | können       | müssen      | wollen       | sollen   | dürfen       | mögen       | möchten    |
+| **ihr**           | könn*t*      | müss*t*     | woll*t*      | soll*t*  | dürf*t*      | mög*t*      | möchte*t*  |
+| **sie / Sie**     | können       | müssen      | wollen       | sollen   | dürfen       | mögen       | möchten    |
 
 ---
 
