@@ -1,7 +1,7 @@
 ## ✂️ Gruppe 1: Verben
 - **fahren** *(đi xe, lái xe)*: Ich fahre mit dem Auto zur Arbeit.
 - **feiern** *(ăn mừng, tổ chức tiệc)*: Wir feiern heute meinen Geburtstag.
-- **fehlen** *(thiếu, vắng mặt)*: Herr Müller không có mặt ở đây.
+- **fehlen** *(thiếu, vắng mặt)*: Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?
 - **fernsehen** *(xem tivi)*: Wollen wir heute Abend mal fernsehen?
 - **finden** *(tìm thấy)*: Wir müssen den Schlüssel finden.
 - **fliegen** *(bay)*: Ich fliege nicht gern.

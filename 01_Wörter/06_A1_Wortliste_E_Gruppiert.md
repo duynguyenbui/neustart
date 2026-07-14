@@ -6,7 +6,7 @@
 - **enden** *(kết thúc)*: Die Straße endet hier.
 - **entschuldigen** *(xin lỗi)*: Entschuldigen Sie bitte!
 - **erklären** *(giải thích)*: Kannst du mir das erklären?
-- **erlauben** *(cho phép)*: Rauchen ist hier không được phép.
+- **erlauben** *(cho phép)*: Rauchen ist hier nicht erlaubt.
 - **erzählen** *(kể)*: Wir müssen euch etwas erzählen!
 - **essen** *(ăn)*: Was gibt es zu essen?
 

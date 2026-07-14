@@ -1,7 +1,7 @@
 ## ✂️ Gruppe 1: Verben
 - **geben** *(đưa, cho)*: Kannst du mir bitte deinen Kugelschreiber geben?
 - **gefallen** *(làm hài lòng, thích)*: Das gefällt mir.
-- **gehen** *(đi)*: Ich weiß không rõ cái này chạy thế nào.
+- **gehen** *(đi)*: Ich weiß nicht, wie das geht. Wie geht's? Jetzt muss ich (aber) leider gehen. Ich muss zum Arzt gehen. Das geht nicht!
 - **gehören** *(thuộc về)*: Wem gehört das?
 - **glauben** *(tin)*: Sie können mir glauben, es ist so.
 - **gewinnen** *(chiến thắng)*: Wer gewinnt das Spiel?

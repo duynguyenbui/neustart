@@ -1,7 +1,7 @@
 ## ✂️ Gruppe 1: Verben
 - **haben** *(có)*: Ich habe ein neues Auto.
-- **halten** *(dừng lại, cầm)*: Dieser Zug không dừng lại ở Rüdesheim.
-- **heiraten** *(kết hôn)*: Meine Schwester lấy một người Nhật.
+- **halten** *(dừng lại, cầm)*: Dieser Zug hält nicht in Rüdesheim.
+- **heiraten** *(kết hôn)*: Meine Schwester heiratet einen Japaner.
 - **heißen** *(được gọi là)*: Ich heiße Charlotte Meier.
 - **helfen** *(giúp đỡ)*: Können Sie mir helfen, bitte?
 - **holen** *(lấy)*: Ich hole zwei Flaschen Wasser aus der Küche.
