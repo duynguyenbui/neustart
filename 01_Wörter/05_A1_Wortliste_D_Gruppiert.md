@@ -3,7 +3,7 @@
 - **dauern** *(kéo dài)*: Wie lange dauert der Film?
 - **drucken** *(in)*: Bitte drucke das Formular für mich.
 - **drücken** *(nhấn)*: Drück hier, dann geht der Computer an.
-- **dürfen** *(được phép)*: Sie dürfen hier không được hút thuốc.
+- **dürfen** *(được phép)*: Sie dürfen hier nicht rauchen. Darf ich Sie zu einem Kaffee einladen? Es darf nicht mehr als 15 Euro kosten.
 - **sich duschen** *(tắm vòi sen)*: Ich bade nicht so gern, ich dusche lieber.
 
 ---
