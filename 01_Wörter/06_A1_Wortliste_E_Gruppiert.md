@@ -1,7 +1,7 @@
-## ✂️ Gruppe 1: Verben
-- **einkaufen** *(mua sắm)*: Ich muss noch für morgen einkaufen.
-- **einladen** *(mời)*: Darf ich Sie zu einem Kaffee einladen?
-- **einsteigen** *(lên xe)*: Schnell, steig ein, der Zug fährt gleich.
+## ✂️ Gruppe 1: Verben (có động từ tách đánh dấu `|`)
+- **ein|kaufen** *(mua sắm - động từ tách)*: Ich muss noch für morgen einkaufen.
+- **ein|laden** *(mời - động từ tách)*: Darf ich Sie zu einem Kaffee einladen?
+- **ein|steigen** *(lên xe - động từ tách)*: Schnell, steig ein, der Zug fährt gleich.
 - **empfehlen** *(giới thiệu, khuyên)*: Welchen Wein können Sie mir empfehlen?
 - **enden** *(kết thúc)*: Die Straße endet hier.
 - **entschuldigen** *(xin lỗi)*: Entschuldigen Sie bitte!

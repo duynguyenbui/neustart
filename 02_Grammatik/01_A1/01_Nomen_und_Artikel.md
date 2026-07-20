@@ -50,7 +50,7 @@ Ba mạo từ cơ bản ở trình độ A1:
 
 Phần quy tắc chi tiết về cách nhận biết và phân biệt giống danh từ dựa vào nghĩa và đuôi từ đã được chuyển sang một bài riêng để bạn dễ tra cứu hơn:
 
-👉 **Xem chi tiết tại:** [[02_Grammatik/01_A1/16_Genus_der_Nomen]]
+👉 **Xem chi tiết tại:** [[15_Genus_der_Nomen (*)]]
 ## 4. Cách học danh từ hiệu quả
 
 ### 4.1 Học theo cụm — không học từ đơn lẻ

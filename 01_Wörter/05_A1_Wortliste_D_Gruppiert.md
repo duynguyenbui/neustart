@@ -1,4 +1,4 @@
-## ✂️ Gruppe 1: Verben
+## ✂️ Gruppe 1: Verben (động từ thường / không tách)
 - **danken** *(cảm ơn)*: Ich danke Ihnen für die Einladung.
 - **dauern** *(kéo dài)*: Wie lange dauert der Film?
 - **drucken** *(in)*: Bitte drucke das Formular für mich.

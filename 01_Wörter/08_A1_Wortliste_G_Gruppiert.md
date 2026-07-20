@@ -1,4 +1,4 @@
-## ✂️ Gruppe 1: Verben
+## ✂️ Gruppe 1: Verben (động từ thường / không tách)
 - **geben** *(đưa, cho)*: Kannst du mir bitte deinen Kugelschreiber geben?
 - **gefallen** *(làm hài lòng, thích)*: Das gefällt mir.
 - **gehen** *(đi)*: Ich weiß nicht, wie das geht. Wie geht's? Jetzt muss ich (aber) leider gehen. Ich muss zum Arzt gehen. Das geht nicht!

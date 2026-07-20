@@ -1,11 +1,11 @@
-## ✂️ Gruppe 1: Verben
+## ✂️ Gruppe 1: Verben (có động từ tách đánh dấu `|`)
 - **fahren** *(đi xe, lái xe)*: Ich fahre mit dem Auto zur Arbeit.
 - **feiern** *(ăn mừng, tổ chức tiệc)*: Wir feiern heute meinen Geburtstag.
 - **fehlen** *(thiếu, vắng mặt)*: Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?
-- **fernsehen** *(xem tivi)*: Wollen wir heute Abend mal fernsehen?
+- **fern|sehen** *(xem tivi - động từ tách)*: Wollen wir heute Abend mal fernsehen?
 - **finden** *(tìm thấy)*: Wir müssen den Schlüssel finden.
 - **fliegen** *(bay)*: Ich fliege nicht gern.
-  - **abfliegen** *(cất cánh)*: Wann fliegst du ab?
+  - **ab|fliegen** *(cất cánh - động từ tách)*: Wann fliegst du ab?
 - **fragen** *(hỏi)*: Er möchte Sie etwas fragen.
 - **sich freuen** *(vui mừng)*: Ich freue mich auf den Urlaub.
 - **frühstücken** *(ăn sáng)*: Am Sonntag frühstücke ich gern im Bett.

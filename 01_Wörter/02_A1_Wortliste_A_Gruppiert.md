@@ -1,4 +1,4 @@
-## ✂️ Gruppe 1: Trennbare Verben
+## ✂️ Gruppe 1: Trennbare Verben (động từ tách)
 Các động từ có tiền tố `ab-`, `an-`, `auf-`, `aus-` chắc chắn là động từ tách. Khi đặt câu, tiền tố bị đá xuống cuối cùng.*
 
 **Tiền tố AB- (rời đi, tách ra):**

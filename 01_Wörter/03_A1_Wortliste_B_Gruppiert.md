@@ -1,4 +1,4 @@
-## 🔒 Gruppe 1: Untrennbare Verben
+## 🔒 Gruppe 1: Untrennbare Verben (động từ không tách)
 Các động từ bắt đầu bằng `be-, ver-, ent-, emp-, er-, ge-, miss-, zer-` sẽ KHÔNG BAO GIỜ TÁCH. Cứ chia động từ bình thường và để nguyên tiền tố ở đầu.*
 
 **Tiền tố BE-:**

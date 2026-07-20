@@ -1,6 +1,3 @@
-> [!INFO]+ Mục tiêu tài liệu
-> Đây là bảng tổng hợp tra cứu nhanh toàn bộ các giới từ đã học. Bạn có thể sử dụng bảng này để ôn tập nhanh hoặc đối chiếu khi làm bài tập ngữ pháp.
-
 ## 1. Giới từ đi với AKKUSATIV (Tân ngữ trực tiếp)
 > **Mẹo nhớ:** FUDOGBE
 > Các giới từ này LUÔN bắt buộc tân ngữ theo sau phải ở cách Akkusativ.

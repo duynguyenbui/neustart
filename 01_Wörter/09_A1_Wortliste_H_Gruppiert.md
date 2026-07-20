@@ -1,4 +1,4 @@
-## ✂️ Gruppe 1: Verben
+## ✂️ Gruppe 1: Verben (động từ thường / không tách)
 - **haben** *(có)*: Ich habe ein neues Auto.
 - **halten** *(dừng lại, cầm)*: Dieser Zug hält nicht in Rüdesheim.
 - **heiraten** *(kết hôn)*: Meine Schwester heiratet einen Japaner.

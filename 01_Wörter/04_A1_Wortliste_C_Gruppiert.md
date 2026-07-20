@@ -1,4 +1,4 @@
-## ✂️ Gruppe 1: Verben
+## ✂️ Gruppe 1: Verben (không có mục)
 *Không có động từ bắt đầu bằng chữ C ở trình độ A1.*
 
 ---
