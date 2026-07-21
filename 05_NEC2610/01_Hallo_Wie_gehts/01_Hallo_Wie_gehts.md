@@ -148,7 +148,7 @@ Khi giới thiệu hoặc nói về một người thứ ba (không tham gia cu�
 > [!NOTE]
 > **Trường hợp đặc biệt (như động từ heißen):**
 > Thân động từ là *heiß-* kết thúc bằng âm **ß** (phát âm như /s/). Theo quy tắc, ngôi **du** phải thêm đuôi **-st** (*heißst*). Tuy nhiên, để tránh việc có quá nhiều âm /s/ đi liền nhau, ta chỉ cần thêm đuôi **-t** cho ngôi **du** $\rightarrow$ **du heißt** (giống hệt ngôi er/sie/es).
-> Chi tiết xem tại [[13_Verbkonjugation_im_Präsens (*)]].
+> Chi tiết xem tại [[13_Verbkonjugation_im_Präsens]].
 
 #### B. Động từ biến đổi nguyên âm (Unregelmäßige Verben)
 Một số động từ thay đổi nguyên âm ở thân từ đối với các ngôi số ít **du** và **er/sie/es**:
