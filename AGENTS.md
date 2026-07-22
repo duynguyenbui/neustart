@@ -5,6 +5,7 @@ Dự án này là một kho lưu trữ kiến thức (Obsidian Vault) cá nhân 
 # Structure
 
 Kho lưu trữ được cấu trúc theo các thư mục và tệp tin sau:
+
 - **`01_Wörter`**: Kho từ vựng, cụm từ và từ điển cá nhân.
 - **`02_Grammatik`**: Các bài viết chuyên sâu về ngữ pháp tiếng Đức.
 - **`03_Sätze`**: Các mẫu câu giao tiếp và cấu trúc câu phổ biến.
@@ -25,3 +26,4 @@ Tệp tin này liệt kê các quy tắc và hướng dẫn áp dụng trên to�
 - **Always Explain Grammar:** @.agents/rules/always-explain-grammar.md — Luôn giải thích chi tiết ngữ pháp tiếng Đức khi người dùng làm bài tập hoặc luyện viết.
 - **Source-First Documentation:** @.agents/rules/source-first-documentation.md — Bắt buộc AI Agent tìm tài liệu chính xác trong vault trước, đặc biệt là tài liệu ngữ pháp, rồi mới tìm nguồn bên ngoài khi cần.
 - **No Redundant H1:** @.agents/rules/no-redundant-h1.md — Không thêm thẻ Heading 1 (`#`) trùng lặp với tên file ở đầu các tài liệu do Obsidian đã tự động hiển thị tên file làm tiêu đề.
+- **Remember Obsidian:** @.agents/rules/remember-obsidian.md — Luôn ghi nhớ đây là Obsidian Vault, tham khảo @AGENTS.md trước khi thay đổi file và bảo toàn cú pháp, liên kết cùng cấu trúc của vault.
