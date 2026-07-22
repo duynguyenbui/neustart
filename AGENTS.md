@@ -14,7 +14,7 @@ Kho lưu trữ được cấu trúc theo các thư mục và tệp tin sau:
 - **`06_Tagesnotizen`**: Nhật ký học tập và ghi chú hàng ngày (daily notes).
 - **`99_Schreibübung.md`**: Tệp tin chuyên dụng để luyện viết tiếng Đức.
 - **`.agents/`**: Cấu trúc cấu hình, kỹ năng (skills) và quy tắc (rules) dành cho trợ lý AI.
-- **`docs/`**: Thư mục lưu trữ các tài liệu tham khảo, giáo trình học tập (ví dụ: Wortliste).
+- **`100_Docs/`**: Thư mục lưu trữ các tài liệu tham khảo, giáo trình học tập (ví dụ: Wortliste).
 
 # Project Rules
 
@@ -27,3 +27,4 @@ Tệp tin này liệt kê các quy tắc và hướng dẫn áp dụng trên to�
 - **Source-First Documentation:** @.agents/rules/source-first-documentation.md — Bắt buộc AI Agent tìm tài liệu chính xác trong vault trước, đặc biệt là tài liệu ngữ pháp, rồi mới tìm nguồn bên ngoài khi cần.
 - **No Redundant H1:** @.agents/rules/no-redundant-h1.md — Không thêm thẻ Heading 1 (`#`) trùng lặp với tên file ở đầu các tài liệu do Obsidian đã tự động hiển thị tên file làm tiêu đề.
 - **Remember Obsidian:** @.agents/rules/remember-obsidian.md — Luôn ghi nhớ đây là Obsidian Vault, tham khảo @AGENTS.md trước khi thay đổi file và bảo toàn cú pháp, liên kết cùng cấu trúc của vault.
+- **Numbered Naming Convention:** @.agents/rules/numbered-naming-convention.md — Tên thư mục và tệp nội dung học tập phải bắt đầu bằng số thứ tự tăng dần, không dùng dấu cách, dùng `_` để phân tách từ và chỉ thêm `__` ở cuối khi người dùng yêu cầu đánh dấu quan trọng.
