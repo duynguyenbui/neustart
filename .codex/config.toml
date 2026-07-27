@@ -1,0 +1,19 @@
+# MCP Obsidian
+[mcp_servers.mcp_obsidian]
+command = "/opt/homebrew/bin/uv" # Custom Machine Configuration
+args = [
+    "--directory",
+    "/Users/nguyenbui/Projects/mcps/mcp-obsidian",
+    "run",
+    "--python",
+    "3.11",
+    "mcp-obsidian",
+] # Custom Machine Configuration
+default_tools_approval_mode = "prompt"
+startup_timeout_sec = 30
+
+[mcp_servers.mcp_obsidian.env]
+OBSIDIAN_API_KEY = "sample api key"
+OBSIDIAN_HOST = "127.0.0.1"
+OBSIDIAN_PORT = "27124"
+OBSIDIAN_PROTOCOL = "https"

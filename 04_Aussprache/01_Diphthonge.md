@@ -4,29 +4,29 @@ Nguồn ưu tiên: [Duden – Aussprache](https://www.duden.de/hilfe/aussprache)
 
 **Diphthonge** là nguyên âm đôi: hai nguyên âm ngắn đi liền nhau nhưng khi phát âm thì tạo thành **một âm dài liền mạch**, không ngắt quãng ở giữa.
 
-Ví dụ: **Haus** không đọc tách thành *Ha-us*, mà đọc thành một âm trượt liền.
+Ví dụ: **Haus** không đọc tách thành _Ha-us_, mà đọc thành một âm trượt liền.
 
 ## Các Diphthonge chính
 
-| Nhóm âm | Cách viết | Ví dụ | IPA |
-|---|---|---|---|
-| Ei-Laut | **ei** | ein | [aɪ] |
-| Ei-Laut | **ey** | Herr Meyer | [aɪ] |
-| Ei-Laut | **ai** | Mai | [aɪ] |
-| Ei-Laut | **ay** | Frau Mayer | [aɪ] |
-| Au-Laut | **au** | Haus | [aʊ] |
-| Au-Laut | **ao** | Kakao | [aʊ] |
-| Eu-Laut | **eu** | neu | [ɔʏ] |
-| Eu-Laut | **äu** | träumen | [ɔʏ] |
+| Nhóm âm | Cách viết | Ví dụ      | IPA  |
+| ------- | --------- | ---------- | ---- |
+| Ei-Laut | **ei**    | ein        | [aɪ] |
+| Ei-Laut | **ey**    | Herr Meyer | [aɪ] |
+| Ei-Laut | **ai**    | Mai        | [aɪ] |
+| Ei-Laut | **ay**    | Frau Mayer | [aɪ] |
+| Au-Laut | **au**    | Haus       | [aʊ] |
+| Au-Laut | **ao**    | Kakao      | [aʊ] |
+| Eu-Laut | **eu**    | neu        | [ɔʏ] |
+| Eu-Laut | **äu**    | träumen    | [ɔʏ] |
 
 ## Cần phân biệt
 
-| Cặp âm | Ví dụ | Ghi chú |
-|---|---|---|
-| [aʊ] – [aɪ] | **Haus** – **heiß** | `au` khác `ei` |
-| [aʊ] – [ɔʏ] | **auch** – **euch** | `au` khác `eu` |
+| Cặp âm      | Ví dụ                    | Ghi chú                 |
+| ----------- | ------------------------ | ----------------------- |
+| [aʊ] – [aɪ] | **Haus** – **heiß**      | `au` khác `ei`          |
+| [aʊ] – [ɔʏ] | **auch** – **euch**      | `au` khác `eu`          |
 | [aɪ] – [eː] | **leise** – **ich lese** | `ei` không phải `e` dài |
-| [aɪ] – [aː] | **Teil** – **Tal** | `ei` không phải `a` dài |
+| [aɪ] – [aː] | **Teil** – **Tal**       | `ei` không phải `a` dài |
 
 ## Quy tắc phát âm
 

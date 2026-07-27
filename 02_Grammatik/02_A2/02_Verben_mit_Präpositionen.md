@@ -74,10 +74,10 @@ Khi danh từ được thay bằng đại từ, **giới từ vẫn giữ nguyê
 
 Người học thường dịch giới từ theo tiếng Việt, dẫn đến lỗi sai:
 
-| Dịch sai kiểu Việt | Đúng trong tiếng Đức |
-|---|---|
-| ❌ warten *für* den Bus | ✅ warten **auf** den Bus |
-| ❌ denken *über* sie | ✅ denken **an** sie |
+| Dịch sai kiểu Việt        | Đúng trong tiếng Đức             |
+| ------------------------- | -------------------------------- |
+| ❌ warten *für* den Bus    | ✅ warten **auf** den Bus         |
+| ❌ denken *über* sie       | ✅ denken **an** sie              |
 | ❌ freuen *für* den Urlaub | ✅ sich freuen **auf** den Urlaub |
 
 > 🎯 **Quy tắc vàng:** Học *warten auf*, *denken an*, *freuen auf* như từ vựng đơn — **không** tách giới từ ra dịch.
@@ -93,20 +93,20 @@ Người học thường dịch giới từ theo tiếng Việt, dẫn đến l�
 
 ---
 
-## 6. Tóm Tắt Trong Tầm
+## 6. Tóm Tắt
 
-| Checklist | Nội dung |
-|---|---|
-| ☐ | Học động từ + giới từ như một đơn vị (không dịch từng từ) |
-| ☐ | Giới từ không dịch từng từ theo tiếng Việt |
-| ☐ | Phải nhớ cách đi theo sau (Akkusativ hay Dativ) |
-| ☐ | Đại từ thay thế danh từ: giới từ vẫn giữ nguyên và đứng trước |
-| ☐ | *auf* + Akkusativ: warten auf, sich freuen auf, sich vorbereiten auf |
-| ☐ | *an* + Akkusativ: denken an, sich erinnern an, glauben an |
-| ☐ | *mit* + Dativ: sprechen mit, telefonieren mit, anfangen mit |
-| ☐ | *bei* + Dativ: helfen bei, sich bedanken bei |
-| ☐ | *von* + Dativ: abhängen von, träumen von |
-| ☐ | Phân biệt: *freuen auf* (tương lai) vs. *freuen über* (hiện tại/quá khứ) |
+| STT | Nội dung                                                                 |
+| --- | ------------------------------------------------------------------------ |
+| ☐   | Học động từ + giới từ như một đơn vị (không dịch từng từ)                |
+| ☐   | Giới từ không dịch từng từ theo tiếng Việt                               |
+| ☐   | Phải nhớ cách đi theo sau (Akkusativ hay Dativ)                          |
+| ☐   | Đại từ thay thế danh từ: giới từ vẫn giữ nguyên và đứng trước            |
+| ☐   | *auf* + Akkusativ: warten auf, sich freuen auf, sich vorbereiten auf     |
+| ☐   | *an* + Akkusativ: denken an, sich erinnern an, glauben an                |
+| ☐   | *mit* + Dativ: sprechen mit, telefonieren mit, anfangen mit              |
+| ☐   | *bei* + Dativ: helfen bei, sich bedanken bei                             |
+| ☐   | *von* + Dativ: abhängen von, träumen von                                 |
+| ☐   | Phân biệt: *freuen auf* (tương lai) vs. *freuen über* (hiện tại/quá khứ) |
 
 ---
 
